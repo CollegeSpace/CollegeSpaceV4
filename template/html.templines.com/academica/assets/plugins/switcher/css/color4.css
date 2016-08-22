@@ -1,0 +1,52 @@
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+/* COLOR CSS 4*/
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+
+a,
+.color_primary,
+.rtd ul > li:before,
+.yamm .nav > li > a:hover,
+.footer-list__link:hover,
+.post_mod-a .entry-date,
+.post_mod-c .entry-date,
+.panel-default .panel-title,
+.accordion .panel-heading .panel-active,
+.breadcrumb > li .icon,
+.list-courses__number,
+.list-categories__link:hover .list-categories__name,
+.list-categories__link:hover .list-categories__number,
+.list-courses__meta .icon,
+blockquote:before,
+.about__title strong,
+.reviews__text:before {color: #ff8300;}
+
+
+.bg-color_primary,
+.btn-header,
+.btn-primary,
+.find-course__title,
+.find-course .form-group {background-color: #ff8300;}
+
+.btn-primary,
+.header.sticky .navbar,
+.staff .social-links li > a:hover {border-color: #ff8300;}
+
+.find-course_mod-a .form-group:after,
+.staff:hover .staff__inner,
+.post:hover .entry-main,
+.nav-tabs > li {
+	border-top-color: #ff8300;
+}
+.find-course_mod-b .form-group:after {
+	border-left-color: #ff8300;
+}
+
+a:hover, a:focus {
+	color: #BB6101;
+}
+.btn-primary {box-shadow: 0 4px 0 0 #BB6101;}
+.btn-primary:after {background-color: #BB6101;}
+
+.ip-header .ip-loader svg path.ip-loader-circle {
+	stroke: #ff8300;
+}

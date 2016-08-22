@@ -1,0 +1,21 @@
+
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+/* Debugged CSS  */
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+.ua-safari  img.sp-image{
+	margin-left:0 !important;
+}
+.ua-safari  .dropdown-menu {
+    margin-top: -10px !important;
+}
+
+.btn-header:after{
+	display:none !important;
+}
+
+
+html .find-course {
+    overflow: inherit;
+}

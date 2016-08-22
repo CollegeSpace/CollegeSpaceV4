@@ -1,0 +1,38 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	Academica
+Version:	1.0
+Assigned to:	Templines
+Primary use:	Academica
+-------------------------------------------------------------------*/
+
+/* FONTS*/
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:700,600,400,300|Montserrat:400,700|Lato:400,300,700,900,400italic);
+@import url('../fonts/font-awesome/css/font-awesome.min.css');
+@import url('../fonts/stroke/style.css');
+
+/* PLUGIN CSS */
+
+@import url('../plugins/sliderpro/css/slider-pro.css');
+@import url('../plugins/bootstrap/css/bootstrap.css');
+@import url('../plugins/isotope/isotope.css');
+@import url('../plugins/validation/validation-2.2.min.css');
+@import url('../plugins/owl-carousel/owl.carousel.css');
+@import url('../plugins/owl-carousel/owl.transitions.css');
+@import url('../plugins/owl-carousel/owl.theme.css');
+@import url('../plugins/prettyphoto/css/prettyPhoto.css');
+@import url('../plugins/yamm/yamm.css');
+@import url('../plugins/datetimepicker/jquery.datetimepicker.css');
+@import url('../plugins/animate/animate.css');
+@import url('../plugins/jelect/main.css');
+
+
+/* MAIN CSS */
+@import url('theme.css');
+@import url('sidebar.css');
+@import url('blog.css');
+@import url('responsive.css');
+@import url('color.css');
+@import url('debugging.css');
+
