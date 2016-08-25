@@ -1,0 +1,131 @@
+/*!
+ * Yamm!3 - Yet another megamenu for Bootstrap 3
+ * http://geedmo.github.com/yamm3
+ *
+ * @geedmo - Licensed under the MIT license
+ */
+
+
+.header.sticky  {
+	left: 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: #e8e9ed 1px solid;
+	z-index:888;
+	padding-top: 0px;
+}
+
+.header.sticky   .top-header{
+	display:none;
+}
+
+.header.sticky .navbar .yamm {
+	margin-top: 0;
+}
+.header.sticky .top-cart,
+.header.sticky #search-global-menu  {
+	display: none !important;
+}
+
+
+.yamm {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 0;
+    min-height: auto;
+    border: 0 none;
+    z-index: 777;
+    vertical-align: middle;
+    margin-right: 30px;
+}
+.yamm .navbar-collapse {
+	padding-left: 0;
+	padding-right: 0;
+}
+.yamm .navbar-brand {
+	color: #fff;
+	float: left;
+	font-size: 24px;
+	font-weight: 700;
+	height: 50px;
+	line-height: 21px;
+	padding: 14.5px 15px;
+	text-transform: uppercase;
+}
+.yamm .nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+.yamm .nav > li {
+	display: inline-block;
+	text-align: left;
+	padding-bottom: 10px;
+}
+.yamm .nav > li > a {
+	position: relative;
+	display: block;
+	padding: 0 10px 0 20px;
+	text-transform: uppercase;
+	transition: all .1s ease-out;
+  font-family: Montserrat , arial;
+	color: #222;
+}
+.yamm .dropdown.yamm-fw .dropdown-menu {
+	left: 0;
+	right: 0;
+}
+.yamm-fw {
+	position: inherit;
+}
+.yamm .navbar-toggle {
+	background: #e84c3d;
+}
+.yamm .navbar-toggle .icon-bar {
+	background: #fff;
+}
+.yamm .nav, .yamm .collapse, .yamm .dropup, .yamm .dropdown {
+	position: static;
+}
+.yamm .container {
+	position: relative;
+}
+.yamm .dropdown-menu {
+	left: auto;
+}
+
+
+.yamm .dropdown-menu .dropdown-menu {
+left: 97%;
+    top: 0;
+	opacity:0;
+	visibility:hidden;
+}
+
+.yamm .dropdown-menu   li:hover .dropdown-menu{
+	opacity:1;
+	visibility:visible;
+	
+}
+
+
+.yamm .yamm-fw .dropdown-menu {
+	left: 0;
+}
+.yamm .yamm-content {
+	padding: 20px 30px;
+}
+.yamm .dropdown.yamm-fw .dropdown-menu {
+	left: 0;
+	right: 0;
+}
+.yamm .nav-subtitle {
+	display:block;
+	color:#aaaaaa;
+	font-size:10px;
+	margin-top:5px;
+	line-height:1.2;
+}
+
+

@@ -1,0 +1,204 @@
+
+/*------------------------------------------------------------------
+[Table of contents]
+
+ - Sidebar and Widgets
+
+-------------------------------------------------------------------*/
+
+
+.sidebar {
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.sidebar_mod-a {
+	margin-left: 30px;
+}
+
+.widget {
+	position: relative;
+}
+.widget-default {
+	margin-bottom: 30px;
+	padding: 32px;
+	border-top: 3px solid transparent;
+	border-right: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	border-left: 1px solid #eee;
+}
+.widget-title_mod-a {
+	font-size: 16px;
+}
+.widget-title {
+	margin-top: 3px;
+}
+.widget_courses {
+	border-top-color: #ac33c5;
+}
+.widget_course-description .btn {
+	width: 100%;
+	padding: 24px 0 20px;
+	font-size: 17px;
+	font-weight: 700;
+}
+.widget_instructor {
+	border-top-color: #e84c3d;
+	overflow: hidden;
+}
+.widget_categories {
+	border-top-color: #92d438;
+}
+.widget_video {
+	margin-bottom: 30px;
+}
+.widget_social__wrap {
+	margin-top: 33px;
+}
+.widget_social {
+	border-top-color: #f6c640;
+}
+.widget_search {
+	margin-bottom: 40px;
+	padding-bottom: 0;
+	border-top: 3px solid #f6c640;
+	border-right: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	border-left: 1px solid #eee;
+}
+.widget_text {
+	border-top-color: #f6c640;
+}
+
+
+.instructor__img {
+	float: left;
+	width: 65px;
+	height: 65px;
+	margin-top: -5px;
+}
+.instructor__inner {
+	margin-top: 45px;
+	margin-left: 85px;
+}
+.instructor__name {
+	font-family: Montserrat;
+	font-size: 15px;
+	color: #333;
+	text-transform: uppercase;
+}
+.instructor__categories {
+	font-family: 'Open Sans';
+	font-size: 11px;
+	color: #3a99d7;
+	text-transform: uppercase;
+}
+
+
+.list-courses {
+	margin-top: 38px;
+}
+.list-courses__item {
+	margin-bottom: 33px;
+	overflow: hidden;
+}
+.list-courses__item:last-child {
+	margin-bottom: 14px;
+}
+.list-courses__img {
+	float: left;
+}
+.list-courses__inner {
+	margin-left: 114px;
+}
+.list-courses__title {
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 18px;
+	color: #333;
+	text-transform: uppercase;
+}
+.list-courses__title a {
+	color: #333;
+}
+.list-courses__meta {
+	font-family: 'Open Sans';
+	font-size: 11px;
+	color: #3a99d7;
+	text-transform: uppercase;
+}
+.list-courses__meta .icon {
+	margin-right: 9px;
+	font-size: 16px;
+	vertical-align: text-top;;
+}
+.list-courses__price {
+	margin-top: 7px;
+	font-family: 'Open Sans';
+	font-size: 11px;
+	color: #888;
+	text-transform: uppercase;
+}
+.list-courses__number {
+	font-size: 14px;
+	font-weight: 700;
+}
+
+
+.list-categories {
+	margin-top: 37px;
+}
+.list-categories__item {
+	margin-bottom: 15px;
+}
+.list-categories__link {
+	display: block;
+	overflow: hidden;
+}
+.list-categories__name {
+	font-family: Montserrat;
+	font-size: 12px;
+	color: #333;
+	text-transform: uppercase;
+}
+.list-categories__link:hover {
+	text-decoration: none;
+}
+.list-categories__number {
+	float: right;
+	font-weight: 700;
+	color: #777;
+}
+
+
+.form-search {
+	position: relative;
+	margin-top: 38px;
+	margin-right: -32px;
+	margin-left: -32px;
+	padding: 18px 30px;
+	background-color: #f7f7f7;
+}
+.form-search__input {
+	width: 100%;
+	padding-right: 30px;
+	border: none;
+	background-color: transparent;
+}
+.form-search__input:focus {
+	outline-style: none;
+}
+.form-search__input::-webkit-input-placeholder {
+	font-size: 14px;
+}
+.form-search__input::-moz-placeholder {
+	font-size: 14px;
+}
+.form-search__submit {
+	position: absolute;
+	top: 17px;
+	right: 25px;
+	font-size: 16px;
+	border: none;
+	background-color: transparent;
+}
