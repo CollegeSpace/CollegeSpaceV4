@@ -273,7 +273,7 @@
           <div class="row">
             <div class="col-xs-12">
               <div class="wrap-title">
-                <h2 class="ui-title-block">Latest on<strong>CollegeSpace updates</strong></h2>
+                <h2 class="ui-title-block">Latest on <strong>CollegeSpace updates</strong></h2>
                 <div class="ui-subtitle-block ui-subtitle-block_mod-b">Having over 9 million students worldwide and more than 50,000 online courses available.</div>
               </div>
               <div class="posts-wrap">
@@ -377,7 +377,7 @@
           <div class="row">
             <div class="col-xs-12">
               <div class="wrap-title">
-                <h2 class="ui-title-block">Read on<strong>NSITPEDIA</strong></h2>
+                <h2 class="ui-title-block">Read on <strong>NSITPEDIA</strong></h2>
                 <div class="ui-subtitle-block ui-subtitle-block_mod-b">Having over 9 million students worldwide and more than 50,000 online courses available.</div>
               </div>
               <div class="posts-wrap">
@@ -453,7 +453,7 @@
       </section>
       <!-- end section-video -->
 
-      <section class="section-subscribe wow fadeInUp" data-wow-duration="2s">
+    <!--  <section class="section-subscribe wow fadeInUp" data-wow-duration="2s">
         <div class="subscribe">
           <div class="container">
             <div class="row">
@@ -464,20 +464,20 @@
                   <div class="subscribe__description">Nulla feugiat nibh placerat fermentum rutrum ante risus euismod</div>
                 </div>
               </div>
-              <!-- end col -->
+              <!-- end col --
               <div class="col-sm-6">
                 <form class="subscribe__form" action="http://html.templines.com/academica/get">
                   <input class="subscribe__input form-control" type="text" placeholder="Your Email address ...">
                   <button class="subscribe__btn btn btn-success btn-effect">SUBSCRIBE</button>
                 </form>
               </div>
-              <!-- end col -->
+              <!-- end col --
             </div>
-            <!-- end row -->
+            <!-- end row --
           </div>
-          <!-- end container -->
+          <!-- end container --
         </div>
-      </section>
+      </section>-->
       <!-- end section-subscribe -->
 
       <div class="container">
@@ -675,7 +675,7 @@
         <div class="row">
           <div class="col-xs-12">
             <div class="footer-bottom">
-              <div class="copyright">Copyright © 2015 <a href="javascript:void(0);">Academica</a>, Online Learning  |  Created by <a href="javascript:void(0);">Templines</a></div>
+              <div class="copyright">Copyright © 2016 <a href="javascript:void(0);">Academica</a>, Online Learning  |  Created by <a href="javascript:void(0);">Templines</a></div>
               <ul class="social-links list-unstyled">
                 <li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
                 <li><a class="icon fa fa-twitter" href="javascript:void(0);"></a></li>
