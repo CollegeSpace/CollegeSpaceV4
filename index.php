@@ -273,7 +273,7 @@
           <div class="row">
             <div class="col-xs-12">
               <div class="wrap-title">
-                <h2 class="ui-title-block">Most <strong>Popular Courses</strong></h2>
+                <h2 class="ui-title-block">Latest on<strong>CollegeSpace updates</strong></h2>
                 <div class="ui-subtitle-block ui-subtitle-block_mod-b">Having over 9 million students worldwide and more than 50,000 online courses available.</div>
               </div>
               <div class="posts-wrap">
@@ -377,7 +377,7 @@
           <div class="row">
             <div class="col-xs-12">
               <div class="wrap-title">
-                <h2 class="ui-title-block">Online <strong>Education News</strong></h2>
+                <h2 class="ui-title-block">Read on<strong>NSITPEDIA</strong></h2>
                 <div class="ui-subtitle-block ui-subtitle-block_mod-b">Having over 9 million students worldwide and more than 50,000 online courses available.</div>
               </div>
               <div class="posts-wrap">
