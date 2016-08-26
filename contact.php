@@ -210,7 +210,7 @@
 							<div class="col-md-7">
 								<div class="section_map">
 									<h2 class="ui-title-inner decor decor_mod-a">OUR LOCATION</h2>
-									<img class="img-responsive" src="assets/img/map.jpg" height="505" width="670" alt="map">
+									<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.6881476285057!2d77.03287991440617!3d28.60913088242708!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d053516783c9b%3A0x7e540ab22a28446!2sNetaji+Subhas+Institute+Of+Technology!5e0!3m2!1sen!2sin!4v1472224751672" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 								</div>
 							</div><!-- end col -->
 						</div><!-- end row -->
