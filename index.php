@@ -645,19 +645,7 @@
             <!-- end col -->
 
             <div class="col-lg-2 col-sm-3">
-              <section class="footer-section">
-                <h3 class="footer-title">USEFUL LINKS</h3>
-                <ul class="footer-list list-unstyled">
-                  <li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Teachers & Staff</a></li>
-                  <li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Our Latest Courses</a></li>
-                  <li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Who We Are</a></li>
-                  <li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Get In Touch</a></li>
-                  <li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Courses Categories</a></li>
-                  <li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Support & FAQ’s</a></li>
-                  <li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Terms & Conditions</a></li>
-                  <li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Privacy Policy</a></li>
-                </ul>
-              </section>
+            
               <!-- end footer-section -->
             </div>
             <!-- end col -->
