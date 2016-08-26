@@ -9,11 +9,6 @@
 <link href="assets/css/master.css" rel="stylesheet">
 <!-- SWITCHER -->
 <link href="assets/plugins/switcher/css/switcher.css" rel="stylesheet" id="switcher-css" media="all">
-<link href="assets/plugins/switcher/css/color1.css" rel="alternate stylesheet" title="color1" media="all">
-<link href="assets/plugins/switcher/css/color2.css" rel="alternate stylesheet" title="color2" media="all">
-<link href="assets/plugins/switcher/css/color3.css" rel="alternate stylesheet" title="color3" media="all">
-<link href="assets/plugins/switcher/css/color4.css" rel="alternate stylesheet" title="color4" media="all">
-<link href="assets/plugins/switcher/css/color5.css" rel="alternate stylesheet" title="color5" media="all">
 <script src="assets/plugins/jquery/jquery-1.11.3.min.js"></script>
 </head>
 
@@ -682,20 +677,7 @@
             </div>
             <!-- end col -->
 
-            <div class="col-lg-4 col-sm-3">
-              <section class="footer-section">
-                <h3 class="footer-title">QUICK CONTACT</h3>
-                <form class="form">
-                  <div class="form-group">
-                    <input class="form-control" type="text" placeholder="Your Name">
-                    <input class="form-control" type="email" placeholder="Email address">
-                    <textarea class="form-control" rows="7" placeholder="Message"></textarea>
-                    <button class="btn btn-primary btn-effect">SEND MESSSAGE</button>
-                  </div>
-                </form>
-              </section>
-              <!-- end footer-section -->
-            </div>
+           
             <!-- end col -->
           </div>
           <!-- end row -->
