@@ -102,6 +102,7 @@ img.pull-left {
 .ui-subtitle-block {
 	font-size: 16px;
 	color: #777;
+	font-style: italic;
 }
 .ui-subtitle-block_mod-a {
 	margin-top: 15px;
@@ -2237,4 +2238,47 @@ header-inner .form-control::-moz-placeholder {
     left: -50%;
 }
 
+.work-nav #filters {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
 
+.work-nav #filters li {
+	margin: 0 0 30px 0;
+	padding: 0;
+}
+
+.work-nav #filters li a {
+	color: #000000;
+	font-size: 16px;
+	display: block;	
+}
+.work-nav{
+	border-width: thin;
+	border-style: solid;
+	border-color: #CCCCFF;
+	border-radius: 5px;
+	width: 200px;
+	color: #7f858f;
+	margin-left: 20px;
+	padding-top: 20px;
+	text-align: center;
+
+	float: left;
+}
+.work-nav #filters li a:hover {
+	color: #99CCFF;
+	text-decoration: none;
+}
+
+.work-nav #filters li a.selected {
+	color: #AD3333;
+	text-decoration: none;
+}
+
+#founders {
+	padding-bottom: 20px;
+	font-family: serif;
+	font-size: 2.6em;
+}
