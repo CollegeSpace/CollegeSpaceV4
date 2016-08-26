@@ -147,32 +147,21 @@
 							<div class="col-md-5">
 								<section class="section_contacts">
 									<h2 class="ui-title-inner decor decor_mod-a">Get in Touch with us</h2>
-									<p>Reprehenderit in voluptate velit esse cillum dolo reu fugiat nulla pariat ecated cupidatat non pried ent sun in asculpa.</p>
+									<p>We are here to help you</p>
 									<ul class="list-social list-inline">
 										<li>
-											<a href="javascript:void(0);"><i class="icon fa fa-facebook"></i></a>
+											<a href="www.facebook.com/collegespace"><i class="icon fa fa-facebook"></i></a>
 										</li>
 										<li>
-											<a href="javascript:void(0);"><i class="icon fa fa-twitter"></i></a>
+											<a href="https://twitter.com/college_space"><i class="icon fa fa-twitter"></i></a>
 										</li>
 										<li>
-											<a href="javascript:void(0);"><i class="icon fa fa-google-plus"></i></a>
+											<a href="https://plus.google.com/communities/118256355148042817165"><i class="icon fa fa-google-plus"></i></a>
 										</li>
 										<li>
-											<a href="javascript:void(0);"><i class="icon fa fa-linkedin"></i></a>
+											<a href="www.linkedin.com/company/collegespace"><i class="icon fa fa-linkedin"></i></a>
 										</li>
-										<li>
-											<a href="javascript:void(0);"><i class="icon fa fa-behance"></i></a>
-										</li>
-										<li>
-											<a href="javascript:void(0);"><i class="icon fa fa-vimeo"></i></a>
-										</li>
-										<li>
-											<a href="javascript:void(0);"><i class="icon fa fa-whatsapp"></i></a>
-										</li>
-										<li>
-											<a href="javascript:void(0);"><i class="icon fa fa-youtube-play"></i></a>
-										</li>
+										
 									</ul>
 									<ul class="list-contacts list-unstyled">
 										<li class="list-contacts__item">
@@ -186,21 +175,22 @@
 											<i class="icon stroke icon-Mail"></i>
 											<div class="list-contacts__inner">
 												<div class="list-contacts__title">EMAIL</div>
-												<div class="list-contacts__info">academica@domain.com</div>
+												<div class="list-contacts__info"> contact@collegespace.in</div>
 											</div>
 										</li>
 										<li class="list-contacts__item">
 											<i class="icon stroke icon-WorldWide"></i>
 											<div class="list-contacts__inner">
 												<div class="list-contacts__title">WEB</div>
-												<div class="list-contacts__info">http://study.college.edu</div>
+												<div class="list-contacts__info"><a>www.collegespace.in</a></div>
+												<div class="list-contacts__info"><a>nsitpedia.collegespace.in/</a></div>
 											</div>
 										</li>
 										<li class="list-contacts__item">
 											<i class="icon stroke icon-House"></i>
 											<div class="list-contacts__inner">
 												<div class="list-contacts__title">location</div>
-												<div class="list-contacts__info">35 Main Street, Arizona 33024</div>
+												<div class="list-contacts__info">Azad Hind Fauz Marg, Dwarka Sector-3, New Delhi 110078</div>
 											</div>
 										</li>
 									</ul>
