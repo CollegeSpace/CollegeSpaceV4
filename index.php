@@ -343,6 +343,7 @@
                 <!-- end post -->
               </div>
               <!-- end posts-wrap -->
+              <div style="text-align: center;"><button class="btn btn-effect btn-info">View all updates</button></div>
             </div>
             <!-- end col -->
           </div>
@@ -427,6 +428,7 @@
                 <!-- end post -->
               </div>
               <!-- end posts-wrap -->
+              <div style="text-align: center;"><button class="btn btn-effect btn-info">Go to NSITpedia</button></div>
             </div>
             <!-- end col -->
           </div>
