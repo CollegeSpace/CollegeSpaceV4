@@ -2362,16 +2362,22 @@ header-inner .form-control::-moz-placeholder {
 	font-family: "Times New Roman", Times, serif;
 	font-size: 2.6em;
 }*/
-#founders-title {
+#founders-title #members-title{
 	padding-bottom: 20px;
+	/*padding-left: 200px;*/
 	font-family: serif;
 	font-size: 2.6em;
 	font-style: bold;
 	margin: 30px 0px 30px 30px;
 }
+
+#founders-title {
+	margin: 30px 0px 30px 200px;
+}
+
 #team-title {
-	padding-bottom: 20px;
-	margin: 30px 0px 30px 30px;
+	padding-bottom: 50px;
+	margin-left: 100px;
 	font-family: serif;
 }
 
@@ -2385,3 +2391,66 @@ header-inner .form-control::-moz-placeholder {
 	/*height: 100px;*/
 }
 
+.field-heading{
+	padding-bottom: 20px;
+	font-family: serif;
+	/*font-size: 2.6em;*/
+	font-style: bold;
+	margin: 30px 0px 30px 30px;		
+}
+/*highlighter*/
+.container:before,
+.container:after {
+    content:"";
+    display:table;
+}
+
+.container:after {
+    clear:both;
+}
+
+.staff{
+	border: 10px solid #fff;
+	text-align: left;
+	text-transform: none;
+	margin: 15px;
+	z-index: 1;
+	box-shadow: 
+		0px 0px 0px 10px rgba(255,255,255,1), 
+		1px 1px 3px 10px rgba(0,0,0,0.2);
+	transition: 
+		opacity 0.4s linear, 
+		transform 0.4s ease-in-out, 
+		box-shadow 0.4s ease-in-out;
+		
+	-webkit-backface-visibility: hidden	
+}
+
+.staff__media, .staff__inner, .staff__categories,.staff__description,
+ .social-links{
+	 transition: 
+		opacity 0.2s linear, 
+		text-shadow 0.5s ease-in-out, 
+		color 0.5s ease-in-out;
+ }
+ 
+ .blur{
+	 box-shadow: 0px 0px 20px 10px rbga(255,255,255,1);
+	 transform: scale(0.9);
+	 opacity: 0.7;
+	  filter: blur(10px);
+		-webkit-filter: blur(10px);
+		-moz-filter: blur(10px);
+		-o-filter: blur(10px);
+		-ms-filter: blur(10px);
+	 
+ }
+
+.staff .act {
+	 transform: scale(1.05);
+	 box-shadow:
+	 0px 0px 0px 10px rbga(255,255,255,1)
+	 1px 11px 15px 10px rgba(0,0,0,0.4);
+	z-index: 100;	
+	opacity: 1;
+ }
