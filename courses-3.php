@@ -336,7 +336,7 @@
             <div class="col-lg-3 col-sm-3">
               <section class="footer-section">
                 <h3 class="footer-title">ABOUT US</h3>
-                <a href="javascript:void(0);"><img class="footer-logo img-responsive" src="assets/img/logo_white.png" height="50" width="195" alt="Logo"></a>
+                <a href="javascript:void(0);"><img class="footer-logo img-responsive" src="assets/img/logo.png" height="50" width="195" alt="Logo"></a>
                 <div class="footer-info">Fusce eleifend. Donec sapien sed pha seah lusa. Pellentesque lu amus lorem arcu sem per duiac. Vivamus porta. Sed at nisl praesnt blandit mauris vel erat.</div>
                 <div class="footer-contacts footer-contacts_mod-a"> <i class="icon stroke icon-Pointer"></i>
                   <address class="footer-contacts__inner">
