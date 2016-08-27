@@ -153,7 +153,7 @@
 								</div><!-- end wrap-title -->
 
 
-								<div id="founders"><h1><center>Founders</center></h1></div>
+								<div id="founders-title"><h1><center>Founders</center></h1></div>
 
 								 <nav id="options" class="work-nav">
                     <ul id="filters" class="option-set" data-option-key="filter">
@@ -172,11 +172,13 @@
 
 
 								<div class="posts-wrap">
-
-									<div class="staff">
-										<div class="staff__media"><img class="img-responsive" src="assets/media/staff/7.jpg" height="250" width="270" alt="foto"><div class="staff__hover"><a class="btn btn-primary btn-effect" href="javascript:void(0);">VIEW PROFILE</a></div></div>
+									<div id="#founders">
+									<div class="staff founder_profile">
+										<div class="staff__media"><img class="img-responsive" src="assets/media/staff/7.jpg" height="250" width="270" alt="foto"><div class="staff__hover"><button id="myBtn1" class="btn btn-primary btn-effect">View Profile</button></div></div>
 										<div class="staff__inner staff__inner_mod-a">
 											<h3 class="staff__title">Sophia grace</h3>
+
+                                           
 											<div class="staff__categories"><a class="post-link" href="javascript:void(0);">Artist</a></div>
 											<div class="staff__description">Easellus luctus nib pulvinar bien quam ligula sapien condime</div>
 											<ul class="social-links list-unstyled">
@@ -188,8 +190,8 @@
 										</div>
 									</div>
 
-									<div class="staff">
-										<div class="staff__media"><img class="img-responsive" src="assets/media/staff/5.jpg" height="250" width="270" alt="foto"><div class="staff__hover"><a class="btn btn-primary btn-effect" href="javascript:void(0);">VIEW PROFILE</a></div></div>
+									<div class="staff founder_profile">
+										<div class="staff__media"><img class="img-responsive" src="assets/media/staff/5.jpg" height="250" width="270" alt="foto"><div class="staff__hover"><a id="myBtn2" class="btn btn-primary btn-effect" href="javascript:void(0);">VIEW PROFILE</a></div></div>
 										<div class="staff__inner staff__inner_mod-a">
 											<h3 class="staff__title">MARIA LAURAN</h3>
 											<div class="staff__categories"><a class="post-link" href="javascript:void(0);">Developer</a></div>
@@ -202,9 +204,9 @@
 											</ul>
 										</div>
 									</div>
-
+									</div>
 									<div class="staff">
-										<div class="staff__media"><img class="img-responsive" src="assets/media/staff/3.jpg" height="250" width="270" alt="foto"><div class="staff__hover"><a class="btn btn-primary btn-effect" href="javascript:void(0);">VIEW PROFILE</a></div></div>
+										<div class="staff__media"><img class="img-responsive" src="assets/media/staff/3.jpg" height="250" width="270" alt="foto"><div class="staff__hover"><a  id="myBtn3" class="btn btn-primary btn-effect" href="javascript:void(0);">VIEW PROFILE</a></div></div>
 										<div class="staff__inner staff__inner_mod-a">
 											<h3 class="staff__title">ANDREW FINCH</h3>
 											<div class="staff__categories"><a class="post-link" href="javascript:void(0);">medical</a></div>
@@ -219,7 +221,7 @@
 									</div>
 
 									<div class="staff">
-										<div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="270" alt="foto"><div class="staff__hover"><a class="btn btn-primary btn-effect" href="javascript:void(0);">VIEW PROFILE</a></div></div>
+										<div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="270" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);">VIEW PROFILE</a></div></div>
 										<div class="staff__inner staff__inner_mod-a">
 											<h3 class="staff__title">SANDY ANDERSON</h3>
 											<div class="staff__categories"><a class="post-link" href="javascript:void(0);">Computer science</a></div>
@@ -293,6 +295,441 @@
 										</div>
 									</div>
 								</div><!-- end posts-wrap -->
+                                            <div id="myModal1" class="modal">
+
+                                           <!-- Modal content -->
+                                           <div class="modal-content">
+                                           <div class="modal-header">
+                                           <span class="close">×</span>
+                       <div class="img"></div><img class="img-responsive" src="assets/media/staff/7.jpg" height="100" width="100" alt="foto" align="middle">
+                                           
+                       <h2>Sofia Grace</h2>
+                                             </div>
+                                             <div class="modal-body">
+                                             <p>Name: Sofia Grace</p>
+                       <p>Designation: Web Head</p>
+                                             <p>Some other text...</p>
+                                             </div>
+                                             <div class="modal-footer">
+                      <ul class="social-links list-unstyled">
+                        <li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-twitter" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-google-plus" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-linkedin" href="javascript:void(0);"></a></li>
+                      </ul>
+                                             </div>
+                                             </div>
+
+                                             </div>
+
+                                             <script>
+                                             var modal = document.getElementById('myModal1');
+
+                                             // Get the button that opens the modal
+                                             var btn = document.getElementById("myBtn1");
+
+                                             // Get the element that closes the modal
+                                             var span = document.getElementsByClassName("close")[0];
+
+                                             // When the user clicks the button, open the modal 
+                                             btn.onclick = function() {
+                                             modal.style.display = "block";
+                                            }
+
+                                            // closing the modal
+                                            span.onclick = function() {
+                                            modal.style.display = "none";
+                                          }
+
+                                          // When the user clicks anywhere outside of the modal, close it
+                                          window.onclick = function(event) {
+                                          if (event.target == modal) {
+                                          modal.style.display = "none";
+                                          }
+                                        }
+                                         </script>
+
+                                         <div id="myModal2" class="modal">
+
+                                           <!-- Modal content -->
+                                           <div class="modal-content">
+                                           <div class="modal-header">
+                                           <span class="close">×</span>
+                       <div class="img"></div><img class="img-responsive" src="assets/media/staff/7.jpg" height="100" width="100" alt="foto" align="middle">
+                                           
+                       <h2>Sofia Grace</h2>
+                                             </div>
+                                             <div class="modal-body">
+                                             <p>Name: Sofia Grace</p>
+                       <p>Designation: Web Head</p>
+                                             <p>Some other text...</p>
+                                             </div>
+                                             <div class="modal-footer">
+                      <ul class="social-links list-unstyled">
+                        <li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-twitter" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-google-plus" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-linkedin" href="javascript:void(0);"></a></li>
+                      </ul>
+                                             </div>
+                                             </div>
+
+                                             </div>
+
+                                             <script>
+                                             var modal = document.getElementById('myModal2');
+
+                                             // Get the button that opens the modal
+                                             var btn = document.getElementById("myBtn2");
+
+                                             // Get the element that closes the modal
+                                             var span = document.getElementsByClassName("close")[0];
+
+                                             // When the user clicks the button, open the modal 
+                                             btn.onclick = function() {
+                                             modal.style.display = "block";
+                                            }
+
+                                            // closing the modal
+                                            span.onclick = function() {
+                                            modal.style.display = "none";
+                                          }
+
+                                          // When the user clicks anywhere outside of the modal, close it
+                                          window.onclick = function(event) {
+                                          if (event.target == modal) {
+                                          modal.style.display = "none";
+                                          }
+                                        }
+                                         </script>
+
+
+                                         <div id="myModal3" class="modal">
+
+                                           <!-- Modal content -->
+                                           <div class="modal-content">
+                                           <div class="modal-header">
+                                           <span class="close">×</span>
+                       <div class="img"></div><img class="img-responsive" src="assets/media/staff/7.jpg" height="100" width="100" alt="foto" align="middle">
+                                           
+                       <h2>Sofia Grace</h2>
+                                             </div>
+                                             <div class="modal-body">
+                                             <p>Name: Sofia Grace</p>
+                       <p>Designation: Web Head</p>
+                                             <p>Some other text...</p>
+                                             </div>
+                                             <div class="modal-footer">
+                      <ul class="social-links list-unstyled">
+                        <li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-twitter" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-google-plus" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-linkedin" href="javascript:void(0);"></a></li>
+                      </ul>
+                                             </div>
+                                             </div>
+
+                                             </div>
+
+                                             <script>
+                                             var modal = document.getElementById('myModal3');
+
+                                             // Get the button that opens the modal
+                                             var btn = document.getElementById("myBtn3");
+
+                                             // Get the element that closes the modal
+                                             var span = document.getElementsByClassName("close")[0];
+
+                                             // When the user clicks the button, open the modal 
+                                             btn.onclick = function() {
+                                             modal.style.display = "block";
+                                            }
+
+                                            // closing the modal
+                                            span.onclick = function() {
+                                            modal.style.display = "none";
+                                          }
+
+                                          // When the user clicks anywhere outside of the modal, close it
+                                          window.onclick = function(event) {
+                                          if (event.target == modal) {
+                                          modal.style.display = "none";
+                                          }
+                                        }
+                                         </script>
+
+                                         <div id="myModal" class="modal">
+
+                                           <!-- Modal content -->
+                                           <div class="modal-content">
+                                           <div class="modal-header">
+                                           <span class="close">×</span>
+                       <div class="img"></div><img class="img-responsive" src="assets/media/staff/7.jpg" height="100" width="100" alt="foto" align="middle">
+                                           
+                       <h2>Sofia Grace</h2>
+                                             </div>
+                                             <div class="modal-body">
+                                             <p>Name: Sofia Grace</p>
+                       <p>Designation: Web Head</p>
+                                             <p>Some other text...</p>
+                                             </div>
+                                             <div class="modal-footer">
+                      <ul class="social-links list-unstyled">
+                        <li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-twitter" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-google-plus" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-linkedin" href="javascript:void(0);"></a></li>
+                      </ul>
+                                             </div>
+                                             </div>
+
+                                             </div>
+
+                                             <script>
+                                             var modal = document.getElementById('myModal');
+
+                                             // Get the button that opens the modal
+                                             var btn = document.getElementById("myBtn");
+
+                                             // Get the element that closes the modal
+                                             var span = document.getElementsByClassName("close")[0];
+
+                                             // When the user clicks the button, open the modal 
+                                             btn.onclick = function() {
+                                             modal.style.display = "block";
+                                            }
+
+                                            // closing the modal
+                                            span.onclick = function() {
+                                            modal.style.display = "none";
+                                          }
+
+                                          // When the user clicks anywhere outside of the modal, close it
+                                          window.onclick = function(event) {
+                                          if (event.target == modal) {
+                                          modal.style.display = "none";
+                                          }
+                                        }
+                                         </script>
+
+                                         <div id="myModal" class="modal">
+
+                                           <!-- Modal content -->
+                                           <div class="modal-content">
+                                           <div class="modal-header">
+                                           <span class="close">×</span>
+                       <div class="img"></div><img class="img-responsive" src="assets/media/staff/7.jpg" height="100" width="100" alt="foto" align="middle">
+                                           
+                       <h2>Sofia Grace</h2>
+                                             </div>
+                                             <div class="modal-body">
+                                             <p>Name: Sofia Grace</p>
+                       <p>Designation: Web Head</p>
+                                             <p>Some other text...</p>
+                                             </div>
+                                             <div class="modal-footer">
+                      <ul class="social-links list-unstyled">
+                        <li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-twitter" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-google-plus" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-linkedin" href="javascript:void(0);"></a></li>
+                      </ul>
+                                             </div>
+                                             </div>
+
+                                             </div>
+
+                                             <script>
+                                             var modal = document.getElementById('myModal');
+
+                                             // Get the button that opens the modal
+                                             var btn = document.getElementById("myBtn");
+
+                                             // Get the element that closes the modal
+                                             var span = document.getElementsByClassName("close")[0];
+
+                                             // When the user clicks the button, open the modal 
+                                             btn.onclick = function() {
+                                             modal.style.display = "block";
+                                            }
+
+                                            // closing the modal
+                                            span.onclick = function() {
+                                            modal.style.display = "none";
+                                          }
+
+                                          // When the user clicks anywhere outside of the modal, close it
+                                          window.onclick = function(event) {
+                                          if (event.target == modal) {
+                                          modal.style.display = "none";
+                                          }
+                                        }
+                                         </script>
+
+                                         <div id="myModal" class="modal">
+
+                                           <!-- Modal content -->
+                                           <div class="modal-content">
+                                           <div class="modal-header">
+                                           <span class="close">×</span>
+                       <div class="img"></div><img class="img-responsive" src="assets/media/staff/7.jpg" height="100" width="100" alt="foto" align="middle">
+                                           
+                       <h2>Sofia Grace</h2>
+                                             </div>
+                                             <div class="modal-body">
+                                             <p>Name: Sofia Grace</p>
+                       <p>Designation: Web Head</p>
+                                             <p>Some other text...</p>
+                                             </div>
+                                             <div class="modal-footer">
+                      <ul class="social-links list-unstyled">
+                        <li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-twitter" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-google-plus" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-linkedin" href="javascript:void(0);"></a></li>
+                      </ul>
+                                             </div>
+                                             </div>
+
+                                             </div>
+
+                                             <script>
+                                             var modal = document.getElementById('myModal');
+
+                                             // Get the button that opens the modal
+                                             var btn = document.getElementById("myBtn");
+
+                                             // Get the element that closes the modal
+                                             var span = document.getElementsByClassName("close")[0];
+
+                                             // When the user clicks the button, open the modal 
+                                             btn.onclick = function() {
+                                             modal.style.display = "block";
+                                            }
+
+                                            // closing the modal
+                                            span.onclick = function() {
+                                            modal.style.display = "none";
+                                          }
+
+                                          // When the user clicks anywhere outside of the modal, close it
+                                          window.onclick = function(event) {
+                                          if (event.target == modal) {
+                                          modal.style.display = "none";
+                                          }
+                                        }
+                                         </script>
+
+
+                                         <div id="myModal" class="modal">
+
+                                           <!-- Modal content -->
+                                           <div class="modal-content">
+                                           <div class="modal-header">
+                                           <span class="close">×</span>
+                       <div class="img"></div><img class="img-responsive" src="assets/media/staff/7.jpg" height="100" width="100" alt="foto" align="middle">
+                                           
+                       <h2>Sofia Grace</h2>
+                                             </div>
+                                             <div class="modal-body">
+                                             <p>Name: Sofia Grace</p>
+                       <p>Designation: Web Head</p>
+                                             <p>Some other text...</p>
+                                             </div>
+                                             <div class="modal-footer">
+                      <ul class="social-links list-unstyled">
+                        <li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-twitter" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-google-plus" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-linkedin" href="javascript:void(0);"></a></li>
+                      </ul>
+                                             </div>
+                                             </div>
+
+                                             </div>
+
+                                             <script>
+                                             var modal = document.getElementById('myModal');
+
+                                             // Get the button that opens the modal
+                                             var btn = document.getElementById("myBtn");
+
+                                             // Get the element that closes the modal
+                                             var span = document.getElementsByClassName("close")[0];
+
+                                             // When the user clicks the button, open the modal 
+                                             btn.onclick = function() {
+                                             modal.style.display = "block";
+                                            }
+
+                                            // closing the modal
+                                            span.onclick = function() {
+                                            modal.style.display = "none";
+                                          }
+
+                                          // When the user clicks anywhere outside of the modal, close it
+                                          window.onclick = function(event) {
+                                          if (event.target == modal) {
+                                          modal.style.display = "none";
+                                          }
+                                        }
+                                         </script>
+
+
+                                         <div id="myModal" class="modal">
+
+                                           <!-- Modal content -->
+                                           <div class="modal-content">
+                                           <div class="modal-header">
+                                           <span class="close">×</span>
+                       <div class="img"></div><img class="img-responsive" src="assets/media/staff/7.jpg" height="100" width="100" alt="foto" align="middle">
+                                           
+                       <h2>Sofia Grace</h2>
+                                             </div>
+                                             <div class="modal-body">
+                                             <p>Name: Sofia Grace</p>
+                       <p>Designation: Web Head</p>
+                                             <p>Some other text...</p>
+                                             </div>
+                                             <div class="modal-footer">
+                      <ul class="social-links list-unstyled">
+                        <li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-twitter" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-google-plus" href="javascript:void(0);"></a></li>
+                        <li><a class="icon fa fa-linkedin" href="javascript:void(0);"></a></li>
+                      </ul>
+                                             </div>
+                                             </div>
+
+                                             </div>
+
+                                             <script>
+                                             var modal = document.getElementById('myModal');
+
+                                             // Get the button that opens the modal
+                                             var btn = document.getElementById("myBtn");
+
+                                             // Get the element that closes the modal
+                                             var span = document.getElementsByClassName("close")[0];
+
+                                             // When the user clicks the button, open the modal 
+                                             btn.onclick = function() {
+                                             modal.style.display = "block";
+                                            }
+
+                                            // closing the modal
+                                            span.onclick = function() {
+                                            modal.style.display = "none";
+                                          }
+
+                                          // When the user clicks anywhere outside of the modal, close it
+                                          window.onclick = function(event) {
+                                          if (event.target == modal) {
+                                          modal.style.display = "none";
+                                          }
+                                        }
+                                         </script>	
+
 							</div><!-- end col -->
 						</div><!-- end row -->
 					</div><!-- end container -->
@@ -414,9 +851,12 @@
 <script src="assets/js/wow.min.js"></script> 
 <script src="assets/js/custom.min.js"></script> 
 
-
+<script>
+$('.staff_media').on('click',function(){
+$('.staff').toggleClass('blurfilter');
+})
+</script>
 </body>
 
 <!-- Mirrored from html.templines.com/academica/instructors.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Aug 2016 15:47:51 GMT -->
 </html>
-

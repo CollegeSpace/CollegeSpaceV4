@@ -1,14 +1,11 @@
-/*------------------------------------------------------------------
+﻿/*------------------------------------------------------------------
 [Table of contents]
-
  - Global
  - Header
  - Footer
  - Components
  - Sections
  - Sliders
-
-
 -------------------------------------------------------------------*/
 
 
@@ -36,6 +33,12 @@ img.pull-left {
 	margin-right: 20px;
 }
 
+.blurfilter{
+	filter: blur(10px);
+	-webkit-filter: blur(10px);
+	-moz-filter: blur(10px);
+	-ms-filter: blur(10px);
+}
 
 #wrapper {
 	max-width: 1920px;
@@ -62,7 +65,7 @@ img.pull-left {
 	content: '';
 }
 .ui-title-page {
-	font-family: Montserrat , arial ;
+	font-family: Georgia , serif ;
 	font-size: 28px;
 	font-weight: 700;
 	color: #fff;
@@ -2277,8 +2280,108 @@ header-inner .form-control::-moz-placeholder {
 	text-decoration: none;
 }
 
-#founders {
+.img {
+    display: block;
+    margin: auto;
+}
+.modal {
+
+	display: none; 
+    position: fixed; 
+    z-index: 1; 
+    padding-top: 150px; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    
+    background-color: rgba(0,0,0,0.4); 
+           
+    
+}
+
+.modal-content {
+    position:relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 30%;
+    
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+
+@-webkit-keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+.close {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-header {
+
+    padding: 2px 16px;
+    background-color: #5cb85c;
+    color: white;
+}
+
+.modal-body {padding: 2px 16px;}
+
+.modal-footer {
+    padding: 2px 16px;
+    background-color: #5cb85c;
+    color: white;
+}
+
+
+
+/*#founders {
+	padding-bottom: 20px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 2.6em;
+}*/
+#founders-title {
 	padding-bottom: 20px;
 	font-family: serif;
 	font-size: 2.6em;
+	font-style: bold;
+	margin: 30px 0px 30px 30px;
 }
+#team-title {
+	padding-bottom: 20px;
+	margin: 30px 0px 30px 30px;
+	font-family: serif;
+}
+
+#founders {
+	float: right;
+	width: 320px;
+}
+
+.founder_profile {
+	width: 435px;
+	/*height: 100px;*/
+}
+
