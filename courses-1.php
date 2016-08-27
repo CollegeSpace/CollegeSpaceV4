@@ -518,7 +518,7 @@
 <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/modernizr.custom.js"></script>
 <script src="assets/js/waypoints.min.js"></script>
-<script src="../../cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+<script src="assets/js/jquery.easing.min.js"></script>
 
 <!--THEME-->
 <script  src="assets/plugins/sliderpro/js/jquery.sliderPro.min.js"></script>
