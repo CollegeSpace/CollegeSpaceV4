@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui">
-<title>CollegeSpace, Home-1</title>
+<title>CollegeSpace</title>
 <link href="favicon.png" type="image/x-icon" rel="shortcut icon">
 <link href="assets/css/master.css" rel="stylesheet">
 <!-- SWITCHER -->
@@ -67,31 +67,16 @@
                 </div>
                 <div id="navbar-collapse-1" class="navbar-collapse collapse">
                   <ul class="nav navbar-nav">
-                    <li class="dropdown"><a href="home.php">Home<span class="nav-subtitle">OUR World</span></a>
+                    <li class="dropdown"><a href="#">Home<span class="nav-subtitle">OUR World</span></a>
                      </li>
-					 <li class="dropdown"> <a href="courses-1.php">COURSES<span class="nav-subtitle">What We Offers</span></a>
-                      <ul role="menu" class="dropdown-menu">
-                        <li><a href="courses-category.php">courses category</a>
-                          <ul role="menu" class="dropdown-menu">
-                            <li><a href="courses-1.php">courses type 1</a> </li>
-                            <li><a href="courses-2.php">courses type 2</a> </li>
-                            <li><a href="courses-3.php">courses type 3</a></li>
-                          </ul>
-                        </li>
-                        <li><a href="course-details.php">course details</a></li>
-                      </ul>
+					 <li class="dropdown"> <a href="instructors.php">Team Page<span class="nav-subtitle">Meet us!</span></a>
+                    
                     </li>
-                    <li class="dropdown"> <a href="javascript:void(0);">PAGES<span class="nav-subtitle">Information</span></a>
-                      <ul role="menu" class="dropdown-menu">
-                        <li><a href="about.php">about</a> </li>
-                        <li><a href="instructors.php">instructors</a> </li>
-                      </ul>
+                    <li class="dropdown"> <a href="http://nsitpedia.collegespace.in/" target="_blank">Nsitpedia<span class="nav-subtitle">our personal blog</span></a>
+                      
                     </li>
-                    <li class="dropdown"> <a href="javascript:void(0);">BLOG<span class="nav-subtitle">Latest News</span></a>
-                      <ul role="menu" class="dropdown-menu">
-                        <li><a href="blog-1.php">blog</a> </li>
-                        <li><a href="blog-post.php">blog post</a> </li>
-                      </ul>
+                    <li class="dropdown"> <a href="http://updates.collegespace.in/" target="_blank">Updates<span class="nav-subtitle">Section for ghissus</span></a>
+                      
                     </li>
                     <li><a href="contact.php">CONTACT<span class="nav-subtitle">say us hi</span></a></li>
                   </ul>
