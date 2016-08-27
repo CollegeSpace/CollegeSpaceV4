@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui">
 <title>CollegeSpace Nsit</title>
-<link href="CSlogo.png" type="image/x-icon" rel="shortcut icon">
+<link href="favicon.png" type="image/x-icon" rel="shortcut icon">
 <link href="assets/css/master.css" rel="stylesheet">
 <!-- SWITCHER -->
 <link href="assets/plugins/switcher/css/switcher.css" rel="stylesheet" id="switcher-css" media="all">
