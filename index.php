@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui">
-<title>ACADEMICA, Home-1</title>
+<title>CollegeSpace, Home-1</title>
 <link href="favicon.png" type="image/x-icon" rel="shortcut icon">
 <link href="assets/css/master.css" rel="stylesheet">
 <!-- SWITCHER -->
@@ -60,7 +60,7 @@
                   </form>
                 </div>
               </div>
-              <a id="search-open" href="#fakelink"><i class="icon stroke icon-Search"></i></a> <a class="header-cart" href="http://html.templines.com/"> <i class="icon stroke icon-ShoppingCart"></i></a>
+              <a id="search-open" href="#fakelink"><i class="icon stroke icon-Search"></i></a> 
               <nav class="navbar yamm">
                 <div class="navbar-header hidden-md  hidden-lg  hidden-sm ">
                   <button type="button" data-toggle="collapse" data-target="#navbar-collapse-1" class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
@@ -68,13 +68,8 @@
                 <div id="navbar-collapse-1" class="navbar-collapse collapse">
                   <ul class="nav navbar-nav">
                     <li class="dropdown"><a href="home.php">Home<span class="nav-subtitle">OUR World</span></a>
-                      <ul role="menu" class="dropdown-menu">
-                        <li><a href="home-1.php">Home 1</a> </li>
-                        <li><a href="home-2.php">Home 2</a> </li>
-                        <li><a href="home-3.php">Home 3</a> </li>
-                      </ul>
-                    </li>
-                    <li class="dropdown"> <a href="courses-1.php">COURSES<span class="nav-subtitle">What We Offers</span></a>
+                     </li>
+					 <li class="dropdown"> <a href="courses-1.php">COURSES<span class="nav-subtitle">What We Offers</span></a>
                       <ul role="menu" class="dropdown-menu">
                         <li><a href="courses-category.php">courses category</a>
                           <ul role="menu" class="dropdown-menu">
@@ -649,7 +644,12 @@
               <!-- end footer-section -->
             </div>
             <!-- end col -->
-
+          <div class="col-lg-2 col-sm-3">
+            
+            </div>
+			<div class="col-lg-2 col-sm-3">
+            
+            </div>
             <div class="col-lg-3 col-sm-3">
               <section class="footer-section">
                 <h3 class="footer-title">LATEST TWEETS</h3>
@@ -660,7 +660,7 @@
                 <div class="tweets">
                   <div class="tweets__text">An agile framework can produce the type of lean marketing essential for the digital age <a href="javascript:void(0);">@aholmes360 #IMDS15</a></div>
                   <span class="tweets__time">9 hours ago</span> </div>
-                <a class="tweets__link" href="javascript:void(0);">Follow @Academica</a> </section>
+                <a class="tweets__link" href="https://twitter.com/college_space">Follow @college_space</a> </section>
               <!-- end footer-section -->
             </div>
             <!-- end col -->
@@ -675,14 +675,13 @@
         <div class="row">
           <div class="col-xs-12">
             <div class="footer-bottom">
-              <div class="copyright">Copyright © 2016 <a href="javascript:void(0);">Academica</a>, Online Learning  |  Created by <a href="javascript:void(0);">Templines</a></div>
+              <div class="copyright">Copyright © 2016 <a href="http://collegespace.in/">CollegeSpace</a>
               <ul class="social-links list-unstyled">
-                <li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
-                <li><a class="icon fa fa-twitter" href="javascript:void(0);"></a></li>
-                <li><a class="icon fa fa-google-plus" href="javascript:void(0);"></a></li>
-                <li><a class="icon fa fa-instagram" href="javascript:void(0);"></a></li>
-                <li><a class="icon fa fa-linkedin" href="javascript:void(0);"></a></li>
-                <li><a class="icon fa fa-youtube-play" href="javascript:void(0);"></a></li>
+                <li><a class="icon fa fa-facebook" href="https://www.facebook.com/collegespace/"></a></li>
+                <li><a class="icon fa fa-twitter" href="https://twitter.com/college_space"></a></li>
+                
+                <li><a class="icon fa fa-linkedin" href="https://www.linkedin.com/company/collegespace"></a></li>
+                
               </ul>
             </div>
             <!-- end footer-bottom -->
