@@ -150,7 +150,7 @@
 									<p>We are here to help you</p>
 									<ul class="list-social list-inline">
 										<li>
-											<a href="www.facebook.com/collegespace"><i class="icon fa fa-facebook"></i></a>
+											<a href="https://www.facebook.com/collegespace"><i class="icon fa fa-facebook"></i></a>
 										</li>
 										<li>
 											<a href="https://twitter.com/college_space"><i class="icon fa fa-twitter"></i></a>
@@ -159,9 +159,8 @@
 											<a href="https://plus.google.com/communities/118256355148042817165"><i class="icon fa fa-google-plus"></i></a>
 										</li>
 										<li>
-											<a href="www.linkedin.com/company/collegespace"><i class="icon fa fa-linkedin"></i></a>
-										</li>
-										
+											<a href="https://www.linkedin.com/company/collegespace"><i class="icon fa fa-linkedin"></i></a>
+										</li>							
 									</ul>
 									<ul class="list-contacts list-unstyled">
 										<li class="list-contacts__item">
@@ -182,8 +181,8 @@
 											<i class="icon stroke icon-WorldWide"></i>
 											<div class="list-contacts__inner">
 												<div class="list-contacts__title">WEB</div>
-												<div class="list-contacts__info"><a>www.collegespace.in</a></div>
-												<div class="list-contacts__info"><a>nsitpedia.collegespace.in/</a></div>
+												<div class="list-contacts__info"><a href="http://www.collegespace.in">www.collegespace.in</a></div>
+												<div class="list-contacts__info"><a href="http://www.nsitpedia.collegespace.in">www.nsitpedia.collegespace.in/</a></div>
 											</div>
 										</li>
 										<li class="list-contacts__item">
