@@ -47,7 +47,7 @@
 
       <div class="container">
         <div class="row">
-          <div class="col-xs-12"> <a class="header-logo" href="javascript:void(0);"><img class="header-logo__img" src="assets/img/logo.png" height="50" width="195" alt="Logo"></a>
+          <div class="col-xs-12"> <a class="header-logo" href="javascript:void(0);"><img class="header-logo__img" src="assets/img/logo.png" alt="Logo"></a>
             <div class="header-inner">
               <div class="header-search">
                 <div class="navbar-search">

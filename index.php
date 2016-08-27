@@ -20,7 +20,7 @@
 
 <div class="layout-theme animated-css"  data-header="sticky" data-header-top="200">
 
- 
+
 
   <div id="wrapper">
 
@@ -47,7 +47,7 @@
 
       <div class="container">
         <div class="row">
-          <div class="col-xs-12"> <a class="header-logo" href="javascript:void(0);"><img class="header-logo__img" src="assets/img/logo.png" height="50" width="195" alt="Logo"></a>
+          <div class="col-xs-12"> <a class="header-logo" href="javascript:void(0);"><img class="header-logo__img" src="assets/img/logo.png" alt="Logo"></a>
             <div class="header-inner">
               <div class="header-search">
                 <div class="navbar-search">
@@ -60,7 +60,7 @@
                   </form>
                 </div>
               </div>
-              <a id="search-open" href="#fakelink"><i class="icon stroke icon-Search"></i></a> 
+              <a id="search-open" href="#fakelink"><i class="icon stroke icon-Search"></i></a>
               <nav class="navbar yamm">
                 <div class="navbar-header hidden-md  hidden-lg  hidden-sm ">
                   <button type="button" data-toggle="collapse" data-target="#navbar-collapse-1" class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
@@ -70,13 +70,13 @@
                     <li class="dropdown"><a href="#">Home<span class="nav-subtitle">OUR World</span></a>
                      </li>
 					 <li class="dropdown"> <a href="instructors.php">Team Page<span class="nav-subtitle">Meet us!</span></a>
-                    
+
                     </li>
                     <li class="dropdown"> <a href="http://nsitpedia.collegespace.in/" target="_blank">Nsitpedia<span class="nav-subtitle">our personal blog</span></a>
-                      
+
                     </li>
                     <li class="dropdown"> <a href="http://updates.collegespace.in/" target="_blank">Updates<span class="nav-subtitle">Section for ghissus</span></a>
-                      
+
                     </li>
                     <li><a href="contact.php">CONTACT<span class="nav-subtitle">say us hi</span></a></li>
                   </ul>
@@ -625,15 +625,15 @@
             <!-- end col -->
 
             <div class="col-lg-2 col-sm-3">
-            
+
               <!-- end footer-section -->
             </div>
             <!-- end col -->
           <div class="col-lg-2 col-sm-3">
-            
+
             </div>
 			<div class="col-lg-2 col-sm-3">
-            
+
             </div>
             <div class="col-lg-3 col-sm-3">
               <section class="footer-section">
@@ -650,7 +650,7 @@
             </div>
             <!-- end col -->
 
-           
+
             <!-- end col -->
           </div>
           <!-- end row -->
@@ -664,9 +664,9 @@
               <ul class="social-links list-unstyled">
                 <li><a class="icon fa fa-facebook" href="https://www.facebook.com/collegespace/"></a></li>
                 <li><a class="icon fa fa-twitter" href="https://twitter.com/college_space"></a></li>
-                
+
                 <li><a class="icon fa fa-linkedin" href="https://www.linkedin.com/company/collegespace"></a></li>
-                
+
               </ul>
             </div>
             <!-- end footer-bottom -->
