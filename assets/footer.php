@@ -77,22 +77,7 @@
 <script src="assets/js/modernizr.custom.js"></script>
 <script src="assets/js/waypoints.min.js"></script>
 <script src="assets/js/jquery.easing.min.js"></script>
-<script>
-window.twttr = (function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0],
-    t = window.twttr || {};
-  if (d.getElementById(id)) return t;
-  js = d.createElement(s);
-  js.id = id;
-  js.src = "https://platform.twitter.com/widgets.js";
-  fjs.parentNode.insertBefore(js, fjs);
-  t._e = [];
-  t.ready = function(f) {
-    t._e.push(f);
-  };
-  return t;
-}(document, "script", "twitter-wjs"));
-</script>
+
 
 <!--THEME-->
 <script  src="assets/plugins/sliderpro/js/jquery.sliderPro.min.js"></script>
@@ -106,6 +91,4 @@ window.twttr = (function(d, s, id) {
 <script src="assets/js/wow.min.js"></script>
 <script src="assets/js/custom.min.js"></script>
 
-<!--COLOR SWITCHER -->
-<script src="assets/plugins/switcher/js/bootstrap-select.js"></script>
-<script src="assets/plugins/switcher/js/dmss.js"></script>
+
