@@ -26,26 +26,7 @@
 
     <!-- HEADER -->
     <header class="header">
-      <div class="top-header">
-        <div class="container">
-          <div class="row">
-            <div class="col-xs-12">
-              <div class="top-header__contacts"><i class="icon stroke icon-Phone2"></i>(123) 0800 12345</div>
-              <div class="top-header__contacts"><i class="icon stroke icon-Mail"></i><a href="mailto:Info@academica.com">Info@academica.com</a></div>
-              <div class="top-header__link">
-                <button class="btn-header btn-effect">LATEST</button>
-                <span>We have added new courses today ...</span> </div>
-              <div class="header-login"> <a class="header-login__item" href="javascript:void(0);"><i class="icon stroke icon-User"></i>Sign In</a> <a class="header-login__item" href="javascript:void(0);">Register</a> </div>
-            </div>
-            <!-- end col  -->
-          </div>
-          <!-- end row  -->
-        </div>
-        <!-- end container  -->
-      </div>
-      <!-- end top-header  -->
-
-      <div class="container">
+     <div class="container">
         <div class="row">
           <div class="col-xs-12"> <a class="header-logo" href="javascript:void(0);"><img class="header-logo__img" src="assets/img/logo.png" alt="Logo"></a>
             <div class="header-inner">
@@ -607,14 +588,16 @@
       <div class="container">
         <div class="footer-inner border-decor_top">
           <div class="row">
-            <div class="col-lg-3 col-sm-3">
+		 <div class="col-md-2">
+		 </div>
+            <div class="col-md-4">
               <section class="footer-section">
                 <h3 class="footer-title">ABOUT US</h3>
                 <a href="javascript:void(0);"><img class="footer-logo img-responsive" src="assets/img/logo.png" height="50" width="195" alt="Logo"></a>
-                <div class="footer-info">Fusce eleifend. Donec sapien sed pha seah lusa. Pellentesque lu amus lorem arcu sem per duiac. Vivamus porta. Sed at nisl praesnt blandit mauris vel erat.</div>
+                <div class="footer-info">CollegeSpace, the Socio-Academic Portal of NSIT, is the most frequently-visited website of NSIT. We started out with a team of three with an aim to provide everything that is necessary to the students during the four years of college and now, after five successful years, we have a large team of hardworking and committed students working in various departments.</div>
                 <div class="footer-contacts footer-contacts_mod-a"> <i class="icon stroke icon-Pointer"></i>
                   <address class="footer-contacts__inner">
-                  370 Hill Park, Florida, USA
+                  NSIT,New Delhi
                   </address>
                 </div>
                 <div class="footer-contacts"> <i class="icon stroke icon-Phone2"></i> <span class="footer-contacts__inner">Call us 0800 12345</span> </div>
@@ -659,7 +642,7 @@
 
         <div class="row">
           <div class="col-xs-12">
-            <div class="footer-bottom">
+           
               <div class="copyright">Copyright © 2016 <a href="http://collegespace.in/">CollegeSpace</a>
               <ul class="social-links list-unstyled">
                 <li><a class="icon fa fa-facebook" href="https://www.facebook.com/collegespace/"></a></li>

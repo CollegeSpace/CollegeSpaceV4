@@ -545,7 +545,7 @@ img.pull-left {
 	border-top: 1px solid #333;
 }
 .copyright {
-	float: left;
+	float: right;
 }
 .copyright a,
 .copyright a:hover {
