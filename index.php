@@ -551,44 +551,6 @@
         <!-- end row -->
       </div>
       <!-- end container -->
-
-      <section class="section-clients wow fadeInUp" data-wow-duration="2s">
-        <div class="container">
-          <div class="row">
-            <div class="col-xs-12">
-              <h2 class="ui-title-block ui-title-block_mod-b">Our <strong>Global Partners</strong></h2>
-              <ul class="list-clients list-unstyled clearfix">
-                <li class="list-clients__item"><img class="img-responsive" src="assets/media/clients/1.jpg" height="100" width="200" alt="Partners"></li>
-                <li class="list-clients__item"><img class="img-responsive" src="assets/media/clients/2.jpg" height="100" width="200" alt="Partners"></li>
-                <li class="list-clients__item"><img class="img-responsive" src="assets/media/clients/3.jpg" height="100" width="200" alt="Partners"></li>
-                <li class="list-clients__item"><img class="img-responsive" src="assets/media/clients/4.jpg" height="100" width="200" alt="Partners"></li>
-                <li class="list-clients__item"><img class="img-responsive" src="assets/media/clients/5.jpg" height="100" width="200" alt="Partners"></li>
-              </ul>
-              <div class="list-clients__description">Nulla feugiat nibh placerat fermentum rutrum ante risus euismod eros pharetra felis justo ac tortor Maecenas odio sit amet odio euismod eaculis. Donec ac tellus nullam risus turpis rhoncus</div>
-            </div>
-            <!-- end col -->
-          </div>
-          <!-- end row -->
-        </div>
-        <!-- end container -->
-      </section>
-      <!-- end section-clients -->
-
-      <div class="container">
-        <div class="row">
-          <div class="col-xs-12">
-            <section class="section_mod-b text-center wow fadeInUp" data-wow-duration="2s">
-              <h2 class="ui-title-block">We provide universal access to the world’s best education & offer courses for anyone, <strong>Absolutely FREE.</strong></h2>
-              <div class="ui-subtitle-block ui-subtitle-block_mod-c">Fusce eleifend donec apien sed phase lusa pellentesque lacus vamus lorem arcu semper duiac rasorn are vamus etiam ind arcu morbi justo mauris tempus pharetra.</div>
-              <a class="btn btn-primary btn-effect" href="javascript:void(0);">ENROLL NOW</a> </section>
-            <!-- end section-default -->
-          </div>
-          <!-- end col -->
-        </div>
-        <!-- end row -->
-      </div>
-      <!-- end container -->
-
     </div>
     <!-- end main-content -->
 
@@ -596,9 +558,8 @@
       <div class="container">
         <div class="footer-inner border-decor_top">
           <div class="row">
-		 <div class="col-md-2">
-		 </div>
-            <div class="col-md-4">
+		
+            <div class="col-md-3">
               <section class="footer-section">
                 <h3 class="footer-title">ABOUT US</h3>
                 <a href="javascript:void(0);"><img class="footer-logo img-responsive" src="assets/img/logo.png" height="50" width="195" alt="Logo"></a>
@@ -614,19 +575,33 @@
               <!-- end footer-section -->
             </div>
             <!-- end col -->
+			 <div class="col-lg-2 col-sm-3">
+
+              <!-- end footer-section -->
+            </div>
+			<div class="col-lg-3 col-sm-3">
+									<section class="footer-section">
+										<h3 class="footer-title">QUICK LINKS</h3>
+										<ul class="footer-list list-unstyled">
+											<li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Teachers & Staff</a></li>
+											<li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Our Latest Courses</a></li>
+											<li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Who We Are</a></li>
+											<li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Get In Touch</a></li>
+											<li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Courses Categories</a></li>
+											<li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Support & FAQ’s</a></li>
+											<li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Terms & Conditions</a></li>
+											<li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Privacy Policy</a></li>
+										</ul>
+									</section><!-- end footer-section -->
+								</div><!-- end col -->
 
             <div class="col-lg-2 col-sm-3">
 
               <!-- end footer-section -->
             </div>
             <!-- end col -->
-          <div class="col-lg-2 col-sm-3">
-
-            </div>
-			<div class="col-lg-2 col-sm-3">
-
-            </div>
-            <div class="col-lg-3 col-sm-4" id="tweet">
+         
+            <div class="col-lg-3 col-sm-3" id="tweet">
               <section class="footer-section">
                 <a class="twitter-timeline" data-tweet-limit="3" data-theme="dark" data-chrome="transparent"   href="https://twitter.com/college_space">Tweets by college_space</a></section>
               <!-- end footer-section -->
