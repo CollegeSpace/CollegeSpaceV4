@@ -147,32 +147,20 @@
 							<div class="col-md-5">
 								<section class="section_contacts">
 									<h2 class="ui-title-inner decor decor_mod-a">Get in Touch with us</h2>
-									<p>Reprehenderit in voluptate velit esse cillum dolo reu fugiat nulla pariat ecated cupidatat non pried ent sun in asculpa.</p>
+									<p>We are here to help you</p>
 									<ul class="list-social list-inline">
 										<li>
-											<a href="javascript:void(0);"><i class="icon fa fa-facebook"></i></a>
+											<a href="https://www.facebook.com/collegespace"><i class="icon fa fa-facebook"></i></a>
 										</li>
 										<li>
-											<a href="javascript:void(0);"><i class="icon fa fa-twitter"></i></a>
+											<a href="https://twitter.com/college_space"><i class="icon fa fa-twitter"></i></a>
 										</li>
 										<li>
-											<a href="javascript:void(0);"><i class="icon fa fa-google-plus"></i></a>
+											<a href="https://plus.google.com/communities/118256355148042817165"><i class="icon fa fa-google-plus"></i></a>
 										</li>
 										<li>
-											<a href="javascript:void(0);"><i class="icon fa fa-linkedin"></i></a>
-										</li>
-										<li>
-											<a href="javascript:void(0);"><i class="icon fa fa-behance"></i></a>
-										</li>
-										<li>
-											<a href="javascript:void(0);"><i class="icon fa fa-vimeo"></i></a>
-										</li>
-										<li>
-											<a href="javascript:void(0);"><i class="icon fa fa-whatsapp"></i></a>
-										</li>
-										<li>
-											<a href="javascript:void(0);"><i class="icon fa fa-youtube-play"></i></a>
-										</li>
+											<a href="https://www.linkedin.com/company/collegespace"><i class="icon fa fa-linkedin"></i></a>
+										</li>							
 									</ul>
 									<ul class="list-contacts list-unstyled">
 										<li class="list-contacts__item">
@@ -186,21 +174,22 @@
 											<i class="icon stroke icon-Mail"></i>
 											<div class="list-contacts__inner">
 												<div class="list-contacts__title">EMAIL</div>
-												<div class="list-contacts__info">academica@domain.com</div>
+												<div class="list-contacts__info"> contact@collegespace.in</div>
 											</div>
 										</li>
 										<li class="list-contacts__item">
 											<i class="icon stroke icon-WorldWide"></i>
 											<div class="list-contacts__inner">
 												<div class="list-contacts__title">WEB</div>
-												<div class="list-contacts__info">http://study.college.edu</div>
+												<div class="list-contacts__info"><a href="http://www.collegespace.in">www.collegespace.in</a></div>
+												<div class="list-contacts__info"><a href="http://www.nsitpedia.collegespace.in">www.nsitpedia.collegespace.in/</a></div>
 											</div>
 										</li>
 										<li class="list-contacts__item">
 											<i class="icon stroke icon-House"></i>
 											<div class="list-contacts__inner">
 												<div class="list-contacts__title">location</div>
-												<div class="list-contacts__info">35 Main Street, Arizona 33024</div>
+												<div class="list-contacts__info">Azad Hind Fauz Marg, Dwarka Sector-3, New Delhi 110078</div>
 											</div>
 										</li>
 									</ul>
@@ -210,7 +199,7 @@
 							<div class="col-md-7">
 								<div class="section_map">
 									<h2 class="ui-title-inner decor decor_mod-a">OUR LOCATION</h2>
-									<img class="img-responsive" src="assets/img/map.jpg" height="505" width="670" alt="map">
+									<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.6881476285057!2d77.03287991440617!3d28.60913088242708!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d053516783c9b%3A0x7e540ab22a28446!2sNetaji+Subhas+Institute+Of+Technology!5e0!3m2!1sen!2sin!4v1472224751672" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 								</div>
 							</div><!-- end col -->
 						</div><!-- end row -->

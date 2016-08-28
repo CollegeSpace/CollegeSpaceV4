@@ -235,7 +235,7 @@
             <div class="col-xs-12">
               <div class="wrap-title">
                 <h2 class="ui-title-block">Latest on <strong>CollegeSpace updates</strong></h2>
-                <div class="ui-subtitle-block ui-subtitle-block_mod-b">Having over 9 million students worldwide and more than 50,000 online courses available.</div>
+                <div class="ui-subtitle-block ui-subtitle-block_mod-b"></div>
               </div>
               <div class="posts-wrap">
                 <article class="post post_mod-a clearfix wow zoomIn" data-wow-duration="2s">
@@ -243,7 +243,7 @@
                     <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/250x250/1.jpg" width="250" height="250" alt="Foto"/></a> </div>
                     <div class="entry-hover">
                       <div class="box-comments"> <a href="javascript:void(0);"><i class="icon stroke icon-Message"></i>25</a> <a href="javascript:void(0);"><i class="icon stroke icon-User"></i>65</a> </div>
-                      <a href="javascript:void(0);" class="post-btn btn btn-primary btn-effect">READ MORE</a> </div>
+                      <a href="javascript:void(0);" class="post-btn btn btn-primary btn-effect">DOWNLOAD</a> </div>
                   </div>
                   <div class="entry-main">
                     <div class="entry-meta"> <span class="entry-autor"> <span>By </span> <a class="post-link" href="javascript:void(0);">ANS niversity</a> </span> <span class="entry-date"><a href="javascript:void(0);">Dec 16, 2015</a></span> </div>
@@ -259,7 +259,7 @@
                     <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/250x250/2.jpg" width="250" height="250" alt="Foto"/></a> </div>
                     <div class="entry-hover">
                       <div class="box-comments"> <a href="javascript:void(0);"><i class="icon stroke icon-Message"></i>25</a> <a href="javascript:void(0);"><i class="icon stroke icon-User"></i>65</a> </div>
-                      <a href="javascript:void(0);" class="post-btn btn btn-primary btn-effect">READ MORE</a> </div>
+                      <a href="javascript:void(0);" class="post-btn btn btn-primary btn-effect">DOWNLOAD</a> </div>
                   </div>
                   <div class="entry-main">
                     <div class="entry-meta"> <span class="entry-autor"> <span>By </span> <a class="post-link" href="javascript:void(0);">John Milton</a> </span> <span class="entry-date"><a href="javascript:void(0);">Dec 16, 2015</a></span> </div>
@@ -275,7 +275,7 @@
                     <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/250x250/3.jpg" width="250" height="250" alt="Foto"/></a> </div>
                     <div class="entry-hover">
                       <div class="box-comments"> <a href="javascript:void(0);"><i class="icon stroke icon-Message"></i>25</a> <a href="javascript:void(0);"><i class="icon stroke icon-User"></i>65</a> </div>
-                      <a href="javascript:void(0);" class="post-btn btn btn-primary btn-effect">READ MORE</a> </div>
+                      <a href="javascript:void(0);" class="post-btn btn btn-primary btn-effect">DOWNLAOD</a> </div>
                   </div>
                   <div class="entry-main">
                     <div class="entry-meta"> <span class="entry-autor"> <span>By </span> <a class="post-link" href="javascript:void(0);">ANS niversity</a> </span> <span class="entry-date"><a href="javascript:void(0);">Dec 16, 2015</a></span> </div>
@@ -291,7 +291,7 @@
                     <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/250x250/4.jpg" width="250" height="250" alt="Foto"/></a> </div>
                     <div class="entry-hover">
                       <div class="box-comments"> <a href="javascript:void(0);"><i class="icon stroke icon-Message"></i>25</a> <a href="javascript:void(0);"><i class="icon stroke icon-User"></i>65</a> </div>
-                      <a href="javascript:void(0);" class="post-btn btn btn-primary btn-effect">READ MORE</a> </div>
+                      <a href="javascript:void(0);" class="post-btn btn btn-primary btn-effect">DOWNLOAD</a> </div>
                   </div>
                   <div class="entry-main">
                     <div class="entry-meta"> <span class="entry-autor"> <span>By </span> <a class="post-link" href="javascript:void(0);">John Milton</a> </span> <span class="entry-date"><a href="javascript:void(0);">Dec 16, 2015</a></span> </div>
@@ -304,6 +304,7 @@
                 <!-- end post -->
               </div>
               <!-- end posts-wrap -->
+              <div style="text-align: center;"><button class="btn btn-effect btn-info">View all updates</button></div>
             </div>
             <!-- end col -->
           </div>
@@ -388,6 +389,7 @@
                 <!-- end post -->
               </div>
               <!-- end posts-wrap -->
+              <div style="text-align: center;"><button class="btn btn-effect btn-info">Go to NSITpedia</button></div>
             </div>
             <!-- end col -->
           </div>
