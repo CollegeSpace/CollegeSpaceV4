@@ -11,7 +11,13 @@
 <link href="assets/plugins/switcher/css/switcher.css" rel="stylesheet" id="switcher-css" media="all">
 <script src="assets/plugins/jquery/jquery-1.11.3.min.js"></script>
 </head>
-
+<style>
+  #tweet{
+    max-height: 450px;
+    overflow-y: hidden;
+    overflow-x:hidden;
+  }
+</style>
 <body>
 
 <!-- Loader -->
@@ -620,17 +626,9 @@
 			<div class="col-lg-2 col-sm-3">
 
             </div>
-            <div class="col-lg-3 col-sm-3">
+            <div class="col-lg-3 col-sm-4" id="tweet">
               <section class="footer-section">
-                <h3 class="footer-title">LATEST TWEETS</h3>
-                <div class="tweets">
-                  <div class="tweets__text">What is the enemy of #creativity?</div>
-                  <div><a href="javascript:void(0);">http://enva.to/hVl5G</a></div>
-                  <span class="tweets__time">9 hours ago</span> </div>
-                <div class="tweets">
-                  <div class="tweets__text">An agile framework can produce the type of lean marketing essential for the digital age <a href="javascript:void(0);">@aholmes360 #IMDS15</a></div>
-                  <span class="tweets__time">9 hours ago</span> </div>
-                <a class="tweets__link" href="https://twitter.com/college_space">Follow @college_space</a> </section>
+                <a class="twitter-timeline" data-tweet-limit="3" data-theme="dark" data-chrome="transparent"   href="https://twitter.com/college_space">Tweets by college_space</a></section>
               <!-- end footer-section -->
             </div>
             <!-- end col -->
@@ -644,7 +642,7 @@
 
         <div class="row">
           <div class="col-xs-12">
-           
+
               <div class="copyright">Copyright © 2016 <a href="http://collegespace.in/">CollegeSpace</a>
               <ul class="social-links list-unstyled">
                 <li><a class="icon fa fa-facebook" href="https://www.facebook.com/collegespace/"></a></li>
@@ -673,6 +671,24 @@
 <script src="assets/js/modernizr.custom.js"></script>
 <script src="assets/js/waypoints.min.js"></script>
 <script src="assets/js/jquery.easing.min.js"></script>
+<script>
+window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));
+</script>
 
 <!--THEME-->
 <script  src="assets/plugins/sliderpro/js/jquery.sliderPro.min.js"></script>
