@@ -4,7 +4,7 @@
                 </div>
                 <div id="navbar-collapse-1" class="navbar-collapse collapse">
                   <ul class="nav navbar-nav">
-                    <li class="dropdown"><a href="#">Home<span class="nav-subtitle">OUR World</span></a>
+                    <li class="dropdown"><a href="index.php">Home<span class="nav-subtitle">OUR World</span></a>
                      </li>
 					 <li class="dropdown"> <a href="instructors.php">Team Page<span class="nav-subtitle">Meet us!</span></a>
 
