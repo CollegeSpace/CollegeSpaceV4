@@ -502,44 +502,6 @@
         <!-- end row -->
       </div>
       <!-- end container -->
-
-      <section class="section-clients wow fadeInUp" data-wow-duration="2s">
-        <div class="container">
-          <div class="row">
-            <div class="col-xs-12">
-              <h2 class="ui-title-block ui-title-block_mod-b">Our <strong>Global Partners</strong></h2>
-              <ul class="list-clients list-unstyled clearfix">
-                <li class="list-clients__item"><img class="img-responsive" src="assets/media/clients/1.jpg" height="100" width="200" alt="Partners"></li>
-                <li class="list-clients__item"><img class="img-responsive" src="assets/media/clients/2.jpg" height="100" width="200" alt="Partners"></li>
-                <li class="list-clients__item"><img class="img-responsive" src="assets/media/clients/3.jpg" height="100" width="200" alt="Partners"></li>
-                <li class="list-clients__item"><img class="img-responsive" src="assets/media/clients/4.jpg" height="100" width="200" alt="Partners"></li>
-                <li class="list-clients__item"><img class="img-responsive" src="assets/media/clients/5.jpg" height="100" width="200" alt="Partners"></li>
-              </ul>
-              <div class="list-clients__description">Nulla feugiat nibh placerat fermentum rutrum ante risus euismod eros pharetra felis justo ac tortor Maecenas odio sit amet odio euismod eaculis. Donec ac tellus nullam risus turpis rhoncus</div>
-            </div>
-            <!-- end col -->
-          </div>
-          <!-- end row -->
-        </div>
-        <!-- end container -->
-      </section>
-      <!-- end section-clients -->
-
-      <div class="container">
-        <div class="row">
-          <div class="col-xs-12">
-            <section class="section_mod-b text-center wow fadeInUp" data-wow-duration="2s">
-              <h2 class="ui-title-block">We provide universal access to the world’s best education & offer courses for anyone, <strong>Absolutely FREE.</strong></h2>
-              <div class="ui-subtitle-block ui-subtitle-block_mod-c">Fusce eleifend donec apien sed phase lusa pellentesque lacus vamus lorem arcu semper duiac rasorn are vamus etiam ind arcu morbi justo mauris tempus pharetra.</div>
-              <a class="btn btn-primary btn-effect" href="javascript:void(0);">ENROLL NOW</a> </section>
-            <!-- end section-default -->
-          </div>
-          <!-- end col -->
-        </div>
-        <!-- end row -->
-      </div>
-      <!-- end container -->
-
     </div>
     <!-- end main-content -->
 
