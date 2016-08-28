@@ -37,22 +37,6 @@
 				</div><!-- end wrap-title-page -->
 
 
-				<div class="section-breadcrumb">
-					<div class="container">
-						<div class="row">
-							<div class="col-xs-12">
-								<div class="wrap-breadcrumb clearfix">
-									<ol class="breadcrumb">
-										<li><a href="javascript:void(0);"><i class="icon stroke icon-House"></i></a></li>
-										<li class="active">CONTACT Us</li>
-									</ol>
-								</div>
-							</div>
-						</div><!-- end row -->
-					</div><!-- end container -->
-				</div><!-- end section-breadcrumb -->
-
-
 				<main class="main-content">
 
 					<div class="container">
