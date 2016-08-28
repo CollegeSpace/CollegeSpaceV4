@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui">
-<title>CollegeSpace Nsit</title>
+<title>CollegeSpace</title>
 <link href="favicon.png" type="image/x-icon" rel="shortcut icon">
 <link href="assets/css/master.css" rel="stylesheet">
 <!-- SWITCHER -->
@@ -20,34 +20,15 @@
 
 <div class="layout-theme animated-css"  data-header="sticky" data-header-top="200">
 
- 
+
 
   <div id="wrapper">
 
     <!-- HEADER -->
     <header class="header">
-      <div class="top-header">
-        <div class="container">
-          <div class="row">
-            <div class="col-xs-12">
-              <div class="top-header__contacts"><i class="icon stroke icon-Phone2"></i>(123) 0800 12345</div>
-              <div class="top-header__contacts"><i class="icon stroke icon-Mail"></i><a href="mailto:contact@collegespace.in">contact@collegespace.in</a></div>
-              <div class="top-header__link">
-                <button class="btn-header btn-effect">LATEST</button>
-                <marquee style="width: inherit;"><span>We have added new courses today ...</span></marquee> </div>
-              <div class="header-login"> <a class="header-login__item" href="javascript:void(0);"><i class="icon stroke icon-User"></i>Sign In</a> <a class="header-login__item" href="javascript:void(0);">Register</a> </div>
-            </div>
-            <!-- end col  -->
-          </div>
-          <!-- end row  -->
-        </div>
-        <!-- end container  -->
-      </div>
-      <!-- end top-header  -->
-
-      <div class="container">
+     <div class="container">
         <div class="row">
-          <div class="col-xs-12"> <a class="header-logo" href="javascript:void(0);"><img class="header-logo__img" src="assets/img/logo.png" height="50" width="195" alt="Logo"></a>
+          <div class="col-xs-12"> <a class="header-logo" href="javascript:void(0);"><img class="header-logo__img" src="assets/img/logo.png" alt="Logo"></a>
             <div class="header-inner">
               <div class="header-search">
                 <div class="navbar-search">
@@ -60,43 +41,23 @@
                   </form>
                 </div>
               </div>
-              <a id="search-open" href="#fakelink"><i class="icon stroke icon-Search"></i></a> <a class="header-cart" href="http://html.templines.com/"> <i class="icon stroke icon-ShoppingCart"></i></a>
+              <a id="search-open" href="#fakelink"><i class="icon stroke icon-Search"></i></a>
               <nav class="navbar yamm">
                 <div class="navbar-header hidden-md  hidden-lg  hidden-sm ">
                   <button type="button" data-toggle="collapse" data-target="#navbar-collapse-1" class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
                 </div>
                 <div id="navbar-collapse-1" class="navbar-collapse collapse">
                   <ul class="nav navbar-nav">
-                    <li class="dropdown"><a href="home.php">Home<span class="nav-subtitle">OUR World</span></a>
-                      <ul role="menu" class="dropdown-menu">
-                        <li><a href="home-1.php">Home 1</a> </li>
-                        <li><a href="home-2.php">Home 2</a> </li>
-                        <li><a href="home-3.php">Home 3</a> </li>
-                      </ul>
+                    <li class="dropdown"><a href="#">Home<span class="nav-subtitle">OUR World</span></a>
+                     </li>
+					 <li class="dropdown"> <a href="instructors.php">Team Page<span class="nav-subtitle">Meet us!</span></a>
+
                     </li>
-                    <li class="dropdown"> <a href="courses-1.php">COURSES<span class="nav-subtitle">What We Offers</span></a>
-                      <ul role="menu" class="dropdown-menu">
-                        <li><a href="courses-category.php">courses category</a>
-                          <ul role="menu" class="dropdown-menu">
-                            <li><a href="courses-1.php">courses type 1</a> </li>
-                            <li><a href="courses-2.php">courses type 2</a> </li>
-                            <li><a href="courses-3.php">courses type 3</a></li>
-                          </ul>
-                        </li>
-                        <li><a href="course-details.php">course details</a></li>
-                      </ul>
+                    <li class="dropdown"> <a href="http://nsitpedia.collegespace.in/" target="_blank">Nsitpedia<span class="nav-subtitle">our personal blog</span></a>
+
                     </li>
-                    <li class="dropdown"> <a href="javascript:void(0);">PAGES<span class="nav-subtitle">Information</span></a>
-                      <ul role="menu" class="dropdown-menu">
-                        <li><a href="about.php">about</a> </li>
-                        <li><a href="instructors.php">instructors</a> </li>
-                      </ul>
-                    </li>
-                    <li class="dropdown"> <a href="javascript:void(0);">BLOG<span class="nav-subtitle">Latest News</span></a>
-                      <ul role="menu" class="dropdown-menu">
-                        <li><a href="blog-1.php">blog</a> </li>
-                        <li><a href="blog-post.php">blog post</a> </li>
-                      </ul>
+                    <li class="dropdown"> <a href="http://updates.collegespace.in/" target="_blank">Updates<span class="nav-subtitle">Section for ghissus</span></a>
+
                     </li>
                     <li><a href="contact.php">CONTACT<span class="nav-subtitle">say us hi</span></a></li>
                   </ul>
@@ -698,8 +659,82 @@
 					</div><!-- end container -->
 				</footer>
 
+    <footer class="footer wow fadeInUp" data-wow-duration="2s">
+      <div class="container">
+        <div class="footer-inner border-decor_top">
+          <div class="row">
+		 <div class="col-md-2">
+		 </div>
+            <div class="col-md-4">
+              <section class="footer-section">
+                <h3 class="footer-title">ABOUT US</h3>
+                <a href="javascript:void(0);"><img class="footer-logo img-responsive" src="assets/img/logo.png" height="50" width="195" alt="Logo"></a>
+                <div class="footer-info">CollegeSpace, the Socio-Academic Portal of NSIT, is the most frequently-visited website of NSIT. We started out with a team of three with an aim to provide everything that is necessary to the students during the four years of college and now, after five successful years, we have a large team of hardworking and committed students working in various departments.</div>
+                <div class="footer-contacts footer-contacts_mod-a"> <i class="icon stroke icon-Pointer"></i>
+                  <address class="footer-contacts__inner">
+                  NSIT,New Delhi
+                  </address>
+                </div>
+                <div class="footer-contacts"> <i class="icon stroke icon-Phone2"></i> <span class="footer-contacts__inner">Call us 0800 12345</span> </div>
+                <div class="footer-contacts"> <i class="icon stroke icon-Mail"></i> <a class="footer-contacts__inner" href="mailto:Info@academica.com">Info@academica.com</a> </div>
+              </section>
+              <!-- end footer-section -->
+            </div>
+            <!-- end col -->
+
+            <div class="col-lg-2 col-sm-3">
+
+              <!-- end footer-section -->
+            </div>
+            <!-- end col -->
+          <div class="col-lg-2 col-sm-3">
+
+            </div>
+			<div class="col-lg-2 col-sm-3">
+
+            </div>
+            <div class="col-lg-3 col-sm-3">
+              <section class="footer-section">
+                <h3 class="footer-title">LATEST TWEETS</h3>
+                <div class="tweets">
+                  <div class="tweets__text">What is the enemy of #creativity?</div>
+                  <div><a href="javascript:void(0);">http://enva.to/hVl5G</a></div>
+                  <span class="tweets__time">9 hours ago</span> </div>
+                <div class="tweets">
+                  <div class="tweets__text">An agile framework can produce the type of lean marketing essential for the digital age <a href="javascript:void(0);">@aholmes360 #IMDS15</a></div>
+                  <span class="tweets__time">9 hours ago</span> </div>
+                <a class="tweets__link" href="https://twitter.com/college_space">Follow @college_space</a> </section>
+              <!-- end footer-section -->
+            </div>
+            <!-- end col -->
 
 
+            <!-- end col -->
+          </div>
+          <!-- end row -->
+        </div>
+        <!-- end footer-inner -->
+
+        <div class="row">
+          <div class="col-xs-12">
+           
+              <div class="copyright">Copyright © 2016 <a href="http://collegespace.in/">CollegeSpace</a>
+              <ul class="social-links list-unstyled">
+                <li><a class="icon fa fa-facebook" href="https://www.facebook.com/collegespace/"></a></li>
+                <li><a class="icon fa fa-twitter" href="https://twitter.com/college_space"></a></li>
+
+                <li><a class="icon fa fa-linkedin" href="https://www.linkedin.com/company/collegespace"></a></li>
+
+              </ul>
+            </div>
+            <!-- end footer-bottom -->
+          </div>
+          <!-- end col -->
+        </div>
+        <!-- end row -->
+      </div>
+      <!-- end container -->
+    </footer>
   </div>
   <!-- end wrapper -->
 </div>
@@ -710,7 +745,7 @@
 <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/modernizr.custom.js"></script>
 <script src="assets/js/waypoints.min.js"></script>
-<script src="../../cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+<script src="assets/js/jquery.easing.min.js"></script>
 
 <!--THEME-->
 <script  src="assets/plugins/sliderpro/js/jquery.sliderPro.min.js"></script>

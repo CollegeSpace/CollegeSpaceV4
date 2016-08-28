@@ -45,7 +45,7 @@
 
       <div class="container">
         <div class="row">
-          <div class="col-xs-12"> <a class="header-logo" href="javascript:void(0);"><img class="header-logo__img" src="assets/img/logo.png" height="50" width="195" alt="Logo"></a>
+          <div class="col-xs-12"> <a class="header-logo" href="javascript:void(0);"><img class="header-logo__img" src="assets/img/logo.png" alt="Logo"></a>
             <div class="header-inner">
               <div class="header-search">
                 <div class="navbar-search">
@@ -371,7 +371,7 @@
 								<div class="col-lg-3 col-sm-3">
 									<section class="footer-section">
 										<h3 class="footer-title">ABOUT US</h3>
-										<a href="javascript:void(0);"><img class="footer-logo img-responsive" src="assets/img/logo_white.png" height="50" width="195" alt="Logo"></a>
+										<a href="javascript:void(0);"><img class="footer-logo img-responsive" src="assets/img/logo.png" height="50" width="195" alt="Logo"></a>
 										<div class="footer-info">Fusce eleifend. Donec sapien sed pha seah lusa. Pellentesque lu amus lorem arcu sem per duiac. Vivamus porta. Sed at nisl praesnt blandit mauris vel erat.</div>
 										<div class="footer-contacts footer-contacts_mod-a">
 											<i class="icon stroke icon-Pointer"></i>
@@ -463,7 +463,7 @@
 <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/modernizr.custom.js"></script>
 <script src="assets/js/waypoints.min.js"></script>
-<script src="../../cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+<script src="assets/js/jquery.easing.min.js"></script>
 
 <!--THEME-->
 <script  src="assets/plugins/sliderpro/js/jquery.sliderPro.min.js"></script>

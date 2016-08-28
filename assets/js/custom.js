@@ -147,11 +147,11 @@ $(document).ready(function() {
                 var $pageHeader = $('.header');
                 if (winH > headerTop) {
 
-                    $pageHeader.addClass("animated , animation-done ,  bounce , sticky");
+                    $pageHeader.addClass("sticky");
 
                 } else {
 
-                    $pageHeader.removeClass('bounce,animated,animation-done,sticky');
+                    $pageHeader.removeClass('sticky');
                 }
             });
         }
