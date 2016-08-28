@@ -90,7 +90,7 @@
           <div class="section_mod-a__inner">
             <div class="row">
               <div class="col-md-8">
-                <section class="section-advantages wow bounceInLeft" data-wow-duration="2s">
+                <section class="section-advantages wow" >
                   <h2 class="ui-title-block ui-title-block_mod-a">We Bring You The World’s Best Courses From All The Top Publishers, Absolutely FREE!</h2>
                   <div class="ui-subtitle-block ui-subtitle-block_mod-a">Having over 9 million students worldwide and more than 50,000 online courses available.</div>
                   <ul class="advantages advantages_mod-a list-unstyled">
@@ -132,7 +132,7 @@
               </div>
               <!-- end col -->
               <div class="col-md-4">
-                <section class="find-course find-course_mod-a wow bounceInRight" data-wow-duration="2s">
+                <section class="find-course find-course_mod-a wow " data-wow-duration="2s">
                   <h2 class="find-course__title"><i class="icon stroke icon-Search"></i>FIND YOUR COURSE</h2>
                   <form class="find-course__form" action="http://html.templines.com/academica/get">
                     <div class="form-group">
@@ -195,7 +195,7 @@
                 <div class="ui-subtitle-block ui-subtitle-block_mod-b"></div>
               </div>
               <div class="posts-wrap">
-                <article class="post post_mod-a clearfix wow zoomIn" data-wow-duration="2s">
+                <article class="post post_mod-a clearfix wow " data-wow-duration="2s">
                   <div class="entry-media">
                     <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/250x250/1.jpg" width="250" height="250" alt="Foto"/></a> </div>
                     <div class="entry-hover">
@@ -211,7 +211,7 @@
                   </div>
                 </article>
                 <!-- end post -->
-                <article class="post post_mod-a clearfix wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s">
+                <article class="post post_mod-a clearfix wow " data-wow-duration="2s" data-wow-delay=".5s">
                   <div class="entry-media">
                     <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/250x250/2.jpg" width="250" height="250" alt="Foto"/></a> </div>
                     <div class="entry-hover">
@@ -227,7 +227,7 @@
                   </div>
                 </article>
                 <!-- end post -->
-                <article class="post post_mod-a clearfix wow zoomIn" data-wow-duration="2s" data-wow-delay="1s">
+                <article class="post post_mod-a clearfix wow " data-wow-duration="2s" data-wow-delay="1s">
                   <div class="entry-media">
                     <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/250x250/3.jpg" width="250" height="250" alt="Foto"/></a> </div>
                     <div class="entry-hover">
@@ -243,7 +243,7 @@
                   </div>
                 </article>
                 <!-- end post -->
-                <article class="post post_mod-a clearfix wow zoomIn" data-wow-duration="2s" data-wow-delay="1.5s">
+                <article class="post post_mod-a clearfix wow " data-wow-duration="2s" data-wow-delay="1.5s">
                   <div class="entry-media">
                     <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/250x250/4.jpg" width="250" height="250" alt="Foto"/></a> </div>
                     <div class="entry-hover">
@@ -271,7 +271,7 @@
       </section>
       <!-- end section-default -->
 
-      <div class="section-progress wow fadeInUp section-parallax"  data-speed="25"  data-wow-duration="2s">
+      <div class="section-progress wow  section-parallax"  data-speed="25"  data-wow-duration="2s">
         <div class="container">
           <div class="row">
             <div class="col-xs-12">
@@ -300,7 +300,7 @@
                 <div class="ui-subtitle-block ui-subtitle-block_mod-b">Having over 9 million students worldwide and more than 50,000 online courses available.</div>
               </div>
               <div class="posts-wrap">
-                <article class="post post_mod-b clearfix wow zoomIn" data-wow-duration="2s">
+                <article class="post post_mod-b clearfix wow " data-wow-duration="2s">
                   <div class="entry-media">
                     <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/370x220/1.jpg" width="370" height="220" alt="Foto"/></a> </div>
                   </div>
@@ -315,7 +315,7 @@
                 </article>
                 <!-- end post -->
 
-                <article class="post post_mod-b clearfix wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s">
+                <article class="post post_mod-b clearfix wow " data-wow-duration="2s" data-wow-delay=".5s">
                   <div class="entry-media">
                     <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/370x220/2.jpg" width="370" height="220" alt="Foto"/></a> </div>
                   </div>
@@ -330,7 +330,7 @@
                 </article>
                 <!-- end post -->
 
-                <article class="post post_mod-b clearfix wow zoomIn" data-wow-duration="2s" data-wow-delay="1s">
+                <article class="post post_mod-b clearfix wow " data-wow-duration="2s" data-wow-delay="1s">
                   <div class="entry-media">
                     <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/370x220/3.jpg" width="370" height="220" alt="Foto"/></a> </div>
                   </div>
