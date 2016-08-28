@@ -405,23 +405,6 @@
       </section>
       <!-- end section-default -->
 
-      <section class="section-video wow fadeInUp" data-wow-duration="2s">
-        <div class="container">
-          <div class="row">
-            <div class="col-xs-12">
-              <div class="video-block"> <a class="video-block__link" href="https://www.youtube.com/watch?v=wh6lxMpffCo" rel="prettyPhoto"><i class="icon stroke icon-Play"></i></a>
-                <h2 class="video-block__title">Campus Life Video Tour</h2>
-                <div class="video-block__subtitle">Having over 9 million students worldwide and more than 50,000 online courses available.</div>
-              </div>
-            </div>
-            <!-- end col -->
-          </div>
-          <!-- end row -->
-        </div>
-        <!-- end container -->
-      </section>
-      <!-- end section-video -->
-
     <!--  <section class="section-subscribe wow fadeInUp" data-wow-duration="2s">
         <div class="subscribe">
           <div class="container">
@@ -449,107 +432,7 @@
       </section>-->
       <!-- end section-subscribe -->
 
-      <div class="container">
-        <div class="row">
-          <div class="border-decor_top">
-            <div class="col-md-6">
-              <section class="section-default wow bounceInLeft" data-wow-duration="2s">
-                <h2 class="ui-title-block">What <strong>Students Say</strong></h2>
-                <div class="slider-reviews owl-carousel owl-theme owl-theme_mod-c enable-owl-carousel"
-												data-single-item="true"
-												data-auto-play="7000"
-												data-navigation="true"
-												data-pagination="false"
-												data-transition-style="fade"
-												data-main-text-animation="true"
-												data-after-init-delay="4000"
-												data-after-move-delay="2000"
-												data-stop-on-hover="true">
-                  <div class="reviews">
-                    <div class="reviews__text">Nulla feugiat nibh placerat fermentum rutrum ante risus euismod eros  pharetra felis justo ac tortor. Maecenas odio aco sit amet odio euismo ac donec tellus. Nullam risus turpis rhoncus vel varius consequat laort  neque. Sed ipseget lectus vitae augue zitae ipsumd do eiusmod tempor incididunt ut labore et dolore magaliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris aliqup.</div>
-                    <div class="reviews__img"><img class="img-responsive" src="assets/media/avatar_review/1.jpg" height="60" width="60" alt="foto"></div>
-                    <span class="reviews__autor">-- JOHN SMITH</span> <span class="reviews__categories">(Maths Student)</span> </div>
-                  <!-- end reviews -->
-
-                  <div class="reviews">
-                    <div class="reviews__text">Nulla feugiat nibh placerat fermentum rutrum ante risus euismod eros  pharetra felis justo ac tortor. Maecenas odio aco sit amet odio euismo ac donec tellus. Nullam risus turpis rhoncus vel varius consequat laort  neque. Sed ipseget lectus vitae augue zitae ipsumd do eiusmod tempor incididunt ut labore et dolore magaliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris aliqup.</div>
-                    <div class="reviews__img"><img class="img-responsive" src="assets/media/avatar_review/2.jpg" height="60" width="60" alt="foto"></div>
-                    <span class="reviews__autor">-- JOHN SMITH</span> <span class="reviews__categories">(Maths Student)</span> </div>
-                  <!-- end reviews -->
-
-                  <div class="reviews">
-                    <div class="reviews__text">Nulla feugiat nibh placerat fermentum rutrum ante risus euismod eros  pharetra felis justo ac tortor. Maecenas odio aco sit amet odio euismo ac donec tellus. Nullam risus turpis rhoncus vel varius consequat laort  neque. Sed ipseget lectus vitae augue zitae ipsumd do eiusmod tempor incididunt ut labore et dolore magaliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris aliqup.</div>
-                    <div class="reviews__img"><img class="img-responsive" src="assets/media/avatar_review/3.jpg" height="60" width="60" alt="foto"></div>
-                    <span class="reviews__autor">-- JOHN SMITH</span> <span class="reviews__categories">(Maths Student)</span> </div>
-                  <!-- end reviews -->
-                </div>
-                <!-- end slider-reviews -->
-              </section>
-              <!-- end section-default -->
-            </div>
-            <!-- end col -->
-
-            <div class="col-md-6">
-              <section class="section-default wow bounceInRight" data-wow-duration="2s">
-                <h2 class="ui-title-block">Why <strong>Academica ?</strong></h2>
-                <div class="panel-group accordion accordion" id="accordion-1">
-                  <div class="panel panel-default">
-                    <div class="panel-heading"> <a class="btn-collapse" data-toggle="collapse" data-parent="#accordion-1" href="#collapse-1"><i class="icon"></i></a>
-                      <h3 class="panel-title">Learn And Get Training From Experts</h3>
-                    </div>
-                    <div id="collapse-1" class="panel-collapse collapse in">
-                      <div class="panel-body">
-                        <p class="ui-text">Fusce eleifend. Donec sapien sed phase lusa . Pellentesque lacus.Vivamus lorem arcu semper duiac. Cras ornare arcu vamus nda leo. Etiam ind arc morbi justo mauris temd pus pharetra interdum at congue semper purus.</p>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- end panel -->
-
-                  <div class="panel">
-                    <div class="panel-heading"> <a class="btn-collapse collapsed" data-toggle="collapse" data-parent="#accordion-1" href="#collapse-2"><i class="icon"></i></a>
-                      <h3 class="panel-title">Enjoy Our Free Online Courses</h3>
-                    </div>
-                    <div id="collapse-2" class="panel-collapse collapse">
-                      <div class="panel-body">
-                        <p class="ui-text">Fusce eleifend. Donec sapien sed phase lusa . Pellentesque lacus.Vivamus lorem arcu semper duiac. Cras ornare arcu vamus nda leo. Etiam ind arc morbi justo mauris temd pus pharetra interdum at congue semper purus.</p>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- end panel -->
-
-                  <div class="panel">
-                    <div class="panel-heading"> <a class="btn-collapse collapsed" data-toggle="collapse" data-parent="#accordion-1" href="#collapse-3"><i class="icon"></i></a>
-                      <h3 class="panel-title">Learn Anytime & Anywhere</h3>
-                    </div>
-                    <div id="collapse-3" class="panel-collapse collapse">
-                      <div class="panel-body">
-                        <p class="ui-text">Fusce eleifend. Donec sapien sed phase lusa . Pellentesque lacus.Vivamus lorem arcu semper duiac. Cras ornare arcu vamus nda leo. Etiam ind arc morbi justo mauris temd pus pharetra interdum at congue semper purus.</p>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- end panel -->
-
-                  <div class="panel">
-                    <div class="panel-heading"> <a class="btn-collapse collapsed" data-toggle="collapse" data-parent="#accordion-1" href="#collapse-4"><i class="icon"></i></a>
-                      <h3 class="panel-title">Basic to Advance: We Teach Everything</h3>
-                    </div>
-                    <div id="collapse-4" class="panel-collapse collapse">
-                      <div class="panel-body">
-                        <p class="ui-text">Fusce eleifend. Donec sapien sed phase lusa . Pellentesque lacus.Vivamus lorem arcu semper duiac. Cras ornare arcu vamus nda leo. Etiam ind arc morbi justo mauris temd pus pharetra interdum at congue semper purus.</p>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- end panel -->
-                </div>
-                <!-- end accordion -->
-              </section>
-            </div>
-            <!-- end col -->
-          </div>
-          <!-- end section-default -->
-        </div>
-        <!-- end row -->
-      </div>
+     
       <!-- end container -->
     </div>
     <!-- end main-content -->
