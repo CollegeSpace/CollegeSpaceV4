@@ -4,7 +4,7 @@
 <head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui">
-		<title>ACADEMICA, Contact</title>
+		<title>Contact Us</title>
 		<link href="favicon.png" type="image/x-icon" rel="shortcut icon">
 		<link href="assets/css/master.css" rel="stylesheet">
 
