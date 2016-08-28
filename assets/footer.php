@@ -1,10 +1,9 @@
-    <footer class="footer wow fadeInUp" data-wow-duration="2s">
+<footer class="footer wow fadeInUp" data-wow-duration="2s">
       <div class="container">
         <div class="footer-inner border-decor_top">
           <div class="row">
-		 <div class="col-md-2">
-		 </div>
-            <div class="col-md-4">
+    
+            <div class="col-md-3">
               <section class="footer-section">
                 <h3 class="footer-title">ABOUT US</h3>
                 <a href="javascript:void(0);"><img class="footer-logo img-responsive" src="assets/img/logo.png" height="50" width="195" alt="Logo"></a>
@@ -20,19 +19,33 @@
               <!-- end footer-section -->
             </div>
             <!-- end col -->
+       <div class="col-lg-2 col-sm-3">
+
+              <!-- end footer-section -->
+            </div>
+      <div class="col-lg-3 col-sm-3">
+                  <section class="footer-section">
+                    <h3 class="footer-title">QUICK LINKS</h3>
+                    <ul class="footer-list list-unstyled">
+                      <li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Teachers & Staff</a></li>
+                      <li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Our Latest Courses</a></li>
+                      <li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Who We Are</a></li>
+                      <li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Get In Touch</a></li>
+                      <li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Courses Categories</a></li>
+                      <li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Support & FAQ’s</a></li>
+                      <li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Terms & Conditions</a></li>
+                      <li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Privacy Policy</a></li>
+                    </ul>
+                  </section><!-- end footer-section -->
+                </div><!-- end col -->
 
             <div class="col-lg-2 col-sm-3">
 
               <!-- end footer-section -->
             </div>
             <!-- end col -->
-          <div class="col-lg-2 col-sm-3">
-
-            </div>
-			<div class="col-lg-2 col-sm-3">
-
-            </div>
-            <div class="col-lg-3 col-sm-4" id="tweet">
+         
+            <div class="col-lg-3 col-sm-3" id="tweet">
               <section class="footer-section">
                 <a class="twitter-timeline" data-tweet-limit="3" data-theme="dark" data-chrome="transparent"   href="https://twitter.com/college_space">Tweets by college_space</a></section>
               <!-- end footer-section -->

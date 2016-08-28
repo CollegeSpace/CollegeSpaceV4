@@ -504,7 +504,6 @@
       <!-- end container -->
     </div>
     <!-- end main-content -->
-
 <?php include "assets/footer.php";?>
 <!--COLOR SWITCHER -->
 <script src="assets/plugins/switcher/js/bootstrap-select.js"></script>
