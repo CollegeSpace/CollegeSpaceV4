@@ -31,16 +31,16 @@
   <div id="wrapper">
 
 <?php include "assets/header.php";
-	include "assets/navigation.php"; ?>
+  include "assets/navigation.php"; ?>
 
     <div class="main-content">
       <div id="sliderpro1" class="slider-pro main-slider">
         <div class="sp-slides">
           <div class="sp-slide"> <img class="sp-image" src="assets/media/main-slider/1.jpg"
-					data-src="assets/media/main-slider/image01.jpg"
-					data-retina="assets/media/main-slider/image01.jpg" alt="img"/>
+          data-src="assets/media/main-slider/image01.jpg"
+          data-retina="assets/media/main-slider/image01.jpg" alt="img"/>
             <div class="item-wrap sp-layer  sp-padding" data-horizontal="700" data-vertical="1"
-					data-show-transition="left" data-hide-transition="up" data-show-delay="400" data-hide-delay="200">
+          data-show-transition="left" data-hide-transition="up" data-show-delay="400" data-hide-delay="200">
              <!-- <div class="main-slider__inner text-center">
                 <div class="main-slider__title" >BEST ONLINE LEARNING</div>
                 <div class="main-slider__subtitle ">THE EASIER WAY</div>
@@ -48,32 +48,32 @@
             </div>
           </div>
           <div class="sp-slide"> <img class="sp-image" src="assets/media/main-slider/2.jpg"
-					data-src="assets/media/main-slider/image03.jpg"
-					data-retina="assets/media/main-slider/image03.jpg" alt="img"/>
+          data-src="assets/media/main-slider/image03.jpg"
+          data-retina="assets/media/main-slider/image03.jpg" alt="img"/>
             <div class="item-wrap sp-layer  sp-padding" data-horizontal="200" data-vertical="30"
-					data-show-transition="left" data-hide-transition="up" data-show-delay="400" data-hide-delay="200">
+          data-show-transition="left" data-hide-transition="up" data-show-delay="400" data-hide-delay="200">
               <!--<div class="main-slider__inner">
                 <div class="main-slider__title" >BEST ONLINE LEARNING</div>
                 <div class="main-slider__subtitle ">THE EASIER WAY</div>
                 <a class="main-slider__btn btn btn-warning btn-effect" href="http://html.templines.com/">START A COURSE</a> </div>
      -->       </div>
           </div>
-		   <div class="sp-slide"> <img class="sp-image" src="assets/media/main-slider/1.jpg"
-					data-src="assets/media/main-slider/image04.jpg"
-					data-retina="assets/media/main-slider/image04.jpg" alt="img"/>
+       <div class="sp-slide"> <img class="sp-image" src="assets/media/main-slider/1.jpg"
+          data-src="assets/media/main-slider/image04.jpg"
+          data-retina="assets/media/main-slider/image04.jpg" alt="img"/>
             <div class="item-wrap sp-layer  sp-padding" data-horizontal="700" data-vertical="1"
-					data-show-transition="left" data-hide-transition="up" data-show-delay="400" data-hide-delay="200">
+          data-show-transition="left" data-hide-transition="up" data-show-delay="400" data-hide-delay="200">
              <!-- <div class="main-slider__inner text-center">
                 <div class="main-slider__title" >BEST ONLINE LEARNING</div>
                 <div class="main-slider__subtitle ">THE EASIER WAY</div>
                 <a class="main-slider__btn btn btn-warning btn-effect" href="http://html.templines.com/">START A COURSE</a> </div>-->
             </div>
           </div>
-		   <div class="sp-slide"> <img class="sp-image" src="assets/media/main-slider/1.jpg"
-					data-src="assets/media/main-slider/image02.jpg"
-					data-retina="assets/media/main-slider/image02.jpg" alt="img"/>
+       <div class="sp-slide"> <img class="sp-image" src="assets/media/main-slider/1.jpg"
+          data-src="assets/media/main-slider/image02.jpg"
+          data-retina="assets/media/main-slider/image02.jpg" alt="img"/>
             <div class="item-wrap sp-layer  sp-padding" data-horizontal="700" data-vertical="1"
-					data-show-transition="left" data-hide-transition="up" data-show-delay="400" data-hide-delay="200">
+          data-show-transition="left" data-hide-transition="up" data-show-delay="400" data-hide-delay="200">
              <!-- <div class="main-slider__inner text-center">
                 <div class="main-slider__title" >BEST ONLINE LEARNING</div>
                 <div class="main-slider__subtitle ">THE EASIER WAY</div>
@@ -195,70 +195,59 @@
                 <div class="ui-subtitle-block ui-subtitle-block_mod-b"></div>
               </div>
               <div class="posts-wrap">
-                <article class="post post_mod-a clearfix wow " data-wow-duration="2s">
-                  <div class="entry-media">
-                    <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/250x250/1.jpg" width="250" height="250" alt="Foto"/></a> </div>
-                    <div class="entry-hover">
-                      <div class="box-comments"> <a href="javascript:void(0);"><i class="icon stroke icon-Message"></i>25</a> <a href="javascript:void(0);"><i class="icon stroke icon-User"></i>65</a> </div>
-                      <a href="javascript:void(0);" class="post-btn btn btn-primary btn-effect">DOWNLOAD</a> </div>
-                  </div>
-                  <div class="entry-main">
-                    <div class="entry-meta"> <span class="entry-autor"> <span>By </span> <a class="post-link" href="javascript:void(0);">ANS niversity</a> </span> <span class="entry-date"><a href="javascript:void(0);">Dec 16, 2015</a></span> </div>
-                    <h3 class="entry-title ui-title-inner decor decor_mod-b"><a href="javascript:void(0);">Programming for Everybody</a></h3>
-                    <div class="entry-content">
-                      <p>Esasellus luctus nibhay pulvinar biben aum aliqua ligula sapien</p>
+                <?php
+
+  $url="http://updates.collegespace.in/wp-json/posts?filter[posts_per_page]=4";
+  
+  $context = stream_context_create([
+        "http" => [     
+          "method" => "GET",
+          ]
+    ]);
+
+  $json=file_get_contents($url,false,$context);
+  //var_dump($http_response_header);  //prints response header
+  if($json)
+  {
+    $result=json_decode($json);
+    //var_dump($result);
+
+    for($x=0;$x<4;$x++)
+  {
+    $data=$result[$x];
+    //var_dump($data);
+    //echo("NEXT");
+     // $doc = new DOMDocument();
+    //$doc->loadHTML($data->content);
+    $data->content = preg_replace("/<img[^>]+\>/i", "", $data->content); 
+    $data->content = preg_replace("/<table[^>]*>.*?<\/table>/s", "", $data->content); 
+    $data->content=strip_tags($data->content);
+    $data->content=trim($data->content);
+    $data->content=substr($data->content,0,250);
+    if(strlen($data->content)==0)
+      $data->content="No description available.";
+
+    // if (preg_match('/<p>(.*?)<\/p>/i', $data->content, $paragraphs))
+    // {
+    //   $data->content=$paragraphs[0];   
+    // }
+    echo"<article class=\"post post_mod-a clearfix wow \" data-wow-duration=\"1s\">
+                  <div class=\"entry-main\">
+                    <div class=\"entry-meta\"> <span class=\"entry-autor\"> <span>By </span> <a class=\"post-link\" href=\"javascript:void(0);\">NSIT,CollegeSpace</a> </span> <span class=\"entry-date\"><a href=\"javascript:void(0);\">{$data->date}</a></span> </div>
+                    <h3 class=\"entry-title ui-title-inner decor decor_mod-b\"><a href={$data->link}>{$data->title}</a></h3>
+                    <div class=\"entry-content\">
+                      <p>{$data->content}</p>
                     </div>
                   </div>
-                </article>
-                <!-- end post -->
-                <article class="post post_mod-a clearfix wow " data-wow-duration="2s" data-wow-delay=".5s">
-                  <div class="entry-media">
-                    <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/250x250/2.jpg" width="250" height="250" alt="Foto"/></a> </div>
-                    <div class="entry-hover">
-                      <div class="box-comments"> <a href="javascript:void(0);"><i class="icon stroke icon-Message"></i>25</a> <a href="javascript:void(0);"><i class="icon stroke icon-User"></i>65</a> </div>
-                      <a href="javascript:void(0);" class="post-btn btn btn-primary btn-effect">DOWNLOAD</a> </div>
-                  </div>
-                  <div class="entry-main">
-                    <div class="entry-meta"> <span class="entry-autor"> <span>By </span> <a class="post-link" href="javascript:void(0);">John Milton</a> </span> <span class="entry-date"><a href="javascript:void(0);">Dec 16, 2015</a></span> </div>
-                    <h3 class="entry-title ui-title-inner decor decor_mod-b"><a href="javascript:void(0);">Introduction to Computer & MOBILE</a></h3>
-                    <div class="entry-content">
-                      <p>Esasellus luctus nibhay pulvinar biben aum aliqua ligula sapien</p>
-                    </div>
-                  </div>
-                </article>
-                <!-- end post -->
-                <article class="post post_mod-a clearfix wow " data-wow-duration="2s" data-wow-delay="1s">
-                  <div class="entry-media">
-                    <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/250x250/3.jpg" width="250" height="250" alt="Foto"/></a> </div>
-                    <div class="entry-hover">
-                      <div class="box-comments"> <a href="javascript:void(0);"><i class="icon stroke icon-Message"></i>25</a> <a href="javascript:void(0);"><i class="icon stroke icon-User"></i>65</a> </div>
-                      <a href="javascript:void(0);" class="post-btn btn btn-primary btn-effect">DOWNLAOD</a> </div>
-                  </div>
-                  <div class="entry-main">
-                    <div class="entry-meta"> <span class="entry-autor"> <span>By </span> <a class="post-link" href="javascript:void(0);">ANS niversity</a> </span> <span class="entry-date"><a href="javascript:void(0);">Dec 16, 2015</a></span> </div>
-                    <h3 class="entry-title ui-title-inner decor decor_mod-b"><a href="javascript:void(0);">CLINICAL SUPERVISION WITH CONFIDENCE</a></h3>
-                    <div class="entry-content">
-                      <p>Esasellus luctus nibhay pulvinar biben aum aliqua ligula sapien</p>
-                    </div>
-                  </div>
-                </article>
-                <!-- end post -->
-                <article class="post post_mod-a clearfix wow " data-wow-duration="2s" data-wow-delay="1.5s">
-                  <div class="entry-media">
-                    <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/250x250/4.jpg" width="250" height="250" alt="Foto"/></a> </div>
-                    <div class="entry-hover">
-                      <div class="box-comments"> <a href="javascript:void(0);"><i class="icon stroke icon-Message"></i>25</a> <a href="javascript:void(0);"><i class="icon stroke icon-User"></i>65</a> </div>
-                      <a href="javascript:void(0);" class="post-btn btn btn-primary btn-effect">DOWNLOAD</a> </div>
-                  </div>
-                  <div class="entry-main">
-                    <div class="entry-meta"> <span class="entry-autor"> <span>By </span> <a class="post-link" href="javascript:void(0);">John Milton</a> </span> <span class="entry-date"><a href="javascript:void(0);">Dec 16, 2015</a></span> </div>
-                    <h3 class="entry-title ui-title-inner decor decor_mod-b"><a href="javascript:void(0);">CHILDHOOD IN THE DIGITAL AGE: FACTS</a></h3>
-                    <div class="entry-content">
-                      <p>Esasellus luctus nibhay pulvinar biben aum aliqua ligula sapien</p>
-                    </div>
-                  </div>
-                </article>
-                <!-- end post -->
+        </article>";
+
+    
+  }
+  }
+  else
+    printf("Error in processing request.");
+
+?>
               </div>
               <!-- end posts-wrap -->
               <div style="text-align: center;"><button class="btn btn-effect btn-info">View all updates</button></div>
