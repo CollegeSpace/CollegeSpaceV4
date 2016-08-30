@@ -381,9 +381,6 @@
     </div>
     <!-- end main-content -->
 <?php include "assets/footer.php";?>
-<!--COLOR SWITCHER -->
-<script src="assets/plugins/switcher/js/bootstrap-select.js"></script>
-<script src="assets/plugins/switcher/js/dmss.js"></script>
 
 </body>
 
