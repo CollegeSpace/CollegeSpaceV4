@@ -245,95 +245,82 @@
 				</main><!-- end main-content -->
 
 
-				<footer class="footer">
-					<div class="container">
-						<div class="footer-inner border-decor_top">
-							<div class="row">
-								<div class="col-lg-3 col-sm-3">
-									<section class="footer-section">
-										<h3 class="footer-title">ABOUT US</h3>
-										<a href="javascript:void(0);"><img class="footer-logo img-responsive" src="assets/img/logo.png" height="50" width="195" alt="Logo"></a>
-										<div class="footer-info">Fusce eleifend. Donec sapien sed pha seah lusa. Pellentesque lu amus lorem arcu sem per duiac. Vivamus porta. Sed at nisl praesnt blandit mauris vel erat.</div>
-										<div class="footer-contacts footer-contacts_mod-a">
-											<i class="icon stroke icon-Pointer"></i>
-											<address class="footer-contacts__inner">370 Hill Park, Florida, USA</address>
-										</div>
-										<div class="footer-contacts">
-											<i class="icon stroke icon-Phone2"></i>
-											<span class="footer-contacts__inner">Call us 0800 12345</span>
-										</div>
-										<div class="footer-contacts">
-											<i class="icon stroke icon-Mail"></i>
-											<a class="footer-contacts__inner" href="mailto:Info@academica.com">Info@academica.com</a>
-										</div>
-									</section><!-- end footer-section -->
-								</div><!-- end col -->
+				<footer class="footer wow fadeInUp" data-wow-duration="2s" style="visibility: visible; animation-duration: 2s; animation-name: fadeInUp;">
+      <div class="container">
+        <div class="footer-inner border-decor_top">
+          <div class="row">
+    
+            <div class="col-lg-4 col-sm-4">
+              <section class="footer-section">
+                <h3 class="footer-title">ABOUT US</h3>
+                <a href="javascript:void(0);"><img class="footer-logo img-responsive" src="assets/img/logo.png" height="50" width="195" alt="Logo"></a>
+                <div class="footer-info">CollegeSpace, the Socio-Academic Portal of NSIT, is the most frequently-visited website of NSIT. We started out with a team of three with an aim to provide everything that is necessary to the students during the four years of college and now, after five successful years, we have a large team of hardworking and committed students working in various departments.</div>
+                <div class="footer-contacts footer-contacts_mod-a"> <i class="icon stroke icon-Pointer"></i>
+                  <address class="footer-contacts__inner">
+                  NSIT,New Delhi
+                  </address>
+                </div>
+                <div class="footer-contacts"> <i class="icon stroke icon-Phone2"></i> <span class="footer-contacts__inner">Call us 0800 12345</span> </div>
+                <div class="footer-contacts"> <i class="icon stroke icon-Mail"></i> <a class="footer-contacts__inner" href="mailto:Info@academica.com">Info@academica.com</a> </div>
+              </section>
+              <!-- end footer-section -->
+            </div>
+            <!-- end col -->
+       <div class="col-lg-3 col-sm-3 col-sm-offset-1">
+                  <section class="footer-section">
+                    <h3 class="footer-title">QUICK LINKS</h3>
+                    <ul class="footer-list list-unstyled">
+                      <li class="footer-list__item"><a class="footer-list__link" href="http://updates.collegespace.in/category/notices/">Notices</a></li>
+                      <li class="footer-list__item"><a class="footer-list__link" href="http://updates.collegespace.in/category/datesheets/">Datesheets</a></li>
+                      <li class="footer-list__item"><a class="footer-list__link" href="http://updates.collegespace.in/category/results/">Results</a></li>
+                      <li class="footer-list__item"><a class="footer-list__link" href="http://updates.collegespace.in/notes/">Notes</a></li>
+                      <li class="footer-list__item"><a class="footer-list__link" href="http://updates.collegespace.in/exampapers/">Exam Papers</a></li>
+                      <li class="footer-list__item"><a class="footer-list__link" href="http://updates.collegespace.in/category/syllabus/">Syllabus</a></li>
+                      <li class="footer-list__item"><a class="footer-list__link" href="http://updates.collegespace.in/disclaimer/">Disclaimer</a></li>
+                      <li class="footer-list__item"><a class="footer-list__link" href="http://updates.collegespace.in/copyright/">Copyright</a></li>
+                    </ul>
+                  </section><!-- end footer-section -->
+                </div>
 
-								<div class="col-lg-2 col-sm-3">
-									<section class="footer-section">
-										<h3 class="footer-title">USEFUL LINKS</h3>
-										<ul class="footer-list list-unstyled">
-											<li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Teachers & Staff</a></li>
-											<li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Our Latest Courses</a></li>
-											<li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Who We Are</a></li>
-											<li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Get In Touch</a></li>
-											<li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Courses Categories</a></li>
-											<li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Support & FAQ’s</a></li>
-											<li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Terms & Conditions</a></li>
-											<li class="footer-list__item"><a class="footer-list__link" href="javascript:void(0);">Privacy Policy</a></li>
-										</ul>
-									</section><!-- end footer-section -->
-								</div><!-- end col -->
+      <!-- end col -->
 
-								<div class="col-lg-3 col-sm-3">
-									<section class="footer-section">
-										<h3 class="footer-title">LATEST TWEETS</h3>
-										<div class="tweets">
-											<div class="tweets__text">What is the enemy of #creativity?</div>
-											<div><a href="javascript:void(0);">http://enva.to/hVl5G</a></div>
-											<span class="tweets__time">9 hours ago</span>
-										</div>
-										<div class="tweets">
-											<div class="tweets__text">An agile framework can produce the type of lean marketing essential for the digital age <a href="javascript:void(0);">@aholmes360 #IMDS15</a></div>
-											<span class="tweets__time">9 hours ago</span>
-										</div>
-										<a class="tweets__link" href="javascript:void(0);">Follow @Academica</a>
-									</section><!-- end footer-section -->
-								</div><!-- end col -->
+            
+            <!-- end col -->
+         
+            <div class="col-lg-4 col-sm-4" id="tweet">
+              <section class="footer-section">
+                <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: inline-block; width: 100%; padding: 0px; border: none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px; height: 481px;" data-widget-id="profile:college_space" title="Twitter Timeline"></iframe></section>
+              <!-- end footer-section -->
+            </div>
+            <!-- end col -->
 
-								<div class="col-lg-4 col-sm-3">
-									<section class="footer-section">
-										<h3 class="footer-title">QUICK CONTACT</h3>
-										<form class="form">
-											<div class="form-group">
-												<input class="form-control" type="text" placeholder="Your Name">
-												<input class="form-control" type="email" placeholder="Email address">
-												<textarea class="form-control" rows="7" placeholder="Message"></textarea>
-												<button class="btn btn-primary btn-effect">SEND MESSSAGE</button>
-											</div>
-										</form>
-									</section><!-- end footer-section -->
-								</div><!-- end col -->
-							</div><!-- end row -->
-						</div><!-- end footer-inner -->
 
-						<div class="row">
-							<div class="col-xs-12">
-								<div class="footer-bottom">
-									<div class="copyright">Copyright © 2015 <a href="javascript:void(0);">Academica</a>, Online Learning  |  Created by <a href="javascript:void(0);">Templines</a></div>
-									<ul class="social-links list-unstyled">
-										<li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
-										<li><a class="icon fa fa-twitter" href="javascript:void(0);"></a></li>
-										<li><a class="icon fa fa-google-plus" href="javascript:void(0);"></a></li>
-										<li><a class="icon fa fa-instagram" href="javascript:void(0);"></a></li>
-										<li><a class="icon fa fa-linkedin" href="javascript:void(0);"></a></li>
-										<li><a class="icon fa fa-youtube-play" href="javascript:void(0);"></a></li>
-									</ul>
-								</div><!-- end footer-bottom -->
-							</div><!-- end col -->
-						</div><!-- end row -->
-					</div><!-- end container -->
-				</footer>
+            <!-- end col -->
+          </div>
+          <!-- end row -->
+        </div>
+        <!-- end footer-inner -->
+
+        <div class="row">
+          <div class="col-xs-12">
+
+              <div class="copyright">Copyright © 2016 <a href="http://collegespace.in/">CollegeSpace</a>
+              <ul class="social-links list-unstyled">
+                <li><a class="icon fa fa-facebook" href="https://www.facebook.com/collegespace/"></a></li>
+                <li><a class="icon fa fa-twitter" href="https://twitter.com/college_space"></a></li>
+
+                <li><a class="icon fa fa-linkedin" href="https://www.linkedin.com/company/collegespace"></a></li>
+
+              </ul>
+            </div>
+            <!-- end footer-bottom -->
+          </div>
+          <!-- end col -->
+        </div>
+        <!-- end row -->
+      </div>
+      <!-- end container -->
+    </footer>
 
 			</div><!-- end wrapper -->
 		</div><!-- end layout-theme -->
