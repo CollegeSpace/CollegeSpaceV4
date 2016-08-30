@@ -6,7 +6,7 @@
                   <ul class="nav navbar-nav">
                     <li class="dropdown"><a href="index.php">Home<span class="nav-subtitle">OUR World</span></a>
                      </li>
-					 <li class="dropdown"> <a href="instructors.php">Team Page<span class="nav-subtitle">Meet us!</span></a>
+					 <li class="dropdown"> <a href="team.php">Team Page<span class="nav-subtitle">Meet us!</span></a>
 
                     </li>
                     <li class="dropdown"> <a href="http://nsitpedia.collegespace.in/" target="_blank">Nsitpedia<span class="nav-subtitle">our personal blog</span></a>
