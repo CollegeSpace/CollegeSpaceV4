@@ -341,6 +341,10 @@
 
 			</div><!-- end wrapper -->
 		</div><!-- end layout-theme -->
+<script type="text/javascript" src="team/js/jquery.js"></script>
+<script type="text/javascript" src="team/js/jquery.isotope.min.js"></script>
+<script type="text/javascript" src="team/js/lightbox.min.js"></script>
+<script type="text/javascript" src="team/js/main.js"></script>
 <?php include ("assets/footer.php");?>
 </body>
 </html>
