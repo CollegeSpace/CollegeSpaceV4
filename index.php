@@ -11,13 +11,6 @@
 <link href="assets/plugins/switcher/css/switcher.css" rel="stylesheet" id="switcher-css" media="all">
 <script src="assets/plugins/jquery/jquery-1.11.3.min.js"></script>
 </head>
-<style>
-  #tweet{
-    max-height: 450px;
-    overflow-y: hidden;
-    overflow-x:hidden;
-  }
-</style>
 <body>
 
 <!-- Loader -->
@@ -28,10 +21,10 @@
 
 
 
-  <div id="wrapper">
+<div id="wrapper">
 
-<?php include "assets/header.php";
-	include "assets/navigation.php"; ?>
+<?php include "assets/header.php"; ?>
+
 
     <div class="main-content">
       <div id="sliderpro1" class="slider-pro main-slider">
@@ -383,7 +376,7 @@
       </section>-->
       <!-- end section-subscribe -->
 
-     
+
       <!-- end container -->
     </div>
     <!-- end main-content -->
