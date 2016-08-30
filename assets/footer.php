@@ -70,6 +70,12 @@
 <script src="assets/js/cssua.min.js"></script>
 <script src="assets/js/wow.min.js"></script>
 <script src="assets/js/custom.min.js"></script>
+
+<script type="text/javascript" src="team/js/jquery.js"></script>
+<script type="text/javascript" src="team/js/jquery.isotope.min.js"></script>
+<script type="text/javascript" src="team/js/lightbox.min.js"></script>
+<script type="text/javascript" src="team/js/main.js"></script>
+
 <!--Twitter Script-->
 <script>
 window.twttr = (function(d, s, id) {
