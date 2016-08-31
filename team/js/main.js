@@ -35,8 +35,10 @@ jQuery(function($) {'use strict';
 			
 			var $portfolio = $('.portfolio-items');
 			$portfolio.isotope({
-				itemSelector : '.leadership',
+				itemSelector : '.portfolio-item',
+				filter:'.leadership',
 				layoutMode : 'fitRows'
+
 			});
 			
 			$portfolio_selectors.on('click', function(){
