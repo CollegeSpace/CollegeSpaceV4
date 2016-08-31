@@ -1,31 +1,15 @@
+<?php include("assets/functions.php") ?>
+
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui">
-		<title>Contact Us</title>
-		<link href="favicon.png" type="image/x-icon" rel="shortcut icon">
-		<link href="assets/css/master.css" rel="stylesheet">
-
-<script src="assets/plugins/jquery/jquery-1.11.3.min.js"></script>
-
-</head>
-
+<head><?php PrintHeadMetadata("CollegeSpace | Contact Us"); ?></head>
 <body>
 
-<!-- Loader -->
 <div id="page-preloader"><span class="spinner"></span></div>
-<!-- Loader end -->
-		<div class="layout-theme animated-css"  data-header="sticky" data-header-top="200">
+<div class="layout-theme animated-css"  data-header="sticky" data-header-top="200">
 
-
-
-
-			<div id="wrapper">
-
-<?php include "assets/header.php";
-	include "assets/navigation.php"; ?>
+<div id="wrapper">
+<?php include ("assets/header.php"); ?>
 
 
 				<div class="wrap-title-page">

@@ -2153,6 +2153,12 @@ header-inner .form-control::-moz-placeholder {
     visibility: visible; 
 }
 
+#tweet{
+    max-height: 450px;
+    overflow-y: hidden;
+    overflow-x:hidden;
+  }
+
 
 #search-open{
     float: right;
