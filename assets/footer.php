@@ -34,7 +34,7 @@
                   </section><!-- end footer-section -->
             </div>
 
-            <div class="col-lg-3 col-sm-3" id="tweet">
+            <div class="col-lg-4 col-sm-4" id="tweet">
                     <section class="footer-section">
                         <a class="twitter-timeline" data-tweet-limit="3" data-theme="dark" data-chrome="transparent"   href="https://twitter.com/college_space">Tweets by college_space</a>
                     </section>
