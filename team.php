@@ -31,8 +31,7 @@
 
 			<div id="wrapper">
 
-<?php include "assets/header.php";
-    include "assets/navigation.php"; ?>
+<?php include "assets/header.php"; ?>
 
 
 				<div class="wrap-title-page">
@@ -65,34 +64,34 @@
                                 <br>
                                 <div id="#founders"><center>
                                     <div class="staff founder_profile">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/media/staff/7.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><button id="myBtn1" class="btn btn-primary btn-effect"><center>VIEW PROFILE</center></button></div></div>
+                                        <div class="staff__media"><img class="img-responsive" src="assets/media/staff/7.jpg" height="100" width="100%" alt="foto"><div class="staff__hover"><button id="myBtn1" class="btn btn-primary btn-effect"><center>VIEW PROFILE</center></button></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">Sophia grace</h3>
 
                                            
                                             <div class="staff__categories"><a class="post-link" href="javascript:void(0);">Artist</a></div>
                                             <div class="staff__description">Easellus luctus nib pulvinar bien quam ligula sapien condime</div>
-                                            <ul class="social-links list-unstyled">
+                                           <!--  <ul class="social-links list-unstyled">
                                                 <li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
                                                 <li><a class="icon fa fa-twitter" href="javascript:void(0);"></a></li>
                                                 <li><a class="icon fa fa-google-plus" href="javascript:void(0);"></a></li>
                                                 <li><a class="icon fa fa-linkedin" href="javascript:void(0);"></a></li>
-                                            </ul>
+                                            </ul> -->
                                         </div>
                                     </div>
 
                                     <div class="staff founder_profile">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/media/staff/5.jpg" height="250" width="100%" alt="foto" ><div class="staff__hover"><a id="myBtn2" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="img-responsive" src="assets/media/staff/5.jpg" height="100" width="100%" alt="foto" ><div class="staff__hover"><a id="myBtn2" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">MARIA LAURAN</h3>
                                             <div class="staff__categories"><a class="post-link" href="javascript:void(0);">Developer</a></div>
                                             <div class="staff__description">Easellus luctus nib pulvinar bien quam ligula sapien condime</div>
-                                            <ul class="social-links list-unstyled">
+                                            <!-- <ul class="social-links list-unstyled">
                                                 <li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
                                                 <li><a class="icon fa fa-twitter" href="javascript:void(0);"></a></li>
                                                 <li><a class="icon fa fa-google-plus" href="javascript:void(0);"></a></li>
                                                 <li><a class="icon fa fa-linkedin" href="javascript:void(0);"></a></li>
-                                            </ul>
+                                            </ul> -->
                                         </div>
                                     </div></center>
                                 </div>
@@ -108,7 +107,7 @@
                 </ul><!--/#portfolio-filter-->
                     
                 <div class="portfolio-items" style="z-index:1;">
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc hidden">
                         <div class="portfolio-wrapper">
                             
                             <div class="staff">
@@ -128,7 +127,7 @@
                         </div>
                     </div>
 
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item  webd">  <!--  -->
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item  webd hidden">  <!--  -->
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -147,7 +146,7 @@
                         </div>
                         </div>
                     
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc">  
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc hidden">  
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
@@ -165,7 +164,7 @@
                                     </div>
                         
                     
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc">
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc hidden">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -237,7 +236,7 @@
                                     </div>  
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc">
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc hidden">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/1.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -309,7 +308,7 @@
                                     </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentw">
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentw hidden">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -327,7 +326,7 @@
                                     </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc">
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc hidden">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/8.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -613,13 +612,23 @@
 			</div><!-- end wrapper -->
 		</div><!-- end layout-theme -->
 
-<script>
+<!-- <script>
 
-$( document ).ready(function leaderonly(leadership) {
-    $('div').not('.'+leadership).hide();
+$( document ).load(function{
+    $(+ ".tech").hide();
+    $(+ ".webd").hide();
+    $(+ ".contentc").hide();
+    $(+ ".contentw").hide();
+    $(+ ".alum").hide();
 }
 
-</script>
+</script> -->
+
+<!-- <script type="text/javascript">
+ $(document).ready(function() {
+    $("div#extraControls").removeClass("hidden");
+});      
+</script> -->
 
 	<!-- SCRIPTS --> 
     <script src="assets/js/jquery-migrate-1.2.1.js"></script>
