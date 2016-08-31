@@ -1,39 +1,15 @@
+<?php include("assets/functions.php") ?>
+
 <!DOCTYPE html>
 <html lang="en">
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui">
-		<title>CollegeSpace| Team</title>
-		<!-- <link href="favicon.png" type="image/x-icon" rel="shortcut icon"> -->
-		<link href="assets/css/master.css" rel="stylesheet">
-		<link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- <link href="team/css/font-awesome.min.css" rel="stylesheet"> -->
-    <link href="team/css/lightbox.css" rel="stylesheet">  
-    <!-- <link href="team/css/animate.min.css" rel="stylesheet">  -->
-	<link href="team/css/main.css" rel="stylesheet">
-	<link href="team/css/responsive.css" rel="stylesheet">
-		
-
-<script src="assets/plugins/jquery/jquery-1.11.3.min.js"></script>
-
-</head>
-
+<head><?php PrintHeadMetadata("CollegeSpace | Team"); ?></head>
 <body>
 
-<!-- Loader -->
 <div id="page-preloader"><span class="spinner"></span></div>
-<!-- Loader end -->
-		<div class="layout-theme animated-css"  data-header="sticky" data-header-top="200">
+<div class="layout-theme animated-css"  data-header="sticky" data-header-top="200">
 
-			
-
-
-			<div id="wrapper">
-
-<?php include "assets/header.php"; ?>
-
-
+<div id="wrapper">
+<?php include ("assets/header.php"); ?>
 				<div class="wrap-title-page">
 					<div class="container">
 						<div class="row">
@@ -605,56 +581,12 @@
                                          </script>
                         		</main><!-- end main-content -->
 
-<?php include "assets/footer.php";?>
-
-				
-
 			</div><!-- end wrapper -->
 		</div><!-- end layout-theme -->
-
-<!-- <script>
-
-$( document ).load(function{
-    $(+ ".tech").hide();
-    $(+ ".webd").hide();
-    $(+ ".contentc").hide();
-    $(+ ".contentw").hide();
-    $(+ ".alum").hide();
-}
-
-</script> -->
-
-<!-- <script type="text/javascript">
- $(document).ready(function() {
-    $("div#extraControls").removeClass("");
-});      
-</script> -->
-
-	<!-- SCRIPTS --> 
-    <script src="assets/js/jquery-migrate-1.2.1.js"></script>
-    <script src="assets/js/modernizr.custom.js"></script> 
-    <script src="assets/js/waypoints.min.js"></script> 
-    <script src="../../cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script> 
-
-<!--THEME--> 
-    <script  src="assets/plugins/sliderpro/js/jquery.sliderPro.min.js"></script> 
-    <script src="assets/plugins/owl-carousel/owl.carousel.min.js"></script> 
-    <script src="assets/plugins/isotope/jquery.isotope.min.js"></script> 
-    <script src="assets/plugins/prettyphoto/js/jquery.prettyPhoto.js"></script> 
-    <script src="assets/plugins/datetimepicker/jquery.datetimepicker.js"></script> 
-    <script src="assets/plugins/jelect/jquery.jelect.js"></script> 
-    <script src="assets/plugins/rendro-easy-pie-chart/dist/jquery.easypiechart.min.js"></script> 
-    <script src="assets/js/cssua.min.js"></script> 
-    <script src="assets/js/wow.min.js"></script> 
-    <script src="assets/js/custom.min.js"></script> 
-
-    <script type="text/javascript" src="team/js/jquery.js"></script>
-    <!-- <script type="text/javascript" src="team/js/bootstrap.min.js"></script> -->
-    <script type="text/javascript" src="team/js/jquery.isotope.min.js"></script>
-    <script type="text/javascript" src="team/js/lightbox.min.js"></script>
-    <!-- <script type="text/javascript" src="team/js/wow.min.js"></script> -->
-    <script type="text/javascript" src="team/js/main.js"></script>  
-
+<script type="text/javascript" src="team/js/jquery.js"></script>
+<script type="text/javascript" src="team/js/jquery.isotope.min.js"></script>
+<script type="text/javascript" src="team/js/lightbox.min.js"></script>
+<script type="text/javascript" src="team/js/main.js"></script>
+<?php include ("assets/footer.php");?>
 </body>
-
 </html>
