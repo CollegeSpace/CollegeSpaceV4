@@ -35,7 +35,7 @@ jQuery(function($) {'use strict';
 			
 			var $portfolio = $('.portfolio-items');
 			$portfolio.isotope({
-				itemSelector : '.portfolio-item',
+				itemSelector : '.leadership',
 				layoutMode : 'fitRows'
 			});
 			
