@@ -46,15 +46,15 @@
 				<main class="main-content">
 
 					<div class="container">
-						<div class="row">
-							<div class="col-sm-12">
-								<div class="wrap-title wrap-title_mod-b">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="wrap-title wrap-title_mod-b">
                                 <br>
-									<div class="ui-subtitle-block" ><italics>"If you seek what they built ,look around"</italics></div>
-								</div><!-- end wrap-title -->
+                                    <div class="ui-subtitle-block" ><italics>"If you seek what they built ,look around"</italics></div>
+                                </div><!-- end wrap-title -->
 
 
-								  <div id="portfolio">
+                                  <div id="portfolio">
         <div class="container">
             <div class="row">
 
@@ -98,8 +98,8 @@
                                 </div>
 
                 <ul class="portfolio-filter text-center">
-                    <li><a class="btn btn-default active" href="#" data-filter="*">All</a></li>
-                    <li><a class="btn btn-default" href="#" data-filter=".leadership">Leadership</a></li>
+                    <!-- <li><a class="btn btn-default active" href="#" data-filter="*">All</a></li> -->
+                    <li><a class="btn btn-default active" href="#" data-filter=".leadership">Leadership</a></li>
                     <li><a class="btn btn-default" href="#" data-filter=".tech">Tech Heads</a></li>
                     <li><a class="btn btn-default" href="#" data-filter=".webd">WebDevs</a></li>
                     <li><a class="btn btn-default" href="#" data-filter=".contentc">Content Collectors</a></li>
@@ -107,8 +107,8 @@
                     <li><a class="btn btn-default" href="#" data-filter=".alum">Alumini</a></li>
                 </ul><!--/#portfolio-filter-->
                     
-                <!-- <div class="portfolio-items"> -->
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc">
+                <div class="portfolio-items" style="z-index:1;">
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
                         <div class="portfolio-wrapper">
                             
                             <div class="staff">
@@ -128,8 +128,8 @@
                         </div>
                     </div>
 
-                    <div class="col-xs-6 col-sm-4 col-md-3  webd">  <!-- portfolio-item -->
-                        <!-- <div class="portfolio-wrapper"> -->
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item  webd">  <!--  -->
+                        <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
@@ -145,9 +145,9 @@
                                         </div>
                                     </div>
                         </div>
+                        </div>
                     
-                    <div class="col-xs-6 col-sm-4 col-md-3  tech contentc">  <!-- portfolio-item -->
-                        <!-- <div class="portfolio-wrapper"> -->
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc">  
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
@@ -162,7 +162,8 @@
                                             </ul>
                                         </div>
                                     </div> 
-                        </div>
+                                    </div>
+                        
                     
                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc">
                         <div class="portfolio-wrapper">
@@ -381,13 +382,13 @@
                         </div>
                     </div>
                 </div>
-                
+               </div>
             </div>
         </div>
     
                             
 
-                                           <div id="myModal1" class="modal">
+                                           <div id="myModal1" class="modal" style="z-index:1000000;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -441,7 +442,7 @@
                                         }
                                          </script>
 
-                                         <div id="myModal2" class="modal">
+                                         <div id="myModal2" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -603,7 +604,7 @@
                                           }
                                         }
                                          </script>
-				</main><!-- end main-content -->
+                        		</main><!-- end main-content -->
 
 <?php include "assets/footer.php";?>
 
@@ -612,6 +613,13 @@
 			</div><!-- end wrapper -->
 		</div><!-- end layout-theme -->
 
+<script>
+
+$( document ).ready(function leaderonly(leadership) {
+    $('div').not('.'+leadership).hide();
+}
+
+</script>
 
 	<!-- SCRIPTS --> 
     <script src="assets/js/jquery-migrate-1.2.1.js"></script>
