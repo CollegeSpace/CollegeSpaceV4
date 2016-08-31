@@ -135,7 +135,7 @@ $(document).ready(function() {
 	
 	
 
-
+    /*
     if (windowWidth > tabletWidth) {
 
         var headerSticky = $(".layout-theme").data("header");
@@ -155,7 +155,7 @@ $(document).ready(function() {
                 }
             });
         }
-    }
+    }*/
 
 	
 		/////////////////////////////////////

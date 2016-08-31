@@ -69,7 +69,7 @@
 <script src="assets/plugins/rendro-easy-pie-chart/dist/jquery.easypiechart.min.js"></script>
 <script src="assets/js/cssua.min.js"></script>
 <script src="assets/js/wow.min.js"></script>
-<script src="assets/js/custom.min.js"></script>
+<script src="assets/js/custom.js"></script>
 
 <!--Twitter Script-->
 <script>
