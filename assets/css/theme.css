@@ -371,7 +371,7 @@ img.pull-left {
 }
 .header-inner {
 	float: right;
-	padding-top: 38px;
+	padding-top: 23px;
 	text-align: right;
 	position:relative;
 }
@@ -383,8 +383,8 @@ img.pull-left {
 	z-index: 100;
 }
 .header-logo__img {
-	margin-top: 30px;
-	margin-bottom: 27px;
+	margin-top: 15px;
+	margin-bottom: 12px;
 }
 .header-cart {
     position: relative;
@@ -2102,7 +2102,7 @@ transform: rotate(360deg);
     opacity: 0;
     position: absolute;
     color: #000;
-    top: 28px;
+    top: 13px;
     right: 0;
     transition: all 0.3s ease 0s;
     visibility:hidden;
@@ -2152,6 +2152,12 @@ header-inner .form-control::-moz-placeholder {
     opacity: 1;
     visibility: visible; 
 }
+
+#tweet{
+    max-height: 450px;
+    overflow-y: hidden;
+    overflow-x:hidden;
+  }
 
 
 #search-open{
