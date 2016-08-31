@@ -107,7 +107,7 @@
                 </ul><!--/#portfolio-filter-->
                     
                 <div class="portfolio-items" style="z-index:1;">
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc hidden">
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
                         <div class="portfolio-wrapper">
                             
                             <div class="staff">
@@ -127,7 +127,7 @@
                         </div>
                     </div>
 
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item  webd hidden">  <!--  -->
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item  webd ">  <!--  -->
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -146,7 +146,7 @@
                         </div>
                         </div>
                     
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc hidden">  
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc ">  
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
@@ -164,7 +164,7 @@
                                     </div>
                         
                     
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc hidden">
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc ">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -236,7 +236,7 @@
                                     </div>  
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc hidden">
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc ">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/1.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -308,7 +308,7 @@
                                     </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentw hidden">
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentw ">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -326,7 +326,7 @@
                                     </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc hidden">
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc ">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/8.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -626,7 +626,7 @@ $( document ).load(function{
 
 <!-- <script type="text/javascript">
  $(document).ready(function() {
-    $("div#extraControls").removeClass("hidden");
+    $("div#extraControls").removeClass("");
 });      
 </script> -->
 
