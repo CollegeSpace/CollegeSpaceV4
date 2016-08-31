@@ -371,7 +371,7 @@ img.pull-left {
 }
 .header-inner {
 	float: right;
-	padding-top: 23px;
+	padding-top: 38px;
 	text-align: right;
 	position:relative;
 }
@@ -383,8 +383,8 @@ img.pull-left {
 	z-index: 100;
 }
 .header-logo__img {
-	margin-top: 15px;
-	margin-bottom: 12px;
+	margin-top: 30px;
+	margin-bottom: 27px;
 }
 .header-cart {
     position: relative;
@@ -2102,7 +2102,7 @@ transform: rotate(360deg);
     opacity: 0;
     position: absolute;
     color: #000;
-    top: 13px;
+    top: 28px;
     right: 0;
     transition: all 0.3s ease 0s;
     visibility:hidden;
@@ -2152,12 +2152,6 @@ header-inner .form-control::-moz-placeholder {
     opacity: 1;
     visibility: visible; 
 }
-
-#tweet{
-    max-height: 450px;
-    overflow-y: hidden;
-    overflow-x:hidden;
-  }
 
 
 #search-open{
@@ -2415,48 +2409,4 @@ header-inner .form-control::-moz-placeholder {
     clear:both;
 }
 
-.staff{
-	border: 10px solid #fff;
-	text-align: left;
-	text-transform: none;
-	margin: 15px;
-	z-index: 1;
-	box-shadow: 
-		0px 0px 0px 10px rgba(255,255,255,1), 
-		1px 1px 3px 10px rgba(0,0,0,0.2);
-	transition: 
-		opacity 0.4s linear, 
-		transform 0.4s ease-in-out, 
-		box-shadow 0.4s ease-in-out;
-		
-	-webkit-backface-visibility: hidden	
-}
 
-.staff__media, .staff__inner, .staff__categories,.staff__description,
- .social-links{
-	 transition: 
-		opacity 0.2s linear, 
-		text-shadow 0.5s ease-in-out, 
-		color 0.5s ease-in-out;
- }
- 
- .blur{
-	 box-shadow: 0px 0px 20px 10px rbga(255,255,255,1);
-	 transform: scale(0.9);
-	 opacity: 0.7;
-	  filter: blur(10px);
-		-webkit-filter: blur(10px);
-		-moz-filter: blur(10px);
-		-o-filter: blur(10px);
-		-ms-filter: blur(10px);
-	 
- }
-
-.staff .act {
-	 transform: scale(1.05);
-	 box-shadow:
-	 0px 0px 0px 10px rbga(255,255,255,1)
-	 1px 11px 15px 10px rgba(0,0,0,0.4);
-	z-index: 100;	
-	opacity: 1;
- }
