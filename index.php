@@ -10,6 +10,8 @@
 
 <div id="wrapper">
 <?php include ("assets/header.php"); ?>
+<div id="spacing">
+</div>
   <div class="main-content">
     <div id="sliderpro1" class="slider-pro main-slider">
       <div class="sp-slides">
@@ -22,6 +24,7 @@
         <a class="main-slider__btn btn btn-warning btn-effect" href="http://html.templines.com/">START A COURSE</a> </div>-->
           </div>
         </div>
+		
         <div class="sp-slide"> <img class="sp-image" src="assets/media/main-slider/2.jpg" data-src="assets/media/main-slider/image03.jpg" data-retina="assets/media/main-slider/image03.jpg" alt="img"/>
           <div class="item-wrap sp-layer  sp-padding" data-horizontal="200" data-vertical="30" data-show-transition="left" data-hide-transition="up" data-show-delay="400" data-hide-delay="200">
         <!--<div class="main-slider__inner">
