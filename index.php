@@ -49,8 +49,8 @@
     </div>
     <div class="section_mod-a">
     <div class="container">
-      <div class="section_mod-a__inner">
-      <div class="row">
+      <div class="section_mod-a__inner" id="note_sec">
+      <div class="row" >
         <div class="col-md-8">
         <section class="section-advantages wow" >
           <h2 class="ui-title-block ui-title-block_mod-a">We Bring You The World’s Best Courses From All The Top Publishers, Absolutely FREE!</h2>
