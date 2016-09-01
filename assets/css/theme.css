@@ -2306,7 +2306,8 @@ header-inner .form-control::-moz-placeholder {
     background-color: #fefefe;
     margin: auto;
     padding: 0;
-    border: 1px solid #888;
+    border-left: 100px solid aqua;
+    border-bottom:5px dotted black;
     width: 30%;
     
     -webkit-animation-name: animatetop;
@@ -2343,15 +2344,18 @@ header-inner .form-control::-moz-placeholder {
 .modal-header {
 
     padding: 2px 16px;
-    background-color: #5cb85c;
-    color: white;
+    background-color: white;
+    color: blue;
 }
 
-.modal-body {padding: 2px 16px;}
+.modal-body 
+{
+ padding: 10px solid #888;
+}
 
 .modal-footer {
     padding: 2px 16px;
-    background-color: #5cb85c;
+    background-color: white;
     color: white;
 }
 
