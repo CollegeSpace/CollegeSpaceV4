@@ -41,7 +41,6 @@ function GetScore($content, $query, $scoreAddition = 10)
 }
 if(isset($_GET["query"]))
 {
-  
   $jsonDump = cacheAndGetJsonDump();
   $jsonedDump = json_decode($jsonDump);
   $result = array();
@@ -55,22 +54,18 @@ if(isset($_GET["query"]))
     $score = 0;
     if (filter_var($content, FILTER_VALIDATE_URL)) {
       // is a link.
-      $score += GetScore($content, $query, 8);
+      $score += GetScore($content, $query, 1);
     }
     else
     {
-      $score += GetScore($content, $query, 10);
+      $score += GetScore($content, $query, 1);
     }
-    
     $link = $article->link;
-    $score += GetScore($link, $query, 6);
-    
+    $score += GetScore($link, $query, 1);
     $title = $article->title;
-    $score += GetScore($link, $query, 12);
+    $score += GetScore($link, $query, 1);
     $articleTemp["score"] = $score;
-
     //echo $articleTemp["score"];
-
     if($score > 0)
     {
       array_push($result, $articleTemp);
@@ -89,8 +84,6 @@ else
 ?>
 <!DOCTYPE html>
 <html lang="en">
-
-
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <meta charset="utf-8">
@@ -102,19 +95,13 @@ else
 <link href="assets/plugins/switcher/css/switcher.css" rel="stylesheet" id="switcher-css" media="all">
 <script src="assets/plugins/jquery/jquery-1.11.3.min.js"></script>
 </head>
-
 <body>
-
 <!-- Loader -->
 <div id="page-preloader"><span class="spinner"></span></div>
 <!-- Loader end -->
-
 <div class="layout-theme animated-css"  data-header="sticky" data-header-top="200">
-
-
 <!-- UI Author : Chaitanya Dwivedi -->
   <div id="wrapper">
-
     <!-- HEADER -->
     <header class="header" id="search-page-header">
      <div class="container" id="search-page-container">
@@ -142,20 +129,16 @@ else
                     <li class="dropdown"><a href="#">Home<span class="nav-subtitle">OUR World</span></a>
                      </li>
 					 <li class="dropdown"> <a href="instructors.html">Team Page<span class="nav-subtitle">Meet us!</span></a>
-
                     </li>
                     <li class="dropdown"> <a href="../external.html?link=http://nsitpedia.collegespace.in/" target="_blank">Nsitpedia<span class="nav-subtitle">our personal blog</span></a>
-
                     </li>
                     <li class="dropdown"> <a href="../external.html?link=http://updates.collegespace.in/" target="_blank">Updates<span class="nav-subtitle">Section for ghissus</span></a>
-
                     </li>
                     <li><a href="contact.html">CONTACT<span class="nav-subtitle">say us hi</span></a></li>
                   </ul>
                 </div>
               </nav>
               <!--end navbar -->
-
             </div>
             <!-- end header-inner -->
           </div>
@@ -166,7 +149,6 @@ else
       <!-- end container-->
     </header>
     <!-- end header -->
-
     <div class="main-content">
       <div id="search-results">
         <div class="list-group" id="search-item">
@@ -205,15 +187,8 @@ else
           <?php
         }
 ?>
-
 </div>
       </div>
-
-
-
-
-
-
     </div>
     <footer class="footer wow fadeInUp" data-wow-duration="2s">
       <div class="container">
@@ -237,17 +212,13 @@ else
               <!-- end footer-section -->
             </div>
             <!-- end col -->
-
             <div class="col-lg-2 col-sm-3">
-
               <!-- end footer-section -->
             </div>
             <!-- end col -->
           <div class="col-lg-2 col-sm-3">
-
             </div>
 			<div class="col-lg-2 col-sm-3">
-
             </div>
             <div class="col-lg-3 col-sm-3">
               <section class="footer-section">
@@ -263,24 +234,18 @@ else
               <!-- end footer-section -->
             </div>
             <!-- end col -->
-
-
             <!-- end col -->
           </div>
           <!-- end row -->
         </div>
         <!-- end footer-inner -->
-
         <div class="row">
           <div class="col-xs-12">
-
               <div class="copyright">Copyright © 2016 <a href="../external.html?link=http://collegespace.in/">CollegeSpace</a>
               <ul class="social-links list-unstyled">
                 <li><a class="icon fa fa-facebook" href="../external.html?link=https://www.facebook.com/collegespace/"></a></li>
                 <li><a class="icon fa fa-twitter" href="../external.html?link=https://twitter.com/college_space"></a></li>
-
                 <li><a class="icon fa fa-linkedin" href="../external.html?link=https://www.linkedin.com/company/collegespace"></a></li>
-
               </ul>
             </div>
             <!-- end footer-bottom -->
@@ -295,14 +260,12 @@ else
   <!-- end wrapper -->
 </div>
 <!-- end layout-theme -->
-
 <!-- SCRIPTS -->
 <script src="assets/js/jquery-migrate-1.2.1.js"></script>
 <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/modernizr.custom.js"></script>
 <script src="assets/js/waypoints.min.js"></script>
 <script src="assets/js/jquery.easing.min.js"></script>
-
 <!--THEME-->
 <script  src="assets/plugins/sliderpro/js/jquery.sliderPro.min.js"></script>
 <script src="assets/plugins/owl-carousel/owl.carousel.min.js"></script>
@@ -314,11 +277,8 @@ else
 <script src="assets/js/cssua.min.js"></script>
 <script src="assets/js/wow.min.js"></script>
 <script src="assets/js/custom.min.js"></script>
-
 <!--COLOR SWITCHER -->
 <script src="assets/plugins/switcher/js/bootstrap-select.js"></script>
 <script src="assets/plugins/switcher/js/dmss.js"></script>
 </body>
-
-
 </html>
