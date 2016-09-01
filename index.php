@@ -214,7 +214,7 @@
     </section>
     <!-- end section-default -->
 
-    <div class="section-progress wow  section-parallax"  data-speed="25"  data-wow-duration="2s">
+    <!--div class="section-progress wow  section-parallax"  data-speed="25"  data-wow-duration="2s">
     <div class="container">
       <div class="row">
       <div class="col-xs-12">
@@ -224,13 +224,13 @@
         <li class="list-progress__item"> <span class="chart label-chart decor decor_mod-c" data-percent="824"><i class="icon stroke icon-User"></i><span class="percent"></span> </span> <span class="list-progress__name">QUALIFIED STAFF</span> </li>
         <li class="list-progress__item"> <span class="chart label-chart decor decor_mod-c" data-percent="1500"><i class="icon stroke icon-Edit"></i><span class="percent"></span> </span> <span class="list-progress__name">COURSES PUBLISHED</span> </li>
         </ul>
-        <!-- end list-progress -->
+        <!-- end list-progress >
       </div>
-      <!-- end col  -->
+      <!-- end col  >
       </div>
-      <!-- end row  -->
+      <!-- end row  >
     </div>
-    <!-- end container-->
+    <!-- end container>
     </div>
     <!-- end section-progress-->
 
