@@ -3,22 +3,18 @@
         <div class="footer-inner border-decor_top">
             <div class="row">
                 <div class="col-lg-4 col-sm-4">
-              <section class="footer-section">
-                <h3 class="footer-title">ABOUT US</h3>
-                <a href="javascript:void(0);"><img class="footer-logo img-responsive" src="assets/img/logo.png" height="50" width="195" alt="Logo"></a>
-                <div class="footer-info">CollegeSpace, the Socio-Academic Portal of NSIT, is the most frequently-visited website of NSIT. We started out with a team of three with an aim to provide everything that is necessary to the students during the four years of college and now, after five successful years, we have a large team of hardworking and committed students working in various departments.</div>
-                <div class="footer-contacts footer-contacts_mod-a"> <i class="icon stroke icon-Pointer"></i>
-                  <address class="footer-contacts__inner">
-                  NSIT,New Delhi
-                  </address>
-                </div>
-                <div class="footer-contacts"> <i class="icon stroke icon-Phone2"></i> <span class="footer-contacts__inner">Call us +91 7827 775857</span> </div>
-                <div class="footer-contacts"> <i class="icon stroke icon-Mail"></i> <a class="footer-contacts__inner" href="mailto:Info@academica.com">Info@academica.com</a> </div>
-              </section>
+                    <section class="footer-section">
+                        <h3 class="footer-title">ABOUT US</h3>
+                        <a href="javascript:void(0);"><img class="footer-logo img-responsive" src="assets/img/logo.png" height="50" width="195" alt="Logo"></a>
+                        <div class="footer-info">CollegeSpace, the Socio-Academic Portal of NSIT, is the most frequently-visited website of NSIT. We started out with a team of three with an aim to provide everything that is necessary to the students during the four years of college and now, after five successful years, we have a large team of hardworking and committed students working in various departments.</div>
+                        <div class="footer-contacts footer-contacts_mod-a"> <i class="icon stroke icon-Pointer"></i><address class="footer-contacts__inner">NSIT, New Delhi</address></div>
+                        <div class="footer-contacts"> <i class="icon stroke icon-Phone2"></i> <span class="footer-contacts__inner">Call us +91 7827 775857</span> </div>
+                        <div class="footer-contacts"> <i class="icon stroke icon-Mail"></i> <a class="footer-contacts__inner" href="mailto:contact@collegespace.in">contact@collegespace.in</a> </div>
+                    </section>
               <!-- end footer-section -->
-            </div>
+                </div>
             <!-- end col -->
-            <div class="col-lg-3 col-sm-3 col-sm-offset-1">
+                <div class="col-lg-3 col-sm-3 col-sm-offset-1">
                   <section class="footer-section">
                     <h3 class="footer-title">QUICK LINKS</h3>
                     <ul class="footer-list list-unstyled">
@@ -32,7 +28,7 @@
                       <li class="footer-list__item"><a class="footer-list__link" href="http://updates.collegespace.in/copyright/">Copyright</a></li>
                     </ul>
                   </section><!-- end footer-section -->
-            </div>
+                </div>
                 <div class="col-lg-4 col-sm-4" id="tweet">
                     <section class="footer-section">
                         <a class="twitter-timeline" data-tweet-limit="3" data-theme="dark" data-chrome="transparent"   href="https://twitter.com/college_space">Tweets by college_space</a>
