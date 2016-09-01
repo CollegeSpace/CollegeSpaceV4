@@ -48,7 +48,7 @@
 											<i class="icon stroke icon-Phone2"></i>
 											<div class="list-contacts__inner">
 												<div class="list-contacts__title">PHONE</div>
-												<div class="list-contacts__info">+1 (000) 234 5670  |  +0800 12345</div>
+												<div class="list-contacts__info">+91 7827 775857</div>
 											</div>
 										</li>
 										<li class="list-contacts__item">
