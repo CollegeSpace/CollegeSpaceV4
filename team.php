@@ -75,10 +75,11 @@
                 <ul class="portfolio-filter text-center">
                     <!-- <li><a class="btn btn-default active" href="#" data-filter="*">All</a></li> -->
                     <li><a class="btn btn-default active" href="#" data-filter=".leadership">Leadership</a></li>
-                    <li><a class="btn btn-default" href="#" data-filter=".tech">Tech Heads</a></li>
+                    
                     <li><a class="btn btn-default" href="#" data-filter=".webd">WebDevs</a></li>
                     <li><a class="btn btn-default" href="#" data-filter=".contentc">Content Collectors</a></li>
                     <li><a class="btn btn-default" href="#" data-filter=".contentw">Content Writers</a></li>
+                    <li><a class="btn btn-default" href="#" data-filter=".designer">Designers</a></li>
                     <li><a class="btn btn-default" href="#" data-filter=".alum">Alumini</a></li>
                 </ul><!--/#portfolio-filter-->
                     
@@ -122,7 +123,7 @@
                         </div>
                         </div>
                     
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc ">  
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item designer contentc ">  
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
@@ -140,7 +141,7 @@
                                     </div>
                         
                     
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc ">
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item designer contentc ">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -212,7 +213,7 @@
                                     </div>  
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc ">
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item designer contentc ">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/1.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -284,7 +285,7 @@
                                     </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentw ">
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item designer contentw ">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -302,7 +303,7 @@
                                     </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item tech contentc ">
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item designer contentc ">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/8.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
