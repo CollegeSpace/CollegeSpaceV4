@@ -5,9 +5,9 @@
     <div id="navbar-collapse-1" class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
             <li class="dropdown"><a href="index.php">Home<span class="nav-subtitle">OUR World</span></a></li>
-			<li class="dropdown"> <a href="team.php">Team Page<span class="nav-subtitle">Meet us!</span></a></li>
+			<li class="dropdown"> <a href="team.php">Our Team<span class="nav-subtitle">Meet us!</span></a></li>
             <li class="dropdown"> <a href="http://nsitpedia.collegespace.in/" target="_blank">Nsitpedia<span class="nav-subtitle">our personal blog</span></a></li>
-            <li class="dropdown"> <a href="http://updates.collegespace.in/" target="_blank">Updates<span class="nav-subtitle">Section for ghissus</span></a></li>
+            <li class="dropdown"> <a href="http://updates.collegespace.in/" target="_blank">Updates<span class="nav-subtitle">Our web bulletin</span></a></li>
             <li><a href="contact.php">CONTACT<span class="nav-subtitle">say us hi</span></a></li>
         </ul>
     </div>
