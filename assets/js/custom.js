@@ -188,45 +188,9 @@ $(document).ready(function() {
         }
     }*/
 
-
-		/////////////////////////////////////
-    //  DD MENU
-    /////////////////////////////////////
-
-	var dropdownmenu = $('.dropdown-menu');
-
-
-    $(".dropdown").hover(
-        function() {
-            dropdownmenu, this.stop(true, true).slideDown("fast");
-            $(this).toggleClass('open');
-        },
-        function() {
-             dropdownmenu, this.stop(true, true).slideUp("fast");
-            $(this).toggleClass('open');
-        }
-    );
-
-
-
-
-    $(".yamm .navbar-nav>li").hover(
-        function() {
-             dropdownmenu, this.fadeIn("fast");
-        },
-        function() {
-           dropdownmenu, this.fadeOut("fast");
-        });
-
-
-
-
     ////////////////////////////////////////////
     // ISOTOPE FILTER
     ///////////////////////////////////////////
-
-
-
 
     var $container = $('.isotope-filter');
 
