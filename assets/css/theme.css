@@ -45,6 +45,9 @@ img.pull-left {
 	margin: auto;
 }
 
+#success, #error {
+    display:none
+}
 
 /* ======= BASIC ELEMENTS ======= */
 

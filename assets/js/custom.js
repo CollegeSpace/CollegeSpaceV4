@@ -3,28 +3,28 @@
 | TABLE OF CONTENT
 | ----------------------------------------------------------------------------------
 
-01.SETTING  
-02.LOADER 
-03.HOME PAGE 
-04.SLIDER    
-05.PARALLAX  
-06.STICKY HEADER   
-07.DD MENU    
-08.WAYPOINT    
-09.ANIMATED    
-10.ISOTOPE FILTER    
-11.CHART START  
-12.SEARCH   
-13.SELECT   
-14.ACCORDION   
-15.ZOOM   
+01.SETTING
+02.LOADER
+03.HOME PAGE
+04.SLIDER
+05.PARALLAX
+06.STICKY HEADER
+07.DD MENU
+08.WAYPOINT
+09.ANIMATED
+10.ISOTOPE FILTER
+11.CHART START
+12.SEARCH
+13.SELECT
+14.ACCORDION
+15.ZOOM
 16.WOW
 
 */
  /////////////////////////////////////
     //  HOME PAGE SLIDER
     /////////////////////////////////////
-	
+
 	var sliderpro1 = $('#sliderpro1') ;
 
 
@@ -45,6 +45,7 @@
         });
 
     }
+
 
 $(document).ready(function() {
 
@@ -70,11 +71,11 @@ $(document).ready(function() {
             this.initialized = true;
 
             this.build();
-			
-			
-			
-			
-	  /////////////////////////////////////
+
+
+
+
+      /////////////////////////////////////
     //  LOADER
     /////////////////////////////////////
 
@@ -83,13 +84,13 @@ $(document).ready(function() {
     $spinner.fadeOut();
     $preloader.delay(50).fadeOut('slow');
 
-	
-	
-	 /////////////////////////////////////
+
+
+     /////////////////////////////////////
     //  HOME PAGE SLIDER
     /////////////////////////////////////
-	
-	var sliderpro1 = $('#sliderpro1') ;
+
+    var sliderpro1 = $('#sliderpro1') ;
 
 
     if (sliderpro1.length > 0) {
@@ -109,13 +110,43 @@ $(document).ready(function() {
         });
 
     }
-	
-	
-	/////////////////////////////////////
+
+    /////////////////////////////////////
+    //  CONTACT FORM
+    /////////////////////////////////////
+
+    var contactForm = $('#contactForm');
+    contactForm.submit(function(e)
+    {
+        var formData = {
+            'name'    : $('#contactForm input[name=name]').val(),
+            'subject' : $('#contactForm input[name=subject]').val(),
+            'message' : $('#contactForm input[name=message]').val()
+        };
+        $.ajax({
+                type: "POST",
+                url: "assets/mailer.php",
+                data: contactForm.serialize(),
+                success: function(data)
+                {
+                    $('#contactForm :input').attr('disabled', 'disabled');
+                    $('#contactForm').fadeTo( "slow", 0.15, function() {
+                        $('#success').fadeIn();
+                    });
+                },
+                error: function()
+                {
+                    $('#contactForm').fadeTo( "slow", 0.15, function() {
+                        $('#error').fadeIn();
+                    });
+                }
+            });
+        e.preventDefault();
+    });
+
+    /////////////////////////////////////
     //  PARALLAX
     /////////////////////////////////////
-	
-	
 
     $('.section-parallax').each(function() {
         var $bgobj = $(this);
@@ -128,12 +159,12 @@ $(document).ready(function() {
         });
     });
 
-		
+
 	/////////////////////////////////////
     //  STICKY HEADER
     /////////////////////////////////////
-	
-	
+
+
 
     /*
     if (windowWidth > tabletWidth) {
@@ -157,11 +188,11 @@ $(document).ready(function() {
         }
     }*/
 
-	
+
 		/////////////////////////////////////
     //  DD MENU
     /////////////////////////////////////
-	
+
 	var dropdownmenu = $('.dropdown-menu');
 
 
@@ -175,8 +206,8 @@ $(document).ready(function() {
             $(this).toggleClass('open');
         }
     );
-	
-	
+
+
 
 
     $(".yamm .navbar-nav>li").hover(
@@ -225,8 +256,8 @@ $(document).ready(function() {
 		/////////////////////////////////////
     //  CHART START
     /////////////////////////////////////
-	
-	
+
+
 	var chart = $('.chart') ;
 
 

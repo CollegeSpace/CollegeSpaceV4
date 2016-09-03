@@ -41,7 +41,7 @@
 										</li>
 										<li>
 											<a href="https://www.linkedin.com/company/collegespace"><i class="icon fa fa-linkedin"></i></a>
-										</li>							
+										</li>
 									</ul>
 									<ul class="list-contacts list-unstyled">
 										<li class="list-contacts__item">
@@ -94,40 +94,39 @@
 									<h2 class="ui-title-block">Send <strong>Us Message</strong></h2>
 									<div class="wrap-subtitle">
 										<div class="ui-subtitle-block ui-subtitle-block_w-line">If you have some feedback or want to ask any questions</div>
-									</div><!-- end wrap-title -->
-									<form class="form-contact ui-form" action="#" method="post">
+									</div>
+									<div id="success" class="alert alert-success">
+  										<strong>Success!</strong> Your message was sent successfully!
+									</div>
+									<div id="error" class="alert alert-danger">
+  										<strong>Failed!</strong> Something went wrong, try refreshing and submitting the form again.
+									</div>
+									<form id="contactForm" class="form-contact ui-form" action="#" method="post">
 										<div class="row">
 											<div class="col-md-6">
-												<input class="form-control" type="text" placeholder="Full Name" required>
+												<input name="name" class="form-control" type="text" placeholder="Full Name" required>
 											</div>
 											<div class="col-md-6">
-												<input class="form-control" type="text" placeholder="Subject">
+												<input name="subject" class="form-control" type="text" placeholder="Subject">
 											</div>
 											<div class="col-xs-12">
-												<textarea class="form-control" required rows="11"></textarea>
+												<textarea name="message" class="form-control" required rows="11"></textarea>
 												<button class="btn btn-primary btn-effect">SEND NOW</button>
 											</div>
 										</div>
 									</form>
-								</div><!-- end col -->
-
-
+								</div>
 								<div class="col-sm-4">
 									<a href="javascript:void(0);" class="support">
 										<img class="img-responsive" src="assets/media/support/1.jpg" height="248" width="330" alt="Foto">
 										<div class="support__title"><i class="icon stroke icon-Headset"></i>live support available</div>
 									</a>
-								</div><!-- end col -->
-
-							</div><!-- end row -->
-						</div><!-- end container -->
-					</section><!-- end section_contacts-form -->
-
-				</main><!-- end main-content -->
-
+								</div>
+							</div>
+						</div>
+					</section>
+				</main>
 
 <?php include "assets/footer.php"; ?>
-
-
 </body>
 </html>
