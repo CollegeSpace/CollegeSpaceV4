@@ -34,11 +34,12 @@
             <div class="row">
 
             <div class="posts-wrap" >
-            <hr>
+            <!-- <hr>
                                 <center><b><h1 style="font-family:Georgia,serif;">Founders</h1></b></center>
-                                <hr>
+                                <hr> -->
                                 <br>
-                                <div id="#founders"><center>
+                                <br>
+                                <!-- <div id="#founders"><center>
                                     <div class="staff founder_profile">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/7.jpg" height="100" width="100%" alt="foto"><div class="staff__hover"><button id="myBtn1" class="btn btn-primary btn-effect"><center>VIEW PROFILE</center></button></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
@@ -47,12 +48,7 @@
                                            
                                             <div class="staff__categories"><a class="post-link" href="javascript:void(0);">Artist</a></div>
                                             <div class="staff__description">Easellus luctus nib pulvinar bien quam ligula sapien condime</div>
-                                           <!--  <ul class="social-links list-unstyled">
-                                                <li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
-                                                <li><a class="icon fa fa-twitter" href="javascript:void(0);"></a></li>
-                                                <li><a class="icon fa fa-google-plus" href="javascript:void(0);"></a></li>
-                                                <li><a class="icon fa fa-linkedin" href="javascript:void(0);"></a></li>
-                                            </ul> -->
+                                           
                                         </div>
                                     </div>
 
@@ -62,15 +58,10 @@
                                             <h3 class="staff__title">MARIA LAURAN</h3>
                                             <div class="staff__categories"><a class="post-link" href="javascript:void(0);">Developer</a></div>
                                             <div class="staff__description">Easellus luctus nib pulvinar bien quam ligula sapien condime</div>
-                                            <!-- <ul class="social-links list-unstyled">
-                                                <li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
-                                                <li><a class="icon fa fa-twitter" href="javascript:void(0);"></a></li>
-                                                <li><a class="icon fa fa-google-plus" href="javascript:void(0);"></a></li>
-                                                <li><a class="icon fa fa-linkedin" href="javascript:void(0);"></a></li>
-                                            </ul> -->
+                                           
                                         </div>
                                     </div></center>
-                                </div>
+                                </div> -->
 
                 <ul class="portfolio-filter text-center">
                     <!-- <li><a class="btn btn-default active" href="#" data-filter="*">All</a></li> -->
@@ -104,13 +95,13 @@
                         </div>
                     </div>
 
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item  webd ">  <!--  -->
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership  ">  <!--  -->
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">SANDY ANDERSON</h3>
-                                            <div class="staff__categories"><a class="post-link" href="javascript:void(0);">Computer science</a></div>
+                                            <div class="staff__categories"><a class="post-link" href="javascript:void(0);">FOUNDER</a></div>
                                             <div class="staff__description">Easellus luctus nib pulvinar bien quam ligula sapien condime</div>
                                             <ul class="social-links list-unstyled">
                                                 <li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
@@ -123,12 +114,12 @@
                         </div>
                         </div>
                     
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item designer contentc ">  
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership  ">  
                             <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/media/staff/6.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="img-responsive" src="assets/media/staff/2.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">SANDY ANDERSON</h3>
-                                            <div class="staff__categories"><a class="post-link" href="javascript:void(0);">Computer science</a></div>
+                                            <div class="staff__categories"><a class="post-link" href="javascript:void(0);">FOUNDER</a></div>
                                             <div class="staff__description">Easellus luctus nib pulvinar bien quam ligula sapien condime</div>
                                             <ul class="social-links list-unstyled">
                                                 <li><a class="icon fa fa-facebook" href="javascript:void(0);"></a></li>
