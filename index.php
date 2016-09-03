@@ -163,9 +163,9 @@
         <?php
 
           $url="http://updates.collegespace.in/wp-json/posts?filter[posts_per_page]=4";
-
+          
           $context = stream_context_create([
-                "http" => [
+                "http" => [     
                   "method" => "GET",
                   ]
             ]);
@@ -183,22 +183,35 @@
             //var_dump($data);
             // $doc = new DOMDocument();
             //$doc->loadHTML($data->content);
-            $data->content = preg_replace("/<img[^>]+\>/i", "", $data->content);
-            $data->content = preg_replace("/<table[^>]*>.*?<\/table>/s", "", $data->content);
+            $img_src="assets/img/logo.png";
+            $img_tag;$img;
+            if(preg_match("/<img[^>]+\>/i",$data->content,$img_tag))
+            {
+              preg_match('/(src)=("[^"]*")/i',$img_tag[0],$img);
+              $img_src=preg_replace('/src="/', "", $img[0]);
+            }
+             // var_dump($img_src);
+            $data->content = preg_replace("/<img[^>]+\>/i", "", $data->content); 
+            $data->content = preg_replace("/<table[^>]*>.*?<\/table>/s", "", $data->content); 
             $data->content=strip_tags($data->content);
             $data->content=trim($data->content);
-            $data->content=substr($data->content,0,250);
+            $data->content=substr($data->content,0,150);
             if(strlen($data->content)==0)
               $data->content="No description available.";
+            $data->date = preg_replace("/T/i", " ", $data->date); 
             echo"<article class=\"post post_mod-a clearfix wow \" data-wow-duration=\"1s\">
+                          <div class=\"entry-media\">   
+                             <div class=\"entry-thumbnail\"><img class=\"img-responsive\" src={$img_src} width=\"250\" height=\"250\" alt=\"CollegeSpace\"/></div>
+                          </div>
                           <div class=\"entry-main\">
-                            <div class=\"entry-meta\"> <span class=\"entry-autor\"> <span>By </span> <a class=\"post-link\" href=\"javascript:void(0);\">NSIT,CollegeSpace</a> </span> <span class=\"entry-date\"><a href=\"javascript:void(0);\">{$data->date}</a></span> </div>
+                            <div class=\"entry-meta\"> <span class=\"entry-autor\"> <span>By </span> <a class=\"post-link\" href=\"javascript:void(0);\">CollegeSpace,NSIT</a> </span> <br><span class=\"entry-date\"><a href=\"javascript:void(0);\">{$data->date}</a></span> </div>
                             <h3 class=\"entry-title ui-title-inner decor decor_mod-b\"><a href={$data->link}>{$data->title}</a></h3>
                             <div class=\"entry-content\">
-                              <p>{$data->content}</p>
+                              <p>{$data->content} <a href={$data->link}>Read More.</a></p>
+                              <p></p>
                             </div>
                           </div>
-                </article>";
+                </article>";    
           }
           }
           else
