@@ -24,7 +24,7 @@
         <a class="main-slider__btn btn btn-warning btn-effect" href="http://html.templines.com/">START A COURSE</a> </div>-->
           </div>
         </div>
-		
+
         <div class="sp-slide"> <img class="sp-image" src="assets/media/main-slider/2.jpg" data-src="assets/media/main-slider/image03.jpg" data-retina="assets/media/main-slider/image03.jpg" alt="img"/>
           <div class="item-wrap sp-layer  sp-padding" data-horizontal="200" data-vertical="30" data-show-transition="left" data-hide-transition="up" data-show-delay="400" data-hide-delay="200">
         <!--<div class="main-slider__inner">
@@ -163,9 +163,9 @@
         <?php
 
           $url="http://updates.collegespace.in/wp-json/posts?filter[posts_per_page]=4";
-          
+
           $context = stream_context_create([
-                "http" => [     
+                "http" => [
                   "method" => "GET",
                   ]
             ]);
@@ -183,8 +183,8 @@
             //var_dump($data);
             // $doc = new DOMDocument();
             //$doc->loadHTML($data->content);
-            $data->content = preg_replace("/<img[^>]+\>/i", "", $data->content); 
-            $data->content = preg_replace("/<table[^>]*>.*?<\/table>/s", "", $data->content); 
+            $data->content = preg_replace("/<img[^>]+\>/i", "", $data->content);
+            $data->content = preg_replace("/<table[^>]*>.*?<\/table>/s", "", $data->content);
             $data->content=strip_tags($data->content);
             $data->content=trim($data->content);
             $data->content=substr($data->content,0,250);
@@ -198,7 +198,7 @@
                               <p>{$data->content}</p>
                             </div>
                           </div>
-                </article>";    
+                </article>";
           }
           }
           else
