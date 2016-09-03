@@ -1,5 +1,6 @@
 <?php
 //Author: Divyanshu Kalra
+include("assets/functions.php");
   function cacheAndGetJsonDump()
 {
   $cache_Time = 60*60; # one hour
@@ -85,19 +86,10 @@ else
 <!DOCTYPE html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui">
-<title>CollegeSpace</title>
-<link href="favicon.png" type="image/x-icon" rel="shortcut icon">
-<link href="assets/css/master.css" rel="stylesheet">
-<!-- SWITCHER -->
-<link href="assets/plugins/switcher/css/switcher.css" rel="stylesheet" id="switcher-css" media="all">
-<script src="assets/plugins/jquery/jquery-1.11.3.min.js"></script>
-</head>
+<head><?php PrintHeadMetadata("CollegeSpace"); ?></head>
 <body>
 <!-- Loader -->
-<div id="page-preloader"><span class="spinner"></span></div>
+<!--<div id="page-preloader"><span class="spinner"></span></div>-->
 <!-- Loader end -->
 <div class="layout-theme animated-css"  data-header="sticky" data-header-top="200">
 <!-- UI Author : Chaitanya Dwivedi -->
