@@ -24,7 +24,6 @@ if ($error == 0)
  	$body = "<p> Subject: " . $subject . "</p>" . "<div>" . $message . "</div>";
 
     $headers = 'From: CollegeSpace contact@collegeSpace.in' . "\r\n" ;
-    $headers .= 'Cc: apoorv2711@gmail.com\r\n';
     $headers .='Reply-To: '. $to . "\r\n" ;
     $headers .='X-Mailer: PHP/' . phpversion();
     $headers .= "MIME-Version: 1.0\r\n";
