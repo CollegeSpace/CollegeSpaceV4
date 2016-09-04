@@ -242,6 +242,7 @@
 
 .post_mod-a {
 	max-width: 544px;
+	height: 300px;
 	margin-right: 15px;
 	margin-left: 15px;
 	background-color: #f7f7f7;
@@ -276,11 +277,19 @@
 .post_mod-a .entry-media {
 	float: right;
 	width: 250px;
+	height: inherit;
+}
+.post_mod-a .entry-thumbnail{
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
 }
 
 
 .post_mod-b {
 	width: 360px;
+	height: 585px;
 	margin-right: 27px;
 	background-color: #f7f7f7;
 }
