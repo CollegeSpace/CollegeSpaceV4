@@ -241,17 +241,11 @@
 
 
 .post_mod-a {
-	max-width: 544px;
+	width: 350px;
 	height: 300px;
 	margin-right: 15px;
 	margin-left: 15px;
 	background-color: #f7f7f7;
-}
-.post_mod-a:nth-child(even) {
-	margin-left: 24px;
-}
-.post_mod-a:nth-child(odd) {
-	margin-right: 23px;
 }
 .post_mod-a .box-comments .icon {
 	color: #fff;
@@ -265,7 +259,7 @@
 	color: #fff;
 }
 .post_mod-a .entry-main {
-	padding: 30px 300px 30px 34px;
+	padding: 30px 30px 30px 34px;
 }
 .post_mod-a .post-btn {
 	margin-top: 25px;
