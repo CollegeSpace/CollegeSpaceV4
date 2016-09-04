@@ -241,16 +241,11 @@
 
 
 .post_mod-a {
-	max-width: 544px;
+	width: 350px;
+	height: 300px;
 	margin-right: 15px;
 	margin-left: 15px;
 	background-color: #f7f7f7;
-}
-.post_mod-a:nth-child(even) {
-	margin-left: 24px;
-}
-.post_mod-a:nth-child(odd) {
-	margin-right: 23px;
 }
 .post_mod-a .box-comments .icon {
 	color: #fff;
@@ -264,7 +259,7 @@
 	color: #fff;
 }
 .post_mod-a .entry-main {
-	padding: 40px 300px 30px 34px;
+	padding: 30px 30px 30px 34px;
 }
 .post_mod-a .post-btn {
 	margin-top: 25px;
@@ -276,11 +271,19 @@
 .post_mod-a .entry-media {
 	float: right;
 	width: 250px;
+	height: inherit;
+}
+.post_mod-a .entry-thumbnail{
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
 }
 
 
 .post_mod-b {
 	width: 360px;
+	height: 585px;
 	margin-right: 27px;
 	background-color: #f7f7f7;
 }
@@ -297,6 +300,29 @@
 .post_mod-b .post-btn {
 	margin-top: 30px;
 }
+.post_mod-b .entry-thumbnail{
+	display: block;
+	position: relative;
+	height: 0px;
+	width: 100%;
+	padding-bottom: 56.25%;	
+	overflow: hidden;	
+	background-color: #000000;
+
+}
+.post_mod-b .entry-thumbnail .img-responsive {
+	display: block;
+	position: absolute;
+	max-width: 100%;
+	height: 100%;
+	left:0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin:auto;
+
+}
+
 
 
 .post_mod-c {

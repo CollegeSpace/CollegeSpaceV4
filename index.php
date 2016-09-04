@@ -24,7 +24,7 @@
         <a class="main-slider__btn btn btn-warning btn-effect" href="http://html.templines.com/">START A COURSE</a> </div>-->
           </div>
         </div>
-
+		
         <div class="sp-slide"> <img class="sp-image" src="assets/media/main-slider/2.jpg" data-src="assets/media/main-slider/image03.jpg" data-retina="assets/media/main-slider/image03.jpg" alt="img"/>
           <div class="item-wrap sp-layer  sp-padding" data-horizontal="200" data-vertical="30" data-show-transition="left" data-hide-transition="up" data-show-delay="400" data-hide-delay="200">
         <!--<div class="main-slider__inner">
@@ -160,54 +160,10 @@
         <div class="ui-subtitle-block ui-subtitle-block_mod-b"></div>
         </div>
         <div class="posts-wrap">
-        <?php
-
-          $url="http://updates.collegespace.in/wp-json/posts?filter[posts_per_page]=4";
-
-          $context = stream_context_create([
-                "http" => [
-                  "method" => "GET",
-                  ]
-            ]);
-
-          $json=file_get_contents($url,false,$context);
-
-          if($json)
-          {
-            $result=json_decode($json);
-            //var_dump($result);
-
-            for($x=0;$x<4;$x++)
-          {
-            $data=$result[$x];
-            //var_dump($data);
-            // $doc = new DOMDocument();
-            //$doc->loadHTML($data->content);
-            $data->content = preg_replace("/<img[^>]+\>/i", "", $data->content);
-            $data->content = preg_replace("/<table[^>]*>.*?<\/table>/s", "", $data->content);
-            $data->content=strip_tags($data->content);
-            $data->content=trim($data->content);
-            $data->content=substr($data->content,0,250);
-            if(strlen($data->content)==0)
-              $data->content="No description available.";
-            echo"<article class=\"post post_mod-a clearfix wow \" data-wow-duration=\"1s\">
-                          <div class=\"entry-main\">
-                            <div class=\"entry-meta\"> <span class=\"entry-autor\"> <span>By </span> <a class=\"post-link\" href=\"javascript:void(0);\">NSIT,CollegeSpace</a> </span> <span class=\"entry-date\"><a href=\"javascript:void(0);\">{$data->date}</a></span> </div>
-                            <h3 class=\"entry-title ui-title-inner decor decor_mod-b\"><a href={$data->link}>{$data->title}</a></h3>
-                            <div class=\"entry-content\">
-                              <p>{$data->content}</p>
-                            </div>
-                          </div>
-                </article>";
-          }
-          }
-          else
-            printf("Error in processing request.");
-
-        ?>
+        <?php include("assets/updates.php"); ?>
         </div>
         <!-- end posts-wrap -->
-        <div style="text-align: center;"><button class="btn btn-effect btn-info">View all updates</button></div>
+        <div style="text-align: center;"><button class="btn btn-effect btn-info" onclick="window.location='http://updates.collegespace.in';">View all updates</button></div>
       </div>
       <!-- end col -->
       </div>
@@ -243,56 +199,14 @@
       <div class="col-xs-12">
         <div class="wrap-title">
         <h2 class="ui-title-block">Read on <strong>NSITPEDIA</strong></h2>
-        <div class="ui-subtitle-block ui-subtitle-block_mod-b">Having over 9 million students worldwide and more than 50,000 online courses available.</div>
+        <div class="ui-subtitle-block ui-subtitle-block_mod-b">CollegeSpace Blog</div>
         </div>
         <div class="posts-wrap">
-        <article class="post post_mod-b clearfix wow " data-wow-duration="2s">
-          <div class="entry-media">
-          <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/370x220/1.jpg" width="370" height="220" alt="Foto"/></a> </div>
-          </div>
-          <div class="entry-main">
-          <div class="entry-meta decor decor_mod-a"> <span class="entry-autor"> <span>By </span> <a class="post-link" href="javascript:void(0);">University of LIMS</a> </span> <span class="entry-links entry-time_mod-a"><i class="icon stroke icon-Agenda"></i>August 25, 2015</span> </div>
-          <h3 class="entry-title ui-title-inner"><a href="javascript:void(0);">Maecenas vehicula magna quis nulla ut facilise</a></h3>
-          <div class="entry-content">
-            <p>Phasellus luctus nibhay pulvinar sed bibendum aliqua ligula sapien condimentum magna lorem ipsum dolor sit amet consect adipisic sed eiusmod</p>
-          </div>
-          <div class="entry-footer"><a href="javascript:void(0);" class="post-btn btn btn-primary btn-effect">READ MORE</a></div>
-          </div>
-        </article>
-        <!-- end post -->
-
-        <article class="post post_mod-b clearfix wow " data-wow-duration="2s" data-wow-delay=".5s">
-          <div class="entry-media">
-          <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/370x220/2.jpg" width="370" height="220" alt="Foto"/></a> </div>
-          </div>
-          <div class="entry-main">
-          <div class="entry-meta decor decor_mod-a"> <span class="entry-autor"> <span>By </span> <a class="post-link" href="javascript:void(0);">University of LIMS</a> </span> <span class="entry-links entry-time_mod-a"><i class="icon stroke icon-Agenda"></i>August 25, 2015</span> </div>
-          <h3 class="entry-title ui-title-inner"><a href="javascript:void(0);">Nulla cursus lorem gravida ac massa sed ipsum</a></h3>
-          <div class="entry-content">
-            <p>Phasellus luctus nibhay pulvinar sed bibendum aliqua ligula sapien condimentum magna lorem ipsum dolor sit amet consect adipisic sed eiusmod</p>
-          </div>
-          <div class="entry-footer"><a href="javascript:void(0);" class="post-btn btn btn-primary btn-effect">READ MORE</a></div>
-          </div>
-        </article>
-        <!-- end post -->
-
-        <article class="post post_mod-b clearfix wow " data-wow-duration="2s" data-wow-delay="1s">
-          <div class="entry-media">
-          <div class="entry-thumbnail"> <a href="javascript:void(0);" ><img class="img-responsive" src="assets/media/posts/370x220/3.jpg" width="370" height="220" alt="Foto"/></a> </div>
-          </div>
-          <div class="entry-main">
-          <div class="entry-meta decor decor_mod-a"> <span class="entry-autor"> <span>By </span> <a class="post-link" href="javascript:void(0);">University of LIMS</a> </span> <span class="entry-links entry-time_mod-a"><i class="icon stroke icon-Agenda"></i>August 25, 2015</span> </div>
-          <h3 class="entry-title ui-title-inner"><a href="javascript:void(0);">Vitae neque dictum sem fringilla rhoncus aliquam</a></h3>
-          <div class="entry-content">
-            <p>Phasellus luctus nibhay pulvinar sed bibendum aliqua ligula sapien condimentum magna lorem ipsum dolor sit amet consect adipisic sed eiusmod</p>
-          </div>
-          <div class="entry-footer"><a href="javascript:void(0);" class="post-btn btn btn-primary btn-effect">READ MORE</a></div>
-          </div>
-        </article>
-        <!-- end post -->
+        <?php include("assets/posts.php") ?>  
+        
         </div>
         <!-- end posts-wrap -->
-        <div style="text-align: center;"><button class="btn btn-effect btn-info">Go to NSITpedia</button></div>
+        <div style="text-align: center;"><button class="btn btn-effect btn-info" onclick="window.location='http://nsitpedia.collegespace.in';">Go to NSITpedia</button></div>
       </div>
       <!-- end col -->
       </div>
@@ -333,5 +247,6 @@
     <!-- end container -->
   </div>
 <?php include ("assets/footer.php");?>
+
 </body>
 </html>
