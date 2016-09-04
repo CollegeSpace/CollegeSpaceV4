@@ -95,52 +95,10 @@ else
 <!-- UI Author : Chaitanya Dwivedi -->
   <div id="wrapper">
     <!-- HEADER -->
-    <header class="header" id="search-page-header">
-     <div class="container" id="search-page-container">
-        <div class="row">
-          <div class="col-xs-12"> <a class="header-logo" href="javascript:void(0);"><img class="header-logo__img" src="assets/img/logo.png" alt="Logo"></a>
-            <div class="header-inner">
-              <div class="header-search search-page open-search open">
-                <div class="navbar-search">
-                  <form id="search-global-form" action="" method="get">
-                    <div class="input-group">
-                      <input type="text" placeholder="Type your search..." class="form-control" autocomplete="off" name="query" id="search" value="">
-                      <span class="input-group-btn">
-                        <button id="search-page-button">Search</button>
-                      </span> </div>
-                  </form>
-                </div>
-              </div>
-            <!-- <a id="search-open" href="#fakelink"><i class="icon stroke icon-Search"></i></a>-->
-              <nav class="navbar yamm">
-                <div class="navbar-header hidden-md  hidden-lg  hidden-sm ">
-                  <button type="button" data-toggle="collapse" data-target="#navbar-collapse-1" class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
-                </div>
-                <div id="navbar-collapse-1" class="navbar-collapse collapse">
-                  <ul class="nav navbar-nav">
-                    <li class="dropdown"><a href="#">Home<span class="nav-subtitle">OUR World</span></a>
-                     </li>
-					 <li class="dropdown"> <a href="instructors.html">Team Page<span class="nav-subtitle">Meet us!</span></a>
-                    </li>
-                    <li class="dropdown"> <a href="../external.html?link=http://nsitpedia.collegespace.in/" target="_blank">Nsitpedia<span class="nav-subtitle">our personal blog</span></a>
-                    </li>
-                    <li class="dropdown"> <a href="../external.html?link=http://updates.collegespace.in/" target="_blank">Updates<span class="nav-subtitle">Section for ghissus</span></a>
-                    </li>
-                    <li><a href="contact.html">CONTACT<span class="nav-subtitle">say us hi</span></a></li>
-                  </ul>
-                </div>
-              </nav>
-              <!--end navbar -->
-            </div>
-            <!-- end header-inner -->
-          </div>
-          <!-- end col  -->
-        </div>
-        <!-- end row  -->
-      </div>
-      <!-- end container-->
-    </header>
+    <?php include ("assets/header.php"); ?>
     <!-- end header -->
+    <div id="spacing">
+</div>
     <div class="main-content">
       <div id="search-results">
         <div class="list-group" id="search-item">
