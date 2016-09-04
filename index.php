@@ -160,7 +160,7 @@
         <div class="ui-subtitle-block ui-subtitle-block_mod-b"></div>
         </div>
         <div class="posts-wrap">
-        <?php include("assets/updates.php")?>
+        <?php include("assets/updates.php"); ?>
         </div>
         <!-- end posts-wrap -->
         <div style="text-align: center;"><button class="btn btn-effect btn-info" onclick="window.location='http://updates.collegespace.in';">View all updates</button></div>
