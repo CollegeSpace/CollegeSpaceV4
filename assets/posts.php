@@ -40,7 +40,7 @@
             echo"
                 <article class=\"post post_mod-b clearfix wow \" data-wow-duration=\"1s\">
                   <div class=\"entry-media\">
-                  <div class=\"entry-thumbnail\"> <a href=\"javascript:void(0);\" ><img class=\"img-responsive\" src={$data->featured_image->guid} width=\"100%\" height=\"100%\" alt=\"NsitPedia\"/></a> </div>
+                  <div class=\"entry-thumbnail\"> <a href=\"javascript:void(0);\" ><img class=\"img-responsive\" src={$data->featured_image->guid} alt=\"NsitPedia\"/></a> </div>
                   </div>
                   <div class=\"entry-main\">
                   <div class=\"entry-meta decor decor_mod-a\"> <span class=\"entry-autor\"> <span>By </span> <a class=\"post-link\" href={$data->meta->links->author}>{$data->author->name},NsitPedia</a> </span> 
