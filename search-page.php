@@ -1,14 +1,7 @@
 <?php
-<<<<<<< HEAD
 //Author: Divyanshu Kalra
 include("assets/functions.php");
   function cacheAndGetJsonDump()
-=======
-
-include("assets/functions.php");
-
-function cacheAndGetJsonDump()
->>>>>>> master
 {
     $cache_Time = 60*60; # one hour
     if(file_exists("./phpTempFiles/lasttime.collegespace"))
@@ -92,11 +85,7 @@ else
 <!DOCTYPE html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<<<<<<< HEAD
-<head><?php PrintHeadMetadata("CollegeSpace"); ?></head>
-=======
 <head><?php PrintHeadMetadata("CollegeSpace | Search Page"); ?></head>
->>>>>>> master
 <body>
 <!-- Loader -->
 <!--<div id="page-preloader"><span class="spinner"></span></div>-->
