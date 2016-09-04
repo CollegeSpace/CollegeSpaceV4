@@ -39,7 +39,7 @@
             $data->date = preg_replace("/T/i", " ", $data->date); 
             echo"<article class=\"post post_mod-a clearfix wow \" data-wow-duration=\"1s\">
                           <div class=\"entry-media\">   
-                             <div class=\"entry-thumbnail\"><img class=\"img-responsive\" src={$img_src} style=\"width:inherit\"alt=\"CollegeSpace\"/></div>
+                             <div class=\"entry-thumbnail\"><img class=\"img-responsive\" src={$img_src} alt=\"CollegeSpace\"/></div>
                           </div>
                           <div class=\"entry-main\">
                             <div class=\"entry-meta\"> <span class=\"entry-autor\"> <span>By </span> <a class=\"post-link\" href=\"javascript:void(0);\">CollegeSpace,NSIT</a> </span> <br><span class=\"entry-date\"><a href=\"javascript:void(0);\">{$data->date}</a></span> </div>
