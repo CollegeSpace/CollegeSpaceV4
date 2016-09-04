@@ -85,7 +85,7 @@ else
 <!DOCTYPE html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<head><?php PrintHeadMetadata("CollegeSpace | Search Page"); ?></head>s
+<head><?php PrintHeadMetadata("CollegeSpace | Search Page"); ?></head>
 <body>
 <!-- Loader -->
 <!--<div id="page-preloader"><span class="spinner"></span></div>-->
