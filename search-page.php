@@ -79,7 +79,10 @@ if(isset($_GET["query"]))
         $flag = -1;
     }
 else
+{
   $flag = 0;
+  $query = "";
+}
 ?>
 
 <!DOCTYPE html>
@@ -144,5 +147,9 @@ else
 </div>
 <!-- end layout-theme -->
 <?php include ("assets/footer.php");?>
+<script type="text/javascript">
+    var query = "<?php echo $query; ?>";
+    document.getElementById("search").value = query;
+</script>
 </body>
 </html>
