@@ -58,6 +58,14 @@
 <script src="assets/js/modernizr.custom.js"></script>
 <script src="assets/js/waypoints.min.js"></script>
 <script src="assets/js/jquery.easing.min.js"></script>
+<script type="text/javascript">
+  $("#search").keypress(function(event) {
+    if (event.which == 13) {
+        event.preventDefault();
+        $("#search-global-form").submit();
+    }
+  });
+</script>
 
 <!--THEME-->
 <script  src="assets/plugins/sliderpro/js/jquery.sliderPro.min.js"></script>
