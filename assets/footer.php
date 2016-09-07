@@ -1,6 +1,6 @@
 <footer class="footer wow " data-wow-duration="2s">
     <div class="container">
-        <div class="footer-inner border-decor_top">
+        <div>
             <div class="row">
                 <div class="col-lg-4 col-sm-4">
                     <section class="footer-section">
