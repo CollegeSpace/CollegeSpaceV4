@@ -170,7 +170,8 @@ $(document).ready(function() {
                 data: formData,
                 success: function(data)
                 {
-                    
+                    alert(data);
+                    $('#search_results').empty('');
                 }
             });
 
