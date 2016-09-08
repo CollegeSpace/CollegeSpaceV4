@@ -126,7 +126,7 @@ $(document).ready(function() {
         $.ajax({
                 type: "POST",
                 url: "assets/mailer.php",
-                data: contactForm.serialize(),
+                data: formData,
                 success: function(data)
                 {
                     $('#contactForm :input').attr('disabled', 'disabled');
@@ -142,6 +142,50 @@ $(document).ready(function() {
                 }
             });
         e.preventDefault();
+    });
+
+    /////////////////////////////////////
+    //  QUERY FORM
+    /////////////////////////////////////
+
+    var queryForm = $('#queryForm');
+    queryForm.submit(function(e)
+    {
+        var keyword = $('#queryForm input[name=key]');
+        var queryfield = $('#queryForm input[name=q]');
+        var txt = keyword.val().replace(/[^a-z0-9\+\-\.\#]/ig,'');
+        if(txt)
+        {
+            $("<span/>",{text:txt.toLowerCase(), insertBefore:queryForm});
+            queryfield.val(queryfield.val() + "," + txt);
+            keyword.val("");
+        }
+
+        var formData = {
+            'q'    : queryfield.val()
+        };
+        $.ajax({
+                type: "POST",
+                url: "assets/QuerySearch.php",
+                data: formData,
+                success: function(data)
+                {
+                    
+                }
+            });
+
+        e.preventDefault();
+    });
+
+    $('#querytags').on('click', 'span', function()
+    {
+        if(confirm("Remove "+ $(this).text() +"?"))
+        {
+            var queryfield = $('#queryForm input[name=q]');
+            queryfield.val(queryfield.val().replace($(this).text(), ''));
+            queryForm.submit();
+            $(this).remove();
+        }
     });
 
     /////////////////////////////////////

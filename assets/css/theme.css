@@ -33,6 +33,28 @@ img.pull-left {
 	margin-right: 20px;
 }
 
+#querytags > span {
+  cursor:pointer;
+  display:block;
+  float:left;
+  color:#fff;
+  background:#789;
+  padding:5px;
+  padding-right:25px;
+  margin:4px;
+}
+#querytags > span:hover {
+  opacity:0.7;
+}
+#querytags > span:after {
+ position:absolute;
+ content:"×";
+ border:1px solid;
+ padding:2px 5px;
+ margin-left:3px;
+ font-size:11px;
+}
+
 .col-search-res{
 text-align:-webkit-left;
     margin-bottom:4px;
