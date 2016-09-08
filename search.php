@@ -94,7 +94,7 @@
 						<div class="col-md-8">
 							<main class="main-content">
                               <div style="margin-top: 10px;">
-					             <div class="row result">
+					             <div id="search_results" class="row result">
                                    <div class="col-md-12 col-sm-12 col-search-res"><p class="col-text">this is the searched result</p></div>
 								   <div class="col-md-12 col-sm-12 col-search-res"><p class="col-text">this is the searched result</p></div>
 								   <div class="col-md-12 col-sm-12 col-search-res"><p class="col-text">this is the searched result.</p></div>

@@ -170,7 +170,11 @@ $(document).ready(function() {
                 data: formData,
                 success: function(data)
                 {
-                    
+                    alert(data);
+                    $('#search_results').empty('');
+                    $('#search_results').append("<div class=\"col-md-12 col-sm-12 col-search-res\"><p class=\"col-text\">Bhaad mai jaaye CS ka kaam -_-</p></div>");
+                    $('#search_results').append("<div class=\"col-md-12 col-sm-12 col-search-res\"><p class=\"col-text\">Koi importance nahi yaha kaam karne ki -_-</p></div>");
+                    $('#search_results').append("<div class=\"col-md-12 col-sm-12 col-search-res\"><p class=\"col-text\">Mazak bana rakha hai webD waalo ka -_-</p></div>");
                 }
             });
 
