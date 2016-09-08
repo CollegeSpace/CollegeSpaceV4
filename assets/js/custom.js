@@ -172,9 +172,12 @@ $(document).ready(function() {
                 {
                     alert(data);
                     $('#search_results').empty('');
-                    $('#search_results').append("<div class=\"col-md-12 col-sm-12 col-search-res\"><p class=\"col-text\">Bhaad mai jaaye CS ka kaam -_-</p></div>");
-                    $('#search_results').append("<div class=\"col-md-12 col-sm-12 col-search-res\"><p class=\"col-text\">Koi importance nahi yaha kaam karne ki -_-</p></div>");
-                    $('#search_results').append("<div class=\"col-md-12 col-sm-12 col-search-res\"><p class=\"col-text\">Mazak bana rakha hai webD waalo ka -_-</p></div>");
+                    $('#search_results').append("<div class=\"col-md-12 col-sm-12 col-search-res\"><p class=\"col-text\">I don't know par ab mazak ho raha hai :(</p></div>");
+                    $('#search_results').append("<div class=\"col-md-12 col-sm-12 col-search-res\"><p class=\"col-text\">koi importance nahi mil rahi, plus sab sunatey alag hai jo abhi kaam nahi hua :/</p></div>");
+                    $('#search_results').append("<div class=\"col-md-12 col-sm-12 col-search-res\"><p class=\"col-text\">mazak bana rakha hai jo kaam kartey hai</p></div>");
+                    $('#search_results').append("<div class=\"col-md-12 col-sm-12 col-search-res\"><p class=\"col-text\">kuch log aise hai jo kaam bhi nahi kartey par unka kuch nahi</p></div>");
+                    $('#search_results').append("<div class=\"col-md-12 col-sm-12 col-search-res\"><p class=\"col-text\">alag hi level ki management ho rahi hai webD team mai</p></div>");
+                    $('#search_results').append("<div class=\"col-md-12 col-sm-12 col-search-res\"><p class=\"col-text\">hadd yaar :| hadd seriously</p></div>");
                 }
             });
 
