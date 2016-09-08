@@ -37,17 +37,17 @@
            
                                 <br>
                                 <ul class="portfolio-filter text-center">
-                    <!-- <li><a class="btn btn-default active" href="#" data-filter="*">All</a></li> -->
+                    
                     <li><a class="btn btn-default active" href="#" data-filter=".leadership">Leadership</a></li>
                     <li><a class="btn btn-default" href="#" data-filter=".webd">WebDevs</a></li>
                     <li><a class="btn btn-default" href="#" data-filter=".contentc">Content Collectors</a></li>
                     <li><a class="btn btn-default" href="#" data-filter=".contentw">Content Writers</a></li>
                     <li><a class="btn btn-default" href="#" data-filter=".designer">Designers</a></li>
                     <li><a class="btn btn-default" href="#" data-filter=".alum">Alumini</a></li>
-                </ul><!--/#portfolio-filter-->
+                </ul>
                     
                 <div class="portfolio-items" style="z-index:1;">
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership  ">  <!--  -->
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership  ">  
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Sahilcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn12" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -58,7 +58,700 @@
                                     </div>
                         </div>
                         </div>
-                                     <div id="myModal12" class="modal" style="z-index:100;">
+                                     
+
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership  ">  
+                            <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/tusharcrop.jpg" height="auto" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn47" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">TUSHAR GUPTA</h3>
+                                            <div class="staff__categories"><b>FOUNDER</b></a></div>
+                                       </div>
+                                    </div> 
+                                    </div>
+                    
+          
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership ">
+                        <div class="portfolio-wrapper">
+                            <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/ApoorvGcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn46" class="btn btn-primary btn-effect"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">APOORV GUPTA</h3>
+                                            <div class="staff__categories"><b>PRESIDENT</b></a></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+
+          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Shwetankcrop.jpg" height="auto" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn21" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">SHWETANK PANDEY</h3>
+                                            <div class="staff__categories"><b>VICE-PRESIDENT</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+        
+                     
+        <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership webd ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/amanmahcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn74" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">AMAN MAHAJAN</h3>
+                                            <div class="staff__categories"><b>WEB TECHNICAL HEAD</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+            
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership contentc ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/SubhkaranScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn26" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">SHUBHKARAN SINGH</h3>
+                                            <div class="staff__categories"><b>CONTENT COLLECTION HEAD</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                    
+          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw leadership ">
+                        <div class="portfolio-wrapper">
+                            <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Gautamkscrop.jpg" height="200" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn6" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">GAUTAM KUMAR SHARMA</h3>
+                                            <div class="staff__categories"><b>CONTENT WRITING HEAD</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership designer ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Arpit_Bajajcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn51" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">ARPIT BAJAJ</h3>
+                                            <div class="staff__categories"><b>GRAPHICS HEAD</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+          
+          
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/abhisarcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn41" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">ABHISAR GARG</h3>
+                                            <div class="staff__categories"><b>SENIOR EDITOR</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/full/ayushg.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn2" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">AYUSH GARG </h3>
+                                            <div class="staff__categories"><b>SENIOR EDITOR</b></div>
+                                        </div>
+                                    </div> 
+                        </div>
+                    </div>
+              
+
+<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item designer">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/ayushgargcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn76" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">AYUSH GARG </h3>
+                                            <div class="staff__categories"><b>GRAPHICS DESIGNER</b></div>
+                                        </div>
+                                    </div> 
+                        </div>
+                    </div>
+                                               
+                     
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw">
+                        <div class="portfolio-wrapper">
+                          <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Deepikacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4"  class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">DEEPIKA NARYANI</h3>
+                                            <div class="staff__categories"><b>CONTENT WRITER</b></div>
+                                        </div>
+                                    </div>  
+                        </div>
+                    </div>
+          
+                    
+          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Jasdeepcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn28" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">JASDEEP SINGH</h3>
+                                            <div class="staff__categories"><b>DEPARTMENT MANAGER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                        <div class="portfolio-wrapper">                           
+                            <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/ksitijcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a  id="myBtn7" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">KSHITIJ</h3>
+                                            <div class="staff__categories"><b>DEPARTMENT MANAGER<b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                        <div class="portfolio-wrapper">
+                            <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/ishacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn62" class="btn btn-primary btn-effect"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">ISHA GUPTA</h3>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+                
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Jaswincrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn16" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">JASWIN KAUR</h3>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc contentw ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/navdhacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn42" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">NAVDHA</h3>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR/WRITER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/HarshVcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn17" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">HARSH VARDHAN</h3>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Prabhacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn32" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">PRABHA PANT</h3>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Aditicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn66" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">ADITI SHARMA</h3>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/MohitScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn45" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">MOHIT SINGH</h3>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Arkocrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn8" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">ARKO GUPTA</h3>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Shresthcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn35" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">SHRESTH SHARMA</h3>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Kanishkacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn22" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">KANISHKA GOSAIN</h3>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+                   
+                    
+                     
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd">
+                        <div class="portfolio-wrapper">
+                            <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/mayankcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn10" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">MAYANK BADOLA</h3>
+                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/amanpcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn27" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">AMAN PRIYADARSHI</h3>
+                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/mansimarkaurcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn33" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">MANSIMAR KAUR</h3>
+                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>          
+          
+                     
+          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Prernacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn23" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">PRERNA KAKKAR</h3>
+                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd">
+                        <div class="portfolio-wrapper">
+                          <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/anshulkhcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn3" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">ANSHUL KHANNA</h3>
+                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div> 
+                                        </div>
+                                    </div>  
+                        </div>
+                    </div>
+          
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Jyoticrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn30" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">JYOTI</h3>
+                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+                        <div class="portfolio-wrapper">
+                            <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/tarashacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn11" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">TARASHA KHURANA</h3>
+                                            <div class="staff__categories"><b>CONTENT WRITER</a></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+                  
+          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Asthacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn49" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">AASTHA</h3>
+                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+          
+          
+          
+          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Nilaycrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn18" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">NILAY SHRIVASTAVA</h3>
+                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+
+<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd">
+                        <div class="portfolio-wrapper">
+                            <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Rishabcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn14" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">RISHAB GUPTA</h3>
+                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/NamanMcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn44" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">NAMAN MALHOTRA</h3>
+                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc webd">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Aprajitacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn34" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">APRAJITA SINGH</h3>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR/DEVELOPER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/pranshucrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn36" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">PRANSHU AGARWAL</h3>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/priyankacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn43" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">PRIYANKA</h3>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+        
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc">
+                        <div class="portfolio-wrapper">
+                            <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/RohaiScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn9" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">ROHAN SAI</h3>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></a></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+                     
+          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Harshpreetcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn19" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">HARSHPREET SINGH</h3>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>        
+
+          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/shubhangicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn24" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">SHUBHANGI BISHT</h3>
+                                            <div class="staff__categories"><b>CONTENT WRITER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>    
+          
+          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Kanika_Modicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn29" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">KANIKA MODI</h3>
+                                            <div class="staff__categories"><b>CONTENT WRITER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+          
+          
+          
+          
+          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/ShubhamRcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn31" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">SHUBHAM ROY</h3>
+                                            <div class="staff__categories"><b>CONTENT WRITER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+                
+          
+          
+          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Jeeveshcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn37" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">JEEVESH NARANG</h3>
+                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item designer ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/ParthMcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn39" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">PARTH MITTAL</h3>
+                                            <div class="staff__categories"><b>GRAPHICS DESIGNER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+
+          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/avni photocrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn40" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">AVNI ARORA</h3>
+                                            <div class="staff__categories"><b>CONTENT WRITER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+                
+          
+
+        <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/sahilDuacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn55" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">SAHIL DUA</h3>
+                                            <div class="staff__categories"><p><b>2012-2016<br>
+                       Booking.com </b></p>
+                      </div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+        
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/manrajcrop.jpg" height="50%" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn59" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">MANRAJ SINGH</h3>
+                                            <div class="staff__categories"><b>2012-2016<br>Practo</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+        
+        <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/divjotcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn56" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">DIVJOT SINGH</h3>
+                                            <div class="staff__categories"><b>2012-2016<br>Samsung</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+        
+        <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/abhinavcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn75" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">ABHINAV SINGH</h3>
+                                            <div class="staff__categories"><b>2012-2016<br>Samsung</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+        
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/sidcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn58" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">SIDDHARTH JAIN</h3>
+                                            <div class="staff__categories"><b>2011-2015<br>Google</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+        
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/RahulGcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn53" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">RAHUL GANDHI</h3>
+                                            <div class="staff__categories"><b>2011-2015<br>Adobe</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+        
+                     
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/ayushmaiticrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn15" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">AYUSH MAITI</h3>
+                                            <div class="staff__categories"><b>2011-2015</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+
+        <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/VishalVcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn52" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">VISHAL VEDWAL</h3>
+                                            <div class="staff__categories"><b>ALUMNI</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+          
+
+      </div><!-- end wrapper -->
+      
+      <div id="myModal12" class="modal" style="z-index:100;">
                                         <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -101,17 +794,8 @@
                                           }
                                         }
                                          </script>
-
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership  ">  
-                            <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/tusharcrop.jpg" height="auto" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn47" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">TUSHAR GUPTA</h3>
-                                            <div class="staff__categories"><b>FOUNDER</b></a></div>
-                                       </div>
-                                    </div> 
-                                    </div>
-                    <div id="myModal47" class="modal" style="z-index:100;">
+                     
+                     <div id="myModal47" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -152,20 +836,9 @@
                                           modal47.style.display = "none";
                                           }
                                         }
-                                         </script> -->
-          
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership ">
-                        <div class="portfolio-wrapper">
-                            <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/ApoorvGcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn46" class="btn btn-primary btn-effect"><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">APOORV GUPTA</h3>
-                                            <div class="staff__categories"><b>PRESIDENT</b></a></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal46" class="modal" style="z-index:100;">
+                                         </script> 
+                     
+                     <div id="myModal46" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -209,19 +882,8 @@
                                           }
                                         }
                                          </script>
-
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Shwetankcrop.jpg" height="auto" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn21" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">SHWETANK PANDEY</h3>
-                                            <div class="staff__categories"><b>VICE-PRESIDENT</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal21" class="modal" style="z-index:100;">
+                     
+                      <div id="myModal21" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -233,7 +895,7 @@
                                              </div>
                                              <div class="modal-body">
                                              <p><b> VICE PRESIDENT</b></p>
-                                             <p> I'm currently pursuing my undergraduate degree in Information Technology from NSIT. In my fourth year now, CollegeSpace has been deeply integral to my personal & professional growth, also teaching me how to work better in a team. I'm also an avid drummer, a keen footballer & an ardent Liverpool FC fan! </p>
+                                             <p> <b>I'm currently pursuing my undergraduate degree in Information Technology from NSIT. In my fourth year now, CollegeSpace has been deeply integral to my personal & professional growth, also teaching me how to work better in a team. I'm also an avid drummer, a keen footballer & an ardent Liverpool FC fan! </b></p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -265,19 +927,7 @@
                                           }
                                         }
                                          </script>
-										 
-				<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership webd ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/amanmahcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn74" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">AMAN MAHAJAN</h3>
-                                            <div class="staff__categories"><b>WEB TECHNICAL HEAD</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-				    <div id="myModal74" class="modal" style="z-index:100;">
+                     <div id="myModal74" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -320,18 +970,7 @@
                                           }
                                         }
                                          </script>
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership contentc ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/SubhkaranScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn26" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">SHUBHKARAN SINGH</h3>
-                                            <div class="staff__categories"><b>CONTENT HEAD</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal26" class="modal" style="z-index:100;">
+                     <div id="myModal26" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -373,19 +1012,7 @@
                                           }
                                         }
                                          </script>
-                    
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw leadership ">
-                        <div class="portfolio-wrapper">
-                            <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Gautamkscrop.jpg" height="200" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn6" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">GAUTAM KUMAR SHARMA</h3>
-                                            <div class="staff__categories"><b>CONTENT WRITING HEAD</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal6" class="modal" style="z-index:100;">
+                     <div id="myModal6" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -425,21 +1052,8 @@
                                           }
                                         }
                  
-				 </script>
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership designer ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Arpit_Bajajcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn51" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">ARPIT BAJAJ</h3>
-                                            <div class="staff__categories"><b>GRAPHICS HEAD</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					
-					
-					<div id="myModal51" class="modal" style="z-index:100;">
+         </script>
+              <div id="myModal51" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -480,20 +1094,8 @@
                                           modal51.style.display = "none";
                                           }
                                         }
-                                         </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/abhisarcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn41" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">ABHISAR GARG</h3>
-                                            <div class="staff__categories"><b>SENIOR EDITOR</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal41" class="modal" style="z-index:100;">
+                                         </script>  
+<div id="myModal41" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -533,19 +1135,7 @@
                                           }
                                         }
                                          </script>
-										 
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/full/ayushg.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn2" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">AYUSH GARG </h3>
-                                            <div class="staff__categories"><b>SENIOR EDITOR</b></div>
-                                        </div>
-                                    </div> 
-                        </div>
-                    </div>
-					<div id="myModal2 " class="modal" style="z-index:100;">
+                     <div id="myModal2 " class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -583,20 +1173,8 @@
                                           modal2.style.display = "none";
                                           }
                                         }
-                                         </script>     
-
-<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item designer">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/ayushgargcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn76" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">AYUSH GARG </h3>
-                                            <div class="staff__categories"><b>GRAPHICS DESIGNER</b></div>
-                                        </div>
-                                    </div> 
-                        </div>
-                    </div>
-					<div id="myModal76" class="modal" style="z-index:100;">
+                                         </script> 
+                     <div id="myModal76" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -636,20 +1214,8 @@
                                           modal76.style.display = "none";
                                           }
                                         }
-                                         </script>                   										 
-										 
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw">
-                        <div class="portfolio-wrapper">
-                          <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Deepikacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4"  class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">DEEPIKA NARYANI</h3>
-                                            <div class="staff__categories"><b>CONTENT WRITER</b></div>
-                                        </div>
-                                    </div>  
-                        </div>
-                    </div>
-					<div id="myModal4" class="modal" style="z-index:100;">
+                                         </script>   
+                     <div id="myModal4" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -691,19 +1257,7 @@
                                           }
                                         }
                                          </script>
-                    
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Jasdeepcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn28" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">JASDEEP SINGH</h3>
-                                            <div class="staff__categories"><b>DEPARTMENT MANAGER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal28" class="modal" style="z-index:100;">
+                     <div id="myModal28" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -743,19 +1297,7 @@
                                           }
                                         }
                                          </script>
-										 
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
-                        <div class="portfolio-wrapper">                           
-                            <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/ksitijcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a  id="myBtn7" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">KSHITIJ</h3>
-                                            <div class="staff__categories"><b>DEPARTMENT MANAGER<b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal7" class="modal" style="z-index:100;">
+                     <div id="myModal7" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -796,19 +1338,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
-                        <div class="portfolio-wrapper">
-                            <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/ishacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn62" class="btn btn-primary btn-effect"><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">ISHA GUPTA</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal62" class="modal" style="z-index:100;">
+                     <div id="myModal62" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -856,20 +1386,8 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           modal62.style.display = "none";
                                           }
                                         }
-                                         </script>        
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Jaswincrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn16" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">JASWIN KAUR</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal16" class="modal" style="z-index:100;">
+                                         </script>  
+                     <div id="myModal16" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -919,19 +1437,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc contentw ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/navdhacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn42" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">NAVDHA</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTOR/WRITER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal42" class="modal" style="z-index:100;">
+                     <div id="myModal42" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -983,19 +1489,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/HarshVcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn17" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">HARSH VARDHAN</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal17" class="modal" style="z-index:100;">
+                     <div id="myModal17" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -1043,19 +1537,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Prabhacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn32" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">PRABHA PANT</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal32" class="modal" style="z-index:100;">
+                     <div id="myModal32" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -1107,19 +1589,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Aditicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn66" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">ADITI SHARMA</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal66" class="modal" style="z-index:100;">
+                     <div id="myModal66" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -1171,19 +1641,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/MohitScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn45" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">MOHIT SINGH</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal45" class="modal" style="z-index:100;">
+                     <div id="myModal45" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -1235,18 +1693,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Arkocrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn8" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">ARKO GUPTA</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal8" class="modal" style="z-index:100;">
+                     <div id="myModal8" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -1288,19 +1735,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Shresthcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn35" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">SHRESTH SHARMA</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal35" class="modal" style="z-index:100;">
+                     <div id="myModal35" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -1349,19 +1784,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Kanishkacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn22" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">KANISHKA GOSAIN</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal22" class="modal" style="z-index:100;">
+                     <div id="myModal22" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -1409,21 +1832,8 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           modal22.style.display = "none";
                                           }
                                         }
-                                         </script>						 
-                    
-										 
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd">
-                        <div class="portfolio-wrapper">
-                            <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/mayankcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn10" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">MAYANK BADOLA</h3>
-                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal10" class="modal" style="z-index:100;">
+                                         </script>    
+                     <div id="myModal10" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -1465,19 +1875,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/amanpcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn27" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">AMAN PRIYADARSHI</h3>
-                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal27" class="modal" style="z-index:100;">
+                     <div id="myModal27" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -1519,19 +1917,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/mansimarkaurcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn33" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">MANSIMAR KAUR</h3>
-                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>					
-					<div id="myModal33" class="modal" style="z-index:100;">
+                     <div id="myModal33" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -1574,19 +1960,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-										 
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Prernacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn23" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">PRERNA KAKKAR</h3>
-                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal23" class="modal" style="z-index:100;">
+                     <div id="myModal23" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -1628,19 +2002,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd">
-                        <div class="portfolio-wrapper">
-                          <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/anshulkhcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn3" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">ANSHUL KHANNA</h3>
-                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div> 
-                                        </div>
-                                    </div>  
-                        </div>
-                    </div>
-					<div id="myModal3" class="modal" style="z-index:100;">
+                     <div id="myModal3" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -1661,7 +2023,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                              </div>
                                              </div>
                                              </div>
-                                             <script>											 
+                                             <script>                      
                                              var modal3  = document.getElementById('myModal3');
                                              // Get the button that opens the modal
                                              var btn3  = document.getElementById("myBtn3");
@@ -1682,18 +2044,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Jyoticrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn30" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">JYOTI</h3>
-                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal30" class="modal" style="z-index:100;">
+                     <div id="myModal30" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -1734,18 +2085,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
-                        <div class="portfolio-wrapper">
-                            <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/tarashacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn11" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">TARASHA KHURANA</h3>
-                                            <div class="staff__categories"><b>CONTENT WRITER</a></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal11" class="modal" style="z-index:100;">
+                     <div id="myModal11" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -1786,19 +2126,8 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           modal11.style.display = "none";
                                           }
                                         }
-                                         </script>					
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Asthacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn49" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">AASTHA</h3>
-                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal49" class="modal" style="z-index:100;">
+                                         </script>  
+                     <div id="myModal49" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -1847,21 +2176,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-					
-					
-					
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Nilaycrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn18" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">NILAY SHRIVASTAVA</h3>
-                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal18" class="modal" style="z-index:100;">
+                     <div id="myModal18" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -1911,19 +2226,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                           }
                                         }
                                          </script>
-
-<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd">
-                        <div class="portfolio-wrapper">
-                            <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Rishabcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn14" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">RISHAB GUPTA</h3>
-                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal14" class="modal" style="z-index:100;">
+                     <div id="myModal14" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -1980,19 +2283,7 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/NamanMcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn44" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">NAMAN MALHOTRA</h3>
-                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal44" class="modal" style="z-index:100;">
+                     <div id="myModal44" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -2042,19 +2333,7 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc webd">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Aprajitacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn34" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">APRAJITA SINGH</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTOR/DEVELOPER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal34" class="modal" style="z-index:100;">
+                     <div id="myModal34" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -2104,19 +2383,7 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/pranshucrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn36" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">PRANSHU AGARWAL</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal36" class="modal" style="z-index:100;">
+                     <div id="myModal36" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -2167,19 +2434,7 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/priyankacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn43" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">PRIYANKA</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-				<div id="myModal43" class="modal" style="z-index:100;">
+                     <div id="myModal43" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -2230,20 +2485,8 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                           modal43.style.display = "none";
                                           }
                                         }
-                                         </script>	
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc">
-                        <div class="portfolio-wrapper">
-                            <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/RohaiScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn9" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">ROHAN SAI</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></a></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal9" class="modal" style="z-index:100;">
+                                         </script>  
+                     <div id="myModal9" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -2286,19 +2529,7 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                           }
                                         }
                                          </script>
-										 
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Harshpreetcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn19" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">HARSHPREET SINGH</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal19" class="modal" style="z-index:100;">
+                     <div id="myModal19" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -2346,22 +2577,8 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                           modal19.style.display = "none";
                                           }
                                         }
-                                         </script>	
-					
-					
-
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/shubhangicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn24" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">SHUBHANGI BISHT</h3>
-                                            <div class="staff__categories"><b>CONTENT WRITER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal24" class="modal" style="z-index:100;">
+                                         </script>  
+                     <div id="myModal24" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -2410,89 +2627,7 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                           }
                                         }
                                          </script>
-					
-					
-
-					
-					
-					
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Kanika_Modicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn29" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">KANIKA MODI</h3>
-                                            <div class="staff__categories"><b>CONTENT WRITER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					
-					<div id="myModal29" class="modal" style="z-index:100;">
-
-                                           <!-- Modal content -->
-                                           <div class="modal-content">
-                                           <div class="modal-header">
-                                           <span class="close 29">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Kanika_Modi.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
-                                           <h2> Kanika Modi </h2>
-                                             </div>
-                                             <div class="modal-body">
-                                             <p><b> CONTENT WRITER </b></p>
-                                             <p> Every story I create, creates me. I write to create myself. </p>
-                                             </div>
-                                             <div class="modal-footer">
-                                            <ul class="social-links list-unstyled">
-                                                <li><a class="icon fa fa-facebook" href=" https://web.facebook.com/kanika.modi.771 "></a></li>
-                                                <li><a class="icon fa fa-google-plus" href=" https://plus.google.com/u/0/118224644801061536093 "></a></li>
-                                            </ul>
-                                             </div>
-                                             </div>
-
-                                             </div>
-
-                                             <script>
-                                             var modal29  = document.getElementById('myModal29');
-
-                                             // Get the button that opens the modal
-                                             var btn29  = document.getElementById("myBtn29");
-
-                                             // Get the element that closes the modal
-                                             var span29  = document.getElementsByClassName("29")[0];
-
-                                             // When the user clicks the button, open the modal 
-                                             btn29.onclick = function() {
-                                             modal29.style.display = "block";
-                                            }
-
-                                            // closing the modal
-                                            span29.onclick = function() {
-                                            modal29.style.display = "none";
-                                          }
-
-                                          // When the user clicks anywhere outside of the modal, close it
-                                          window.onclick = function(event) {
-                                          if (event.target == modal29) {
-                                          modal29.style.display = "none";
-                                          }
-                                        }
-                                         </script>
-					
-					
-					
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/ShubhamRcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn31" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">SHUBHAM ROY</h3>
-                                            <div class="staff__categories"><b>CONTENT WRITER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal31" class="modal" style="z-index:100;">
+                     <div id="myModal31" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -2543,21 +2678,8 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                           modal31.style.display = "none";
                                           }
                                         }
-                                         </script>				
-					
-					
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Jeeveshcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn37" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">JEEVESH NARANG</h3>
-                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal37" class="modal" style="z-index:100;">
+                                         </script>  
+                     <div id="myModal37" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -2609,18 +2731,57 @@ Adiós gente. </p>
                                           }
                                         }
                                          </script>
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item designer ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/ParthMcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn39" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">PARTH MITTAL</h3>
-                                            <div class="staff__categories"><b>GRAPHICS DESIGNER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal39" class="modal" style="z-index:100;">
+                     <div id="myModal29" class="modal" style="z-index:100;">
+
+                                           <!-- Modal content -->
+                                           <div class="modal-content">
+                                           <div class="modal-header">
+                                           <span class="close 29">×</span>
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Kanika_Modi.jpg" height="100" width="100" alt="foto" align="middle">
+                                           
+                                           <h2> Kanika Modi </h2>
+                                             </div>
+                                             <div class="modal-body">
+                                             <p><b> CONTENT WRITER </b></p>
+                                             <p> Every story I create, creates me. I write to create myself. </p>
+                                             </div>
+                                             <div class="modal-footer">
+                                            <ul class="social-links list-unstyled">
+                                                <li><a class="icon fa fa-facebook" href=" https://web.facebook.com/kanika.modi.771 "></a></li>
+                                                <li><a class="icon fa fa-google-plus" href=" https://plus.google.com/u/0/118224644801061536093 "></a></li>
+                                            </ul>
+                                             </div>
+                                             </div>
+
+                                             </div>
+
+                                             <script>
+                                             var modal29  = document.getElementById('myModal29');
+
+                                             // Get the button that opens the modal
+                                             var btn29  = document.getElementById("myBtn29");
+
+                                             // Get the element that closes the modal
+                                             var span29  = document.getElementsByClassName("29")[0];
+
+                                             // When the user clicks the button, open the modal 
+                                             btn29.onclick = function() {
+                                             modal29.style.display = "block";
+                                            }
+
+                                            // closing the modal
+                                            span29.onclick = function() {
+                                            modal29.style.display = "none";
+                                          }
+
+                                          // When the user clicks anywhere outside of the modal, close it
+                                          window.onclick = function(event) {
+                                          if (event.target == modal29) {
+                                          modal29.style.display = "none";
+                                          }
+                                        }
+                                         </script>
+                     <div id="myModal39" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -2670,19 +2831,7 @@ Adiós gente. </p>
                                           }
                                         }
                                          </script>
-
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/avni photocrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn40" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">AVNI ARORA</h3>
-                                            <div class="staff__categories"><b>CONTENT WRITER</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal40" class="modal" style="z-index:100;">
+                     <div id="myModal40" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -2731,23 +2880,8 @@ Adiós gente. </p>
                                           modal40.style.display = "none";
                                           }
                                         }
-                                         </script>			
-					
-
-				<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/sahilDuacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn55" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">SAHIL DUA</h3>
-                                            <div class="staff__categories"><p><b>2012-2016<br>
-											 Booking.com </b></p>
-											</div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-				<div id="myModal55" class="modal" style="z-index:100;">
+                                         </script>
+                     <div id="myModal55" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -2795,19 +2929,7 @@ Adiós gente. </p>
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/manrajcrop.jpg" height="50%" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn59" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">MANRAJ SINGH</h3>
-                                            <div class="staff__categories"><b>2012-2016<br>Practo</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-				<div id="myModal59" class="modal" style="z-index:100;">
+                     <div id="myModal59" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -2846,18 +2968,7 @@ Adiós gente. </p>
                                           }
                                         }
                                          </script>
-				<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/divjotcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn56" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">DIVJOT SINGH</h3>
-                                            <div class="staff__categories"><b>2012-2016<br>Samsung</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-				<div id="myModal56" class="modal" style="z-index:100;">
+                     <div id="myModal56" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -2904,20 +3015,8 @@ Adiós gente. </p>
                                           modal56.style.display = "none";
                                           }
                                         }
-                                         </script>		
-				
-				<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/abhinavcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn75" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">ABHINAV SINGH</h3>
-                                            <div class="staff__categories"><b>2012-2016<br>Samsung</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-				<div id="myModal75" class="modal" style="z-index:100;">
+                                         </script>  
+                     <div id="myModal75" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -2963,20 +3062,8 @@ Adiós gente. </p>
                                           modal75.style.display = "none";
                                           }
                                         }
-                                         </script>		
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/sidcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn58" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">SIDDHARTH JAIN</h3>
-                                            <div class="staff__categories"><b>2011-2015<br>Google</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-				<div id="myModal58" class="modal" style="z-index:100;">
+                                         </script>  
+                     <div id="myModal58" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
@@ -3015,19 +3102,7 @@ Adiós gente. </p>
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/RahulGcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn53" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">RAHUL GANDHI</h3>
-                                            <div class="staff__categories"><b>2011-2015<br>Adobe</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-				<div id="myModal53" class="modal" style="z-index:100;">
+                     <div id="myModal53" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -3076,19 +3151,7 @@ Adiós gente. </p>
                                           }
                                         }
                                          </script>
-										 
-										 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/ayushmaiticrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn15" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">AYUSH MAITI</h3>
-                                            <div class="staff__categories"><b>2011-2015</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal15" class="modal" style="z-index:100;">
+                     <div id="myModal15" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -3139,19 +3202,7 @@ Adiós gente. </p>
                                           }
                                         }
                                          </script>
-
-				<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/VishalVcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn52" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">VISHAL VEDWAL</h3>
-                                            <div class="staff__categories"><b>ALUMNI</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-					<div id="myModal52" class="modal" style="z-index:100;">
+                     <div id="myModal52" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
                                            <div class="modal-content">
@@ -3200,8 +3251,6 @@ Adiós gente. </p>
                                           }
                                         }
                                          </script>
-
-			</div><!-- end wrapper -->
 		</div><!-- end layout-theme -->
 <script type="text/javascript" src="team/js/jquery.js"></script>
 <script type="text/javascript" src="team/js/jquery.isotope.min.js"></script>
