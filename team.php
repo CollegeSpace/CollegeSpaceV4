@@ -18,6 +18,10 @@
 					</div><!-- end container-->
 				</div><!-- end wrap-title-page -->
 
+
+
+
+
 				<main class="main-content">
 
 					<div class="container">
@@ -28,8 +32,11 @@
                                     <div class="ui-subtitle-block" ><italics>"If you seek what they built ,look around"</italics></div>
                                 </div><!-- end wrap-title -->
 
+                            </div>
+                            </div>
+                            </div>
 
-                                  <div id="portfolio">
+       <div id="portfolio">
         <div class="container">
             <div class="row">
 
@@ -165,7 +172,7 @@
           <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/full/ayushg.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn2" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/FULL/ayushg.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn2" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">AYUSH GARG </h3>
                                             <div class="staff__categories"><b>SENIOR EDITOR</b></div>
@@ -220,7 +227,7 @@
                                         <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/ksitijcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a  id="myBtn7" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">KSHITIJ</h3>
-                                            <div class="staff__categories"><b>DEPARTMENT MANAGER<b></div>
+                                            <div class="staff__categories"><b>DEPARTMENT MANAGER</b></div>
                                         </div>
                                     </div>
                         </div>
@@ -439,7 +446,7 @@
                                         <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/tarashacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn11" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">TARASHA KHURANA</h3>
-                                            <div class="staff__categories"><b>CONTENT WRITER</a></div>
+                                            <div class="staff__categories"><b>CONTENT WRITER</b></a></div>
                                         </div>
                                     </div>
                         </div>
@@ -750,6 +757,9 @@
           
 
       </div><!-- end wrapper -->
+    
+      
+
       
       <div id="myModal12" class="modal" style="z-index:100;">
                                         <!-- Modal content -->
@@ -761,7 +771,7 @@
                                              </div>
                                              <div class="modal-body">
                                              <p><b> ALUMNI </b></p>
-                                             <p><b> Sahil Gulati ,the agony aunt of NSIT, can be best described in one word: Believer. He possesses the potential to look beyond the obvious. Passionate about Travelling, Analytics and Entrepreneurship, he has an undying love for Cheese Burst Pizza. Sahil has a knack for making things happen, no matter how unlikely they seem.</b> </p>
+                                             <p> Sahil Gulati ,the agony aunt of NSIT, can be best described in one word: Believer. He possesses the potential to look beyond the obvious. Passionate about Travelling, Analytics and Entrepreneurship, he has an undying love for Cheese Burst Pizza. Sahil has a knack for making things happen, no matter how unlikely they seem. </p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -806,7 +816,7 @@
                                              </div>
                                              <div class="modal-body">
                                              <p><b>HEAD OF TECHNICAL OPERATIONS</b></p>
-                                             <p><b>Co-Founder and Lead Developer of CollegeSpace. Technology is my way of Life. I may have a degree in Instrumentation but Computers are my passion. I am an ardent follower of Hollywood and an amateur Gamer. During college, I did a 2 month internship at Accenture and Sify. Post college I joined Sapient and after a successful stint spanning two years, I recently joined Bharti Airtel as an Assistant Manager (Backend Development).</b></p>
+                                             <p>Co-Founder and Lead Developer of CollegeSpace. Technology is my way of Life. I may have a degree in Instrumentation but Computers are my passion. I am an ardent follower of Hollywood and an amateur Gamer. During college, I did a 2 month internship at Accenture and Sify. Post college I joined Sapient and after a successful stint spanning two years, I recently joined Bharti Airtel as an Assistant Manager (Backend Development).</p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -895,7 +905,7 @@
                                              </div>
                                              <div class="modal-body">
                                              <p><b> VICE PRESIDENT</b></p>
-                                             <p> <b>I'm currently pursuing my undergraduate degree in Information Technology from NSIT. In my fourth year now, CollegeSpace has been deeply integral to my personal & professional growth, also teaching me how to work better in a team. I'm also an avid drummer, a keen footballer & an ardent Liverpool FC fan! </b></p>
+                                             <p>I'm currently pursuing my undergraduate degree in Information Technology from NSIT. In my fourth year now, CollegeSpace has been deeply integral to my personal & professional growth, also teaching me how to work better in a team. I'm also an avid drummer, a keen footballer & an ardent Liverpool FC fan! </p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -937,7 +947,7 @@
                                              </div>
                                              <div class="modal-body">
                                              <p><b> WEB TECHNICAL HEAD </b></p>
-                                             <p><b> I am very lazy that is why I like to write scripts that automate my work ! I am always keen to build a product that benefits people. Apart from that I am a raw cricket player and lover.</b></p>
+                                             <p> I am very lazy that is why I like to write scripts that automate my work ! I am always keen to build a product that benefits people. Apart from that I am a raw cricket player and lover.</p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -982,7 +992,7 @@
                                              </div>
                                              <div class="modal-body">
                                              <p><b> CONTENT MANAGING DIRECTOR </b></p>
-                                             <p><b>  I am very passionate about football, loves food and cooking.</b> </p>
+                                             <p> I am very passionate about football, loves food and cooking. </p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -1022,7 +1032,7 @@
                                              </div>
                                              <div class="modal-body">
                                              <p><b> EDITOR-IN-CHIEF </b></p>
-                                             <p><b> A voracious reader who seldom wanders around lost in the ramblings of his thoughts.</b> </p>
+                                             <p> A voracious reader who seldom wanders around lost in the ramblings of his thoughts. </p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -1064,7 +1074,7 @@
                                              </div>
                                              <div class="modal-body">
                                              <p><b> GRAPHICS HEAD </b></p>
-                                             <p><b> Passionate about being passionate! </b></p>
+                                             <p> Passionate about being passionate! </p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -1105,7 +1115,7 @@
                                              </div>
                                              <div class="modal-body">
                                              <p><b> SENIOR EDITOR </b></p>
-                                             <p><b> Fourth year IT, love reading and poetry.</b> </p>
+                                             <p> Fourth year IT, love reading and poetry. </p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -1140,7 +1150,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 2">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/ayushg.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/ayushg.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Ayush Garg </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1179,12 +1189,12 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 76">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/ayushgarg.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/ayushgarg.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Ayush Garg </h2>
                                              </div>
                                              <div class="modal-body">
                                              <p><b>GRAPHICS DESIGNER</b></p>
-                                             <p><b> Coding enthusiast and designer who loves music</b> </p>
+                                             <p>Coding enthusiast and designer who loves music </p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -1220,7 +1230,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 4">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Deepika.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Deepika.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Deepika Naryani </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1262,12 +1272,12 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 28">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Jasdeep.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Jasdeep.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Jasdeep Singh </h2>
                                              </div>
                                              <div class="modal-body">
                                              <p><b> DEPARTMENT MANAGER </b></p>
-                                             <p><b> Passionate sports fanatic (read cricket), a foodie who only orders all the bizarre things on the menu. Fun loving, indefatigable and always happy to help! :) </b></p>
+                                             <p> Passionate sports fanatic (read cricket), a foodie who only orders all the bizarre things on the menu. Fun loving, indefatigable and always happy to help! :) </p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -1302,13 +1312,12 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 7">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/ksitij.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/ksitij.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Kshitij </h2>
                                              </div>
                                              <div class="modal-body">
                                              <p><b> DEPARTMENT MANAGER </b></p>
-                                             <p><b> Hey!
-You have got an ICE Senior on this side . Have been working at College pace since my 2nd year. Ask me questions you want. And yes, 'placement ho jayegi' :p!</b> </p>
+                                             <p> Hey!You have got an ICE Senior on this side . Have been working at CollegeSpace since my 2nd year. Ask me questions you want. And yes, 'placement ho jayegi' :p!</p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -1343,7 +1352,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 62">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/isha.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/isha.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Isha Gupta </h2>
                                              </div>
@@ -1393,7 +1402,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 16">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Jaswin.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Jaswin.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Jaswin Kaur </h2>
                                              </div>
@@ -1443,7 +1452,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 42">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/navdha.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/navdha.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Navdha </h2>
                                              </div>
@@ -1495,7 +1504,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 17">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/HarshV.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/HarshV.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Harsh Vardhan </h2>
                                              </div>
@@ -1543,7 +1552,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 32">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Prabha.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Prabha.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Prabha Pant </h2>
                                              </div>
@@ -1595,13 +1604,13 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 66">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Aditi.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Aditi.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Aditi Sharma </h2>
                                              </div>
                                              <div class="modal-body">
                                              <p><b> CONTENT WRITER </b></p>
-                                             <p> A creative, enthusiastic and optimistic person who believes in living life to the fullest. A budding android developer and coder, she also takes interest in reading and writing. Always up for learning new things,she can be better described as an opportunist. She also likes to travel and meet new people.  </p>
+                                             <p> A creative, enthusiastic and optimistic person who believes in living life to the FULLest. A budding android developer and coder, she also takes interest in reading and writing. Always up for learning new things,she can be better described as an opportunist. She also likes to travel and meet new people.  </p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -1647,7 +1656,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 45">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/MohitS.jpeg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/MohitS.jpeg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> MOHIT SINGH </h2>
                                              </div>
@@ -1698,13 +1707,12 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 8">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Arko.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Arko.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Arko Gupta </h2>
                                              </div>
                                              <div class="modal-body">
                                              <p><b> CONTENT COLLECTOR </b></p>
-                                             <p> <b>I am Arko, a junior pursuing CSE . I have been a member of the content team at CollegeSpace since September 2015 and have really enjoyed being a part it.
- I like  competitive programming and  solving problems. Besides, I love watching and playing football.  </b></p>
+                                             <p>I am Arko, a junior pursuing CSE . I have been a member of the content team at CollegeSpace since September 2015 and have really enjoyed being a part it. I like  competitive programming and  solving problems. Besides, I love watching and playing football.</p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -1741,7 +1749,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 35">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Shresth.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Shresth.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Shreshth Sharma </h2>
                                              </div>
@@ -1790,7 +1798,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 22">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Kanishka.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Kanishka.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> KANISHKA GOSAIN </h2>
                                              </div>
@@ -1838,7 +1846,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 10">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/mayank.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/mayank.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Mayank Badola </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1880,7 +1888,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 27">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/amanp.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/amanp.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Aman Priyadarshi </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1922,7 +1930,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 33">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/mansimarkaur.jpeg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/mansimarkaur.jpeg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Mansimar Kaur </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1965,7 +1973,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 23">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Prerna.jpg" height="100" width="100" alt="foto" align="middle">                                         
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Prerna.jpg" height="100" width="100" alt="foto" align="middle">                                         
                                            <h2> Prerna Kakkar </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2008,13 +2016,13 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 3">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/anshulkh.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/anshulkh.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Anshul Khanna </h2>
                                              </div>
                                              <div class="modal-body">
                                              <p><b> WEB DEVELOPER </b></p>
-                                             <p><b> Work hard. Never give up.</b> </p>
+                                             <p> Work hard. Never give up. </p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -2050,12 +2058,12 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 30">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Jyoti.jpg" height="100" width="100" alt="foto" align="middle">                             
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Jyoti.jpg" height="100" width="100" alt="foto" align="middle">                             
                                            <h2> Jyoti </h2>
                                              </div>
                                              <div class="modal-body">
                                              <p><b> WEB DEVELOPER </b></p>
-                                             <p><b> Copy & paste is a design error; then thinking the code is done by u is a psychological disorder ; I'm trying to get rid of it!</b> </p>
+                                             <p> Copy & paste is a design error; then thinking the code is done by u is a psychological disorder ; I'm trying to get rid of it!</p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -2091,12 +2099,12 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 11">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/tarasha.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/tarasha.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Tarasha Khurana </h2>
                                              </div>
                                              <div class="modal-body">
                                              <p><b> CONTENT WRITER </b></p>
-                                             <p><b> Living midst an infinity of weird fetishes and short-lived passions in a bundle of inconsiderate dreams.</b> </p>
+                                             <p> Living midst an infinity of weird fetishes and short-lived passions in a bundle of inconsiderate dreams.</p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -2133,7 +2141,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 49">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Astha.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Astha.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Aastha </h2>
                                              </div>
@@ -2182,7 +2190,7 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 18">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Nilay.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Nilay.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Nilay Shrivastava </h2>
                                              </div>
@@ -2232,19 +2240,13 @@ You have got an ICE Senior on this side . Have been working at College pace sinc
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 14">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Rishab.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Rishab.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Rishab Gupta </h2>
                                              </div>
                                              <div class="modal-body">
                                              <p><b> WEB DEVELOPER </b></p>
-                                             <p>  I am learning to realize the ideas within me. 
-
-I am always ready to do the task in hand and look for opportunities to meet new people. Thinking about and solving problems is what I like doing.
-
-One of my main objectives is to give back to my people and nature that nurtured me.So any work regarding the same is of special importance to me.
-
-I have passion for inventing stuff, designing solutions and learning  new things.  </p>
+                                             <p>  I am learning to realize the ideas within me. I am always ready to do the task in hand and look for opportunities to meet new people. Thinking about and solving problems is what I like doing.One of my main objectives is to give back to my people and nature that nurtured me.So any work regarding the same is of special importance to me.I have passion for inventing stuff, designing solutions and learning  new things.  </p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -2289,7 +2291,7 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 44">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/NamanM.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/NamanM.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Naman Malhotra </h2>
                                              </div>
@@ -2339,7 +2341,7 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 34">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Aprajita.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Aprajita.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Aprajita Singh </h2>
                                              </div>
@@ -2389,7 +2391,7 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 36">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/pranshu.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/pranshu.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Pranshu Agarwal  </h2>
                                              </div>
@@ -2440,13 +2442,13 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 43">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/priyanka.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/priyanka.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Priyanka </h2>
                                              </div>
                                              <div class="modal-body">
                                              <p><b> CONTENT COLLECTOR </b></p>
-                                             <p> A fun loving girl who believes in living life to the fullest.I'm passionate, hardworking and confident in my ability to perform.Currently, helping in collecting and managing content for the website.  </p>
+                                             <p> A fun loving girl who believes in living life to the FULLest.I'm passionate, hardworking and confident in my ability to perform.Currently, helping in collecting and managing content for the website.  </p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -2491,12 +2493,12 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 9">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/RohaiS.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/RohaiS.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Rohan Sai </h2>
                                              </div>
                                              <div class="modal-body">
                                              <p><b> CONTENT COLLECTOR </b></p>
-                                             <p><b> Have been working under the collection department of CollegeSpace for over a year now and it's been a great experience. I've taken up ECE here at NSIT and I'm eagerly looking forward to pursuing a career in core electronics. </b></p>
+                                             <p> Have been working under the collection department of CollegeSpace for over a year now and it's been a great experience. I've taken up ECE here at NSIT and I'm eagerly looking forward to pursuing a career in core electronics. </p>
                                              </div>
                                           <!--   <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -2535,7 +2537,7 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 19">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Harshpreet.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Harshpreet.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> HARSHPREET SINGH </h2>
                                              </div>
@@ -2584,7 +2586,7 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 24">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/shubhangi.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/shubhangi.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Shubaangi Bisht </h2>
                                              </div>
@@ -2633,7 +2635,7 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 31">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/ShubhamR.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/ShubhamR.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Shubham Roy </h2>
                                              </div>
@@ -2685,16 +2687,13 @@ I have passion for inventing stuff, designing solutions and learning  new things
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 37">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Jeevesh.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Jeevesh.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Jeevesh Narang </h2>
                                              </div>
                                              <div class="modal-body">
                                              <p><b> WEB DEVELOPER </b></p>
-                                             <p> A very lazy person.
-Loves to build cool stuff that helps me stay the same :P
-And obviously a big foodie.
-Adiós gente. </p>
+                                             <p> A very lazy person. Loves to build cool stuff that helps me stay the same :P And obviously a big foodie. Adiós gente. </p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -2737,7 +2736,7 @@ Adiós gente. </p>
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 29">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Kanika_Modi.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Kanika_Modi.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Kanika Modi </h2>
                                              </div>
@@ -2787,11 +2786,11 @@ Adiós gente. </p>
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 39">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/ParthM.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/ParthM.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Parth Mittal </h2>
                                              </div>
-                                             <div class="modal-body">
+                                             <div class=";">
                                              <p><b> GRAPHICS DESIGNER </b></p>
                                              <p> Creativity, Designing, Pioneering and business intrigue me. </p>
                                              </div>
@@ -2837,7 +2836,7 @@ Adiós gente. </p>
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 40">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/avni photo.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/avni photo.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Avni Arora </h2>
                                              </div>
@@ -2887,7 +2886,7 @@ Adiós gente. </p>
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 55">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/sahilDua.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/sahilDua.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Sahil Dua </h2>
                                              </div>
@@ -2934,7 +2933,7 @@ Adiós gente. </p>
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 59">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/manraj.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/manraj.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Manraj Singh </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2974,7 +2973,7 @@ Adiós gente. </p>
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 56">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/divjot.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/divjot.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Divjot Singh </h2>
                                              </div>
@@ -3022,7 +3021,7 @@ Adiós gente. </p>
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 75">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/abhinav.jpeg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/abhinav.jpeg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Abhinav Singh </h2>
                                              </div>
@@ -3068,7 +3067,7 @@ Adiós gente. </p>
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 58">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/sid.png" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/sid.png" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Siddharth Jain </h2>
                                              </div>
                                              <div class="modal-body">
@@ -3108,7 +3107,7 @@ Adiós gente. </p>
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 53">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/RahulG.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/RahulG.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Rahul Gandhi </h2>
                                              </div>
@@ -3157,7 +3156,7 @@ Adiós gente. </p>
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 15">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/ayushmaiti.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/ayushmaiti.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Ayush Maiti </h2>
                                              </div>
@@ -3208,7 +3207,7 @@ Adiós gente. </p>
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 52">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/VishalV.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/VishalV.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Vishal Vedwal </h2>
                                              </div>
@@ -3251,6 +3250,7 @@ Adiós gente. </p>
                                           }
                                         }
                                          </script>
+
 		</div><!-- end layout-theme -->
 <script type="text/javascript" src="team/js/jquery.js"></script>
 <script type="text/javascript" src="team/js/jquery.isotope.min.js"></script>

@@ -10,16 +10,12 @@ jQuery(function($) {'use strict';
 		});
 	});
 
-	//Fit Vids
-	if( $('#video-container').length ) {
-		$("#video-container").fitVids();
-	}
-
+	
 	//Initiat WOW JS
 	new WOW().init();
 
 	// portfolio filter
-	$(window).load(function(){
+	/*$(window).load(function(){
 
 		$('.main-slider').addClass('animate-in');
 		$('.preloader').remove();
@@ -27,18 +23,34 @@ jQuery(function($) {'use strict';
 
 		if( $('.masonery_area').length ) {
 			$('.masonery_area').masonry();//Masonry
-		}
+		}*/
 
+		
+		$(window).load(function(){
 		var $portfolio_selectors = $('.portfolio-filter >li>a');
 		
 		if($portfolio_selectors.length) {
 			
+			
 			var $portfolio = $('.portfolio-items');
 			$portfolio.isotope({
 				itemSelector : '.portfolio-item',
+				
 				filter:'.leadership',
-				layoutMode : 'fitRows'
+				layoutMode : 'fitRows',
+				animationEngine : 'best-available',
+				
+				// set columnWidth to a percentage of container width
+            masonry: { columnWidth: $portfolio.width() / 5 }
 
+			});
+			
+				// update columnWidth on window resize
+			$(window).smartresize(function(){
+				$container.isotope({
+				// update columnWidth to a percentage of container width
+				masonry: { columnWidth: $portfolio.width() / 5 }
+				});
 			});
 			
 			$portfolio_selectors.on('click', function(){
@@ -53,32 +65,9 @@ jQuery(function($) {'use strict';
 	});
 
 
-	$('.timer').each(count);
-	function count(options) {
-		var $this = $(this);
-		options = $.extend({}, options || {}, $this.data('countToOptions') || {});
-		$this.countTo(options);
-	}
-		
-	// Search
-	$('.fa-search').on('click', function() {
-		$('.field-toggle').fadeToggle(200);
-	});
+	
 
-	// Contact form
-	var form = $('#main-contact-form');
-	form.submit(function(event){
-		event.preventDefault();
-		var form_status = $('<div class="form_status"></div>');
-		$.ajax({
-			url: $(this).attr('action'),
-			beforeSend: function(){
-				form.prepend( form_status.html('<p><i class="fa fa-spinner fa-spin"></i> Email is sending...</p>').fadeIn() );
-			}
-		}).done(function(data){
-			form_status.html('<p class="text-success">Thank you for contact us. As early as possible  we will contact you</p>').delay(3000).fadeOut();
-		});
-	});
+	
 
 	// Progress Bar
 	$.each($('div.progress-bar'),function(){
