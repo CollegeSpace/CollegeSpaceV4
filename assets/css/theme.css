@@ -33,6 +33,27 @@ img.pull-left {
 	margin-right: 20px;
 }
 
+.col-search-res{
+text-align:-webkit-left;
+    margin-bottom:4px;
+    height: auto;
+  /*  border-radius:10px;*/
+    background:#ececec;
+}
+.col-text
+{
+	padding:12px 0;
+    font-size:16px;
+	font-weight:400;
+    color:#2c3f56;
+}
+.result:before
+{
+	content:'';
+	display:block;
+	border-top:4px solid #00aeef;
+}
+
 .blurfilter{
 	filter: blur(10px);
 	-webkit-filter: blur(10px);
