@@ -7,7 +7,7 @@
 
 <div id="page-preloader"><span class="spinner"></span></div>
 <div class="layout-theme animated-css"  data-header="sticky" data-header-top="200">
-
+	
 <div id="wrapper">
 <?php include ("assets/header.php"); ?>
 				<div class="wrap-title-page">
@@ -63,7 +63,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 12">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Sahil.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Sahil.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Sahil Gulati </h2>
                                              </div>
                                              <div class="modal-body">
@@ -116,7 +116,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 47">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/tushar.jpg" height="auto" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/tushar.jpg" height="auto" width="100" alt="foto" align="middle">
                                            
                                            <h2>Tushar Gupta</h2>
                                              </div>
@@ -171,7 +171,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 46">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/ApoorvG.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/ApoorvG.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Apoorv Gupta </h2>
                                              </div>
@@ -227,7 +227,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 21">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Shwetank.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Shwetank.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Shwetank Pandey </h2>
                                              </div>
@@ -282,7 +282,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 74">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/amanmah.png" height="100" width="100" alt="foto" align="middle">                                          
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/amanmah.png" height="100" width="100" alt="foto" align="middle">                                          
                                            <h2> Aman Mahajan </h2>
                                              </div>
                                              <div class="modal-body">
@@ -337,7 +337,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 26">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/ShubhkaranS.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/ShubhkaranS.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Shubhkaran Singh </h2>
                                              </div>
@@ -390,7 +390,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 6">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Gautamks.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Gautamks.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Gautam Kumar Sharma </h2>
                                              </div>
                                              <div class="modal-body">
@@ -445,7 +445,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 51">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/Arpit_Bajaj.jpg" height="100" width="100" alt="foto" align="middle">                                          
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Arpit_Bajaj.jpg" height="100" width="100" alt="foto" align="middle">                                          
                                            <h2> Arpit Bajaj </h2>
                                              </div>
                                              <div class="modal-body">
@@ -498,7 +498,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 41">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/full/abhisar.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/abhisar.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Abhisar Garg </h2>
                                              </div>
                                              <div class="modal-body">
