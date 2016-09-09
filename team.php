@@ -36,8 +36,8 @@
                             </div>
                             </div>
 
-       <div id="portfolio">
-        <div class="container">
+       <section id="portfolio">
+        <div class="container-fluid">
             <div class="row">
 
             <div class="posts-wrap" >
@@ -52,7 +52,7 @@
                 </ul>
                     
                 <div class="portfolio-items" style="z-index:1;">
-                     <div class="col-xs-12 col-sm-12 col-md-3 portfolio-item leadership">  
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership">  
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive " src="assets/CS pics/cropped/Sahilcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn12" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -65,7 +65,7 @@
                         </div>
                                      
 
-                     <div class="col-xs-12 col-sm-12 col-md-3 portfolio-item leadership  ">  
+                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership  ">  
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/tusharcrop.jpg" height="auto" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn47" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
@@ -76,7 +76,7 @@
                                     </div>
                     
           
-                    <div class="col-xs-12 col-sm-12 col-md-3 portfolio-item leadership ">
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership ">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive"  src="assets/CS pics/cropped/ApoorvGcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn46" class="btn btn-primary btn-effect"><center>VIEW PROFILE</center></a></div></div>
@@ -89,98 +89,98 @@
                     </div>
           
 
-          <div class="col-xs-12 col-sm-12 col-md-3 portfolio-item leadership ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Shwetankcrop.jpg" height="auto" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn21" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">SHWETANK PANDEY</h3>
-                                            <div class="staff__categories"><b>VICE-PRESIDENT</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-        
-                     
-        <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership webd ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/amanmahcrop.jpg" height="262" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn74" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">AMAN MAHAJAN</h3>
-                                            <div class="staff__categories"><b>WEB TECHNICAL HEAD</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-            
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership contentc ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/SubhkaranScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn26" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">SHUBHKARAN SINGH</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTION HEAD</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-          
-                    
-          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw leadership ">
-                        <div class="portfolio-wrapper">
-                            <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Gautamkscrop.jpg" height="200" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn6" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">GAUTAM KUMAR SHARMA</h3>
-                                            <div class="staff__categories"><b>CONTENT WRITING HEAD</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-          
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership designer ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Arpit_Bajajcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn51" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">ARPIT BAJAJ</h3>
-                                            <div class="staff__categories"><b>GRAPHICS HEAD</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-          
-          
-          
-                     
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="lazy_cw  img-responsive" data-original="assets/CS pics/cropped/abhisarcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn41" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">ABHISAR GARG</h3>
-                                            <div class="staff__categories"><b>SENIOR EDITOR</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-          
-                     
-          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/FULL/ayushg.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn2" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">AYUSH GARG </h3>
-                                            <div class="staff__categories"><b>SENIOR EDITOR</b></div>
-                                        </div>
-                                    </div> 
-                        </div>
-                    </div>
-              
+				  <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership ">
+								<div class="portfolio-wrapper">
+								   <div class="staff">
+												<div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Shwetankcrop.jpg" height="auto" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn21" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+												<div class="staff__inner staff__inner_mod-a">
+													<h3 class="staff__title">SHWETANK PANDEY</h3>
+													<div class="staff__categories"><b>VICE-PRESIDENT</b></div>
+												</div>
+											</div>
+								</div>
+							</div>
+				
+							 
+				<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership webd ">
+								<div class="portfolio-wrapper">
+								   <div class="staff">
+												<div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/amanmahcrop.jpg" height="262" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn74" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+												<div class="staff__inner staff__inner_mod-a">
+													<h3 class="staff__title">AMAN MAHAJAN</h3>
+													<div class="staff__categories"><b>WEB TECHNICAL HEAD</b></div>
+												</div>
+											</div>
+								</div>
+							</div>
+					
+							 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership contentc ">
+								<div class="portfolio-wrapper">
+								   <div class="staff">
+												<div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/SubhkaranScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn26" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+												<div class="staff__inner staff__inner_mod-a">
+													<h3 class="staff__title">SHUBHKARAN SINGH</h3>
+													<div class="staff__categories"><b>CONTENT COLLECTION HEAD</b></div>
+												</div>
+											</div>
+								</div>
+							</div>
+				  
+							
+				  <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw leadership ">
+								<div class="portfolio-wrapper">
+									<div class="staff">
+												<div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Gautamkscrop.jpg" height="200" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn6" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+												<div class="staff__inner staff__inner_mod-a">
+													<h3 class="staff__title">GAUTAM KUMAR SHARMA</h3>
+													<div class="staff__categories"><b>CONTENT WRITING HEAD</b></div>
+												</div>
+											</div>
+								</div>
+							</div>
+				  
+							 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership designer ">
+								<div class="portfolio-wrapper">
+								   <div class="staff">
+												<div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Arpit_Bajajcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn51" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+												<div class="staff__inner staff__inner_mod-a">
+													<h3 class="staff__title">ARPIT BAJAJ</h3>
+													<div class="staff__categories"><b>GRAPHICS HEAD</b></div>
+												</div>
+											</div>
+								</div>
+							</div>
+				  
+				  
+				  
+							 
+							 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+								<div class="portfolio-wrapper">
+								   <div class="staff">
+												<div class="staff__media"><img class="lazy_cw  img-responsive" data-original="assets/CS pics/cropped/abhisarcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn41" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+												<div class="staff__inner staff__inner_mod-a">
+													<h3 class="staff__title">ABHISAR GARG</h3>
+													<div class="staff__categories"><b>SENIOR EDITOR</b></div>
+												</div>
+											</div>
+								</div>
+							</div>
+				  
+							 
+				  <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw">
+								<div class="portfolio-wrapper">
+								   <div class="staff">
+												<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/FULL/ayushg.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn2" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+												<div class="staff__inner staff__inner_mod-a">
+													<h3 class="staff__title">AYUSH GARG </h3>
+													<div class="staff__categories"><b>SENIOR EDITOR</b></div>
+												</div>
+											</div> 
+								</div>
+							</div>
+					  
 
-<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item designer">
+					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item designer">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_designer img-responsive" data-original="assets/CS pics/cropped/ayushgargcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn76" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -206,7 +206,7 @@
                     </div>
           
                     
-          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_content
@@ -220,7 +220,7 @@
                     </div>
           
                      
-          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
                         <div class="portfolio-wrapper">                           
                             <div class="staff">
                                         <div class="staff__media"><img class="lazy_content
@@ -404,7 +404,7 @@
                     </div>          
           
                      
-          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Prernacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn23" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -453,7 +453,7 @@
                         </div>
                     </div>
                   
-          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+				<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Asthacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn49" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -468,7 +468,7 @@
           
           
           
-          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+				<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Nilaycrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn18" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -481,7 +481,7 @@
                     </div>
           
 
-<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd">
+				<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Rishabcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn14" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -559,7 +559,7 @@
                     </div>
           
                      
-          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/Harshpreetcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn19" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -571,7 +571,7 @@
                         </div>
                     </div>        
 
-          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/shubhangicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn24" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -583,7 +583,7 @@
                         </div>
                     </div>    
           
-          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/Kanika_Modicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn29" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -599,7 +599,7 @@
           
           
           
-          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/ShubhamRcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn31" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -613,7 +613,7 @@
                 
           
           
-          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Jeeveshcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn37" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -625,7 +625,7 @@
                         </div>
                     </div>
           
-          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item designer ">
+					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item designer ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_designer img-responsive" data-original="assets/CS pics/cropped/ParthMcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn39" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -638,7 +638,7 @@
                     </div>
           
 
-          <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/avni photocrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn40" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -652,7 +652,7 @@
                 
           
 
-        <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/sahilDuacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn55" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -679,7 +679,7 @@
                         </div>
                     </div>
         
-        <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/divjotcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn56" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -692,7 +692,7 @@
                     </div>
           
         
-        <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/abhinavcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn75" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -744,7 +744,7 @@
                     </div>
           
 
-        <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/VishalVcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn52" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -3022,7 +3022,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 75">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/abhinav.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/abhinav.jpeg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Abhinav Singh </h2>
                                              </div>
@@ -3253,6 +3253,9 @@
                                          </script>
 
 		</div><!-- end layout-theme -->
+		</div>
+		</div>
+		</section>
 <script>
 	$(document).ready(function(){
 		$("#webdev").click(function(){
