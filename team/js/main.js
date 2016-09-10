@@ -13,44 +13,23 @@ jQuery(function($) {'use strict';
 	
 	//Initiat WOW JS
 	new WOW().init();
+	
+	$(window).load(function(){
 
-	// portfolio filter
-	/*$(window).load(function(){
-
-		$('.main-slider').addClass('animate-in');
-		$('.preloader').remove();
-		//End Preloader
 
 		if( $('.masonery_area').length ) {
 			$('.masonery_area').masonry();//Masonry
-		}*/
+		}
 
-		
-		$(window).load(function(){
 		var $portfolio_selectors = $('.portfolio-filter >li>a');
 		
 		if($portfolio_selectors.length) {
 			
-			
 			var $portfolio = $('.portfolio-items');
 			$portfolio.isotope({
 				itemSelector : '.portfolio-item',
-				
 				filter:'.leadership',
-				layoutMode : 'fitRows',
-				animationEngine : 'best-available',
-				
-				// set columnWidth to a percentage of container width
-            masonry: { columnWidth: $portfolio.width() / 5 }
-
-			});
-			
-				// update columnWidth on window resize
-			$(window).smartresize(function(){
-				$container.isotope({
-				// update columnWidth to a percentage of container width
-				masonry: { columnWidth: $portfolio.width() / 5 }
-				});
+				layoutMode : 'fitRows'
 			});
 			
 			$portfolio_selectors.on('click', function(){
@@ -63,42 +42,5 @@ jQuery(function($) {'use strict';
 		}
 
 	});
-
-
-	
-
-	
-
-	// Progress Bar
-	$.each($('div.progress-bar'),function(){
-		$(this).css('width', $(this).attr('data-transition')+'%');
-	});
-
-	if( $('#gmap').length ) {
-		var map;
-
-		map = new GMaps({
-			el: '#gmap',
-			lat: 43.04446,
-			lng: -76.130791,
-			scrollwheel:false,
-			zoom: 16,
-			zoomControl : false,
-			panControl : false,
-			streetViewControl : false,
-			mapTypeControl: false,
-			overviewMapControl: false,
-			clickable: false
-		});
-
-		map.addMarker({
-			lat: 43.04446,
-			lng: -76.130791,
-			animation: google.maps.Animation.DROP,
-			verticalAlign: 'bottom',
-			horizontalAlign: 'center',
-			backgroundColor: '#3e8bff',
-		});
-	}
 
 });
