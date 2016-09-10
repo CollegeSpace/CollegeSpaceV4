@@ -38,7 +38,7 @@
 
        <section id="portfolio">
         <div class="container-fluid">
-            <div class="row">
+            
 
             <div class="posts-wrap" >
                                 <ul class="portfolio-filter text-center">
@@ -3254,14 +3254,10 @@
 
 		</div><!-- end layout-theme -->
 		</div>
-		</div>
+		
 		</section>
 <script>
 	$(document).ready(function(){
-		$("#webdev").click(function(){
-			$("img.lazy_webdev").lazyload();
-		});
-
 		$("#webdev").click(function(){
 			$("img.lazy_webdev").lazyload();
 		});
