@@ -114,7 +114,6 @@ else
             ?>
             <a href="<?php echo $single_result['link']; ?>" class="list-group-item">
             <h4 class="list-group-item-heading"><?php echo $single_result['title']; ?></h4>
-            <p class="list-group-item-text"><h6>No description.</h6></p>
           </a>
           <?php
           }
