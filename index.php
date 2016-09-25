@@ -98,42 +98,29 @@
         <!-- end col -->
         <div class="col-md-4">
         <section class="find-course find-course_mod-a wow " data-wow-duration="2s">
-          <h2 class="find-course__title"><i class="icon stroke icon-Search"></i>FIND YOUR COURSE</h2>
-          <form class="find-course__form" action="http://html.templines.com/academica/get">
+          <h2 class="find-course__title"><i class="icon stroke icon-Search"></i>SEARCH FOR NOTES</h2>
+          <form class="find-course__form" action="NotesSearch.php" method="GET">
           <div class="form-group">
-            <input class="form-control" type="text" placeholder="Course Keyword ...">
-            <div class="jelect" >
-            <input value="0" type="text" class="jelect-input">
-            <div tabindex="0" role="button" class="jelect-current">All Categories</div>
-            <ul class="jelect-options">
-              <li  class="jelect-option jelect-option_state_active">Categorie 1</li>
-              <li  class="jelect-option">Categorie 2</li>
-              <li  class="jelect-option">Categorie 3</li>
-            </ul>
-            </div>
-            <!-- end jelect -->
-            <div class="jelect" >
-            <input value="0" type="text" class="jelect-input">
-            <div  class="jelect-current">Select A Level</div>
-            <ul class="jelect-options">
-              <li  class="jelect-option jelect-option_state_active">Level 1</li>
-              <li  class="jelect-option">Level 2</li>
-              <li  class="jelect-option">Level 3</li>
-            </ul>
-            </div>
-            <!-- end jelect -->
-            <div class="jelect" >
-            <input value="0" type="text" class="jelect-input">
-            <div tabindex="0" role="button" class="jelect-current">Course Length</div>
-            <ul class="jelect-options">
-              <li  class="jelect-option jelect-option_state_active">Length 1</li>
-              <li  class="jelect-option">Length 2</li>
-              <li  class="jelect-option">Length 3</li>
-            </ul>
-            </div>
-            <!-- end jelect -->
+            <input class="form-control" type="text" name="query" placeholder="Keyword...">
+            <select name="branch" class="form-control">
+              <option value="coe">COE</option>
+              <option value="it">IT</option>
+              <option value="ece">ECE</option>
+              <option value="ice">ICE</option>
+              <option value="mpae">MPAE</option>
+              <option value="bt">BT</option>
+            </select>
+            <select name="sem" class="form-control">
+              <option value="1">1st Semester</option>
+              <option value="2">2nd Semester</option>
+              <option value="3">3rd Semester</option>
+              <option value="4">4th Semester</option>
+              <option value="5">5th Semester</option>
+              <option value="6">6th Semester</option>
+              <option value="7">7th Semester</option>
+              <option value="8">8th Semester</option>
+            </select>
           </div>
-          <!-- end form-group -->
           <div class="find-course__wrap-btn">
             <button class="btn btn-effect btn-info">SEARCH COURSE</button>
           </div>
