@@ -97,10 +97,21 @@
         </div>
         <!-- end col -->
         <div class="col-md-4">
+
         <section class="find-course find-course_mod-a wow " data-wow-duration="2s">
           <h2 class="find-course__title"><i class="icon stroke icon-Search"></i>SEARCH FOR NOTES</h2>
           <form class="find-course__form" action="NotesSearch.php" method="GET">
           <div class="form-group">
+            <?php
+              if(isset($_GET['error']))
+              {
+            ?>
+            <div class="alert alert-danger">
+              <strong>No query!</strong> Please type in a query to search.
+            </div>
+            <?php
+            }
+            ?>
             <input class="form-control" type="text" name="query" placeholder="Keyword...">
             <select name="branch" class="form-control">
               <option value="coe">COE</option>
@@ -122,7 +133,7 @@
             </select>
           </div>
           <div class="find-course__wrap-btn">
-            <button class="btn btn-effect btn-info">SEARCH COURSE</button>
+            <button class="btn btn-effect btn-info">SEARCH</button>
           </div>
           </form>
         </section>
@@ -234,6 +245,5 @@
     <!-- end container -->
   </div>
 <?php include ("assets/footer.php");?>
-
 </body>
 </html>

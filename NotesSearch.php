@@ -78,30 +78,36 @@ function getNotesList($doc, $semNum)
 
 if(isset($_GET['query']))
 {
-  $flag = 1;
-  $query = $_GET['query'];
-  $doc = getXMLData();
-
-  if(isset($_GET['sem']))
-    $sem = $_GET['sem'];
-  else
-    $sem = 1;
-
-  $NotesList = getNotesList($doc, $sem);
-  $searchResult = array();
-  foreach($NotesList as $name => $link)
-    if(GetScore($name, $query) > 9)
-      $searchResult[$name] = $link;
-
-  if(count($searchResult) == 0)
+  if(strlen($_GET['query'])>0)
   {
-    $flag = 2;
+    $flag = 1;
+    $query = $_GET['query'];
+    $doc = getXMLData();
+
+    if(isset($_GET['sem']))
+      $sem = $_GET['sem'];
+    else
+      $sem = 1;
+
+    $NotesList = getNotesList($doc, $sem);
+    $searchResult = array();
+    foreach($NotesList as $name => $link)
+      if(GetScore($name, $query) > 9)
+        $searchResult[$name] = $link;
+
+    if(count($searchResult) == 0)
+    {
+      $flag = 2;
+    }
+  }
+  else
+  {
+    header('Location: ./?error');
   }
 }
 else
 {
-  $flag = 1;
-  $searchResult = array();
+  header('Location: ./?error');
 }
 ?>
 <!DOCTYPE html>
