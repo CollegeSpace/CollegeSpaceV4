@@ -2,7 +2,13 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head><?php PrintHeadMetadata("CollegeSpace"); ?></head>
+<head><?php PrintHeadMetadata("CollegeSpace"); ?>
+<style type="text/css">
+.notesearch {
+  height:50px;
+}
+</style>
+</head>
 <body>
 
 <div id="page-preloader"><span class="spinner"></span></div>
@@ -112,8 +118,8 @@
             <?php
             }
             ?>
-            <input class="form-control" type="text" name="query" placeholder="Keyword...">
-            <select name="branch" class="form-control">
+            <input class="form-control notesearch" type="text" name="query" placeholder="Keyword...">
+            <select name="branch" class="form-control notesearch">
               <option value="coe">COE</option>
               <option value="it">IT</option>
               <option value="ece">ECE</option>
@@ -121,7 +127,7 @@
               <option value="mpae">MPAE</option>
               <option value="bt">BT</option>
             </select>
-            <select name="sem" class="form-control">
+            <select name="sem" class="form-control notesearch">
               <option value="1">1st Semester</option>
               <option value="2">2nd Semester</option>
               <option value="3">3rd Semester</option>
