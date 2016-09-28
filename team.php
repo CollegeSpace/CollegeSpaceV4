@@ -3257,6 +3257,17 @@
 		
 		</section>
 <script>
+
+    $(document).ready(function() {
+     $("div.webd").show();
+     $("div.contentc").show();
+     $("div.contentw").show();
+     $("div.alum").show();
+     $("div.designer").show();
+
+
+});
+
 	$(document).ready(function(){
 		$("#webdev").click(function(){
 			$("img.lazy_webdev").lazyload();
