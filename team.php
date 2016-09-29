@@ -948,7 +948,7 @@
                                              </div>
                                              <div class="modal-body">
                                              <p><b> WEB TECHNICAL HEAD </b></p>
-                                             <p> I am very lazy that is why I like to write scripts that automate my work ! I am always keen to build a product that benefits people. Apart from that I am a raw cricket player and lover.</p>
+                                             <p> I am very lazy that is why I like to write scripts that automate my work ! I am always keen to build a product that benefits people. Apart from that I am a cricket lover and a raw player.</p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
