@@ -2723,3 +2723,23 @@ span.stButton_gradient,
   border-radius: 100%;
   margin: 10px 0;
 }
+
+div.portfolio-items div.webd {
+   display: none; /* onLoad your div will be hidden */
+}
+
+div.portfolio-items div.contentc {
+   display: none; /* onLoad your div will be hidden */
+}
+
+div.portfolio-items div.contentw {
+   display: none; /* onLoad your div will be hidden */
+}
+
+div.portfolio-items div.designer {
+   display: none; /* onLoad your div will be hidden */
+}
+
+div.portfolio-items div.alum {
+   display: none; /* onLoad your div will be hidden */
+}

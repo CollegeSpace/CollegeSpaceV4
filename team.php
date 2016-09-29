@@ -767,7 +767,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 12">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Sahil.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Sahilcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Sahil Gulati </h2>
                                              </div>
                                              <div class="modal-body">
@@ -811,7 +811,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 47">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/tushar.jpg" height="auto" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/tusharcrop.jpg" height="auto" width="100" alt="foto" align="middle">
                                            
                                            <h2>Tushar Gupta</h2>
                                              </div>
@@ -855,7 +855,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 46">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/ApoorvG.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ApoorvGcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Apoorv Gupta </h2>
                                              </div>
@@ -900,7 +900,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 21">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Shwetank.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Shwetankcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Shwetank Pandey </h2>
                                              </div>
@@ -943,7 +943,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 74">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/amanmah.png" height="100" width="100" alt="foto" align="middle">                                          
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/amanmahcrop.jpg" height="100" width="100" alt="foto" align="middle">                                          
                                            <h2> Aman Mahajan </h2>
                                              </div>
                                              <div class="modal-body">
@@ -987,7 +987,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 26">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/ShubhkaranS.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/SubhkaranScrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Shubhkaran Singh </h2>
                                              </div>
@@ -1028,7 +1028,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 6">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Gautamks.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Gautamkscrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Gautam Kumar Sharma </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1070,7 +1070,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 51">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Arpit_Bajaj.jpg" height="100" width="100" alt="foto" align="middle">                                          
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Arpit_Bajajcrop.jpg" height="100" width="100" alt="foto" align="middle">                                          
                                            <h2> Arpit Bajaj </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1111,7 +1111,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 41">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/abhisar.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/abhisarcrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Abhisar Garg </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1151,7 +1151,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 2">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/ayushg.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ayushg.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Ayush Garg </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1190,7 +1190,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 76">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/ayushgarg.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ayushgargcrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Ayush Garg </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1231,7 +1231,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 4">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Deepika.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Deepikacrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Deepika Naryani </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1273,7 +1273,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 28">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Jasdeep.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Jasdeepcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Jasdeep Singh </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1313,7 +1313,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 7">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/ksitij.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ksitijcrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Kshitij </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1353,7 +1353,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 62">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/isha.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ishacrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Isha Gupta </h2>
                                              </div>
@@ -1403,7 +1403,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 16">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Jaswin.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Jaswincrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Jaswin Kaur </h2>
                                              </div>
@@ -1453,7 +1453,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 42">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/navdha.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/navdhacrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Navdha </h2>
                                              </div>
@@ -1505,7 +1505,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 17">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/HarshV.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/HarshVcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Harsh Vardhan </h2>
                                              </div>
@@ -1553,7 +1553,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 32">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Prabha.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Prabhacrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Prabha Pant </h2>
                                              </div>
@@ -1605,7 +1605,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 66">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Aditi.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Aditicrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Aditi Sharma </h2>
                                              </div>
@@ -1657,7 +1657,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 45">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/MohitS.jpeg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/MohitScrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> MOHIT SINGH </h2>
                                              </div>
@@ -1708,7 +1708,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 8">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Arko.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Arkocrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Arko Gupta </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1750,7 +1750,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 35">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Shresth.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Shresthcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Shreshth Sharma </h2>
                                              </div>
@@ -1799,7 +1799,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 22">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Kanishka.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Kanishkacrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> KANISHKA GOSAIN </h2>
                                              </div>
@@ -1847,7 +1847,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 10">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/mayank.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/mayankcrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Mayank Badola </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1889,7 +1889,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 27">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/amanp.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/amanpcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Aman Priyadarshi </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1931,7 +1931,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 33">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/mansimarkaur.jpeg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/mansimarkaurcrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Mansimar Kaur </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1974,7 +1974,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 23">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Prerna.jpg" height="100" width="100" alt="foto" align="middle">                                         
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Prernacrop.jpg" height="100" width="100" alt="foto" align="middle">                                         
                                            <h2> Prerna Kakkar </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2017,7 +2017,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 3">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/anshulkh.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/anshulkhcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Anshul Khanna </h2>
                                              </div>
@@ -2059,7 +2059,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 30">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Jyoti.jpg" height="100" width="100" alt="foto" align="middle">                             
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Jyoticrop.jpg" height="100" width="100" alt="foto" align="middle">                             
                                            <h2> Jyoti </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2100,7 +2100,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 11">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/tarasha.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/tarashacrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Tarasha Khurana </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2142,7 +2142,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 49">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Astha.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Asthacrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Aastha </h2>
                                              </div>
@@ -2191,7 +2191,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 18">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Nilay.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Nilaycrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Nilay Shrivastava </h2>
                                              </div>
@@ -2241,7 +2241,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 14">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Rishab.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Rishabcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Rishab Gupta </h2>
                                              </div>
@@ -2292,7 +2292,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 44">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/NamanM.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/NamanMcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Naman Malhotra </h2>
                                              </div>
@@ -2342,7 +2342,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 34">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Aprajita.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Aprajitacrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Aprajita Singh </h2>
                                              </div>
@@ -2392,7 +2392,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 36">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/pranshu.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/pranshucrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Pranshu Agarwal  </h2>
                                              </div>
@@ -2443,7 +2443,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 43">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/priyanka.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/priyankacrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Priyanka </h2>
                                              </div>
@@ -2494,7 +2494,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 9">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/RohaiS.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/RohaiScrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Rohan Sai </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2538,7 +2538,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 19">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Harshpreet.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Harshpreetcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> HARSHPREET SINGH </h2>
                                              </div>
@@ -2587,7 +2587,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 24">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/shubhangi.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/shubhangicrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Shubaangi Bisht </h2>
                                              </div>
@@ -2636,7 +2636,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 31">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/ShubhamR.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ShubhamRcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Shubham Roy </h2>
                                              </div>
@@ -2688,7 +2688,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 37">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Jeevesh.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Jeeveshcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Jeevesh Narang </h2>
                                              </div>
@@ -2737,7 +2737,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 29">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/Kanika_Modi.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Kanika_Modicrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Kanika Modi </h2>
                                              </div>
@@ -2787,7 +2787,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 39">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/ParthM.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ParthMcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Parth Mittal </h2>
                                              </div>
@@ -2837,7 +2837,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 40">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/avni photo.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/avni photocrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Avni Arora </h2>
                                              </div>
@@ -2887,7 +2887,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 55">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/sahilDua.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/sahilDuacrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Sahil Dua </h2>
                                              </div>
@@ -2934,7 +2934,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 59">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/manraj.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/manrajcrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Manraj Singh </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2974,7 +2974,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 56">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/divjot.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/divjotcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Divjot Singh </h2>
                                              </div>
@@ -3022,7 +3022,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 75">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/abhinav.jpeg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/abhinavcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Abhinav Singh </h2>
                                              </div>
@@ -3068,7 +3068,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 58">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/sid.png" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/sidcrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
                                            <h2> Siddharth Jain </h2>
                                              </div>
                                              <div class="modal-body">
@@ -3108,7 +3108,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 53">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/RahulG.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/RahulGcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Rahul Gandhi </h2>
                                              </div>
@@ -3157,7 +3157,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 15">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/ayushmaiti.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ayushmaiticrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Ayush Maiti </h2>
                                              </div>
@@ -3208,7 +3208,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 52">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/FULL/VishalV.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/VishalVcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            
                                            <h2> Vishal Vedwal </h2>
                                              </div>
@@ -3257,6 +3257,17 @@
 		
 		</section>
 <script>
+
+    $(document).ready(function() {
+     $("div.webd").show();
+     $("div.contentc").show();
+     $("div.contentw").show();
+     $("div.alum").show();
+     $("div.designer").show();
+
+
+});
+
 	$(document).ready(function(){
 		$("#webdev").click(function(){
 			$("img.lazy_webdev").lazyload();
