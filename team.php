@@ -51,8 +51,8 @@
                     <li><a id="alumni" class="btn btn-default" href="#" data-filter=".alum">Alumni</a></li>
                 </ul>
                     
-                <div class="portfolio-items" style="z-index:1;">
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership">  
+                <div class=" portfolio-items" style="z-index:1;">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership">  
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive " src="assets/CS pics/cropped/Sahilcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn12" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -65,7 +65,7 @@
                         </div>
                                      
 
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership  ">  
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership  ">  
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/tusharcrop.jpg" height="auto" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn47" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
@@ -76,7 +76,7 @@
                                     </div>
                     
           
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership ">
+                    <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership ">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive"  src="assets/CS pics/cropped/ApoorvGcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn46" class="btn btn-primary btn-effect"><center>VIEW PROFILE</center></a></div></div>
@@ -89,7 +89,7 @@
                     </div>
           
 
-				  <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership ">
+				  <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership ">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
 												<div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Shwetankcrop.jpg" height="auto" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn21" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -102,7 +102,7 @@
 							</div>
 				
 							 
-				<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership webd ">
+				<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership webd ">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
 												<div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/amanmahcrop.jpg" height="262" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn74" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -114,7 +114,7 @@
 								</div>
 							</div>
 					
-							 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership contentc ">
+							 <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership contentc ">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
 												<div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/SubhkaranScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn26" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -127,7 +127,7 @@
 							</div>
 				  
 							
-				  <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw leadership ">
+				  <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item contentw leadership ">
 								<div class="portfolio-wrapper">
 									<div class="staff">
 												<div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Gautamkscrop.jpg" height="200" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn6" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -139,7 +139,7 @@
 								</div>
 							</div>
 				  
-							 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership designer ">
+							 <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership designer ">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
 												<div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Arpit_Bajajcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn51" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -154,7 +154,7 @@
 				  
 				  
 							 
-							 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+							 <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
 												<div class="staff__media"><img class="lazy_cw  img-responsive" data-original="assets/CS pics/cropped/abhisarcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn41" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -167,7 +167,7 @@
 							</div>
 				  
 							 
-				  <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw">
+				  <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
 												<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/FULL/ayushg.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn2" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -180,7 +180,7 @@
 							</div>
 					  
 
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item designer">
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide designer">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_designer img-responsive" data-original="assets/CS pics/cropped/ayushgargcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn76" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -193,7 +193,7 @@
                     </div>
                                                
                      
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw">
+                    <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw">
                         <div class="portfolio-wrapper">
                           <div class="staff">
                                         <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/Deepikacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4"  class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -206,7 +206,7 @@
                     </div>
           
                     
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_content
@@ -220,7 +220,7 @@
                     </div>
           
                      
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">                           
                             <div class="staff">
                                         <div class="staff__media"><img class="lazy_content
@@ -234,7 +234,7 @@
                     </div>
           
 
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="lazy_content
@@ -248,7 +248,7 @@
                     </div>
                 
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/Jaswincrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn16" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -261,7 +261,7 @@
                     </div>
           
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc contentw ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/navdhacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn42" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -274,7 +274,7 @@
                     </div>
           
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/HarshVcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn17" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -287,7 +287,7 @@
                     </div>
           
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/Prabhacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn32" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -300,7 +300,7 @@
                     </div>
           
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/Aditicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn66" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -313,7 +313,7 @@
                     </div>
           
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/MohitScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn45" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -325,7 +325,7 @@
                         </div>
                     </div>
           
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc">
+                    <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/Arkocrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn8" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -338,7 +338,7 @@
                     </div>
           
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/Shresthcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn35" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -351,7 +351,7 @@
                     </div>
           
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/Kanishkacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn22" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -365,7 +365,7 @@
                    
                     
                      
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd">
+                    <div  class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/mayankcrop.jpg" height="262px" width="262px" alt="foto"><div class="staff__hover"><a id="myBtn10" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -378,7 +378,7 @@
                     </div>
           
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/amanpcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn27" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -391,7 +391,7 @@
                     </div>
           
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/mansimarkaurcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn33" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -404,7 +404,7 @@
                     </div>          
           
                      
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Prernacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn23" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -417,7 +417,7 @@
                     </div>
           
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
                         <div class="portfolio-wrapper">
                           <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/anshulkhcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn3" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -429,7 +429,7 @@
                         </div>
                     </div>
           
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Jyoticrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn30" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -441,7 +441,7 @@
                         </div>
                     </div>
           
-                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+                    <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/tarashacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn11" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -453,7 +453,7 @@
                         </div>
                     </div>
                   
-				<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+				<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Asthacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn49" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -468,7 +468,7 @@
           
           
           
-				<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+				<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Nilaycrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn18" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -481,7 +481,7 @@
                     </div>
           
 
-				<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd">
+				<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Rishabcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn14" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -494,7 +494,7 @@
                     </div>
           
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/NamanMcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn44" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -507,7 +507,7 @@
                     </div>
           
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc webd">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc webd">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Aprajitacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn34" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -520,7 +520,7 @@
                     </div>
           
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/pranshucrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn36" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -533,7 +533,7 @@
                     </div>
           
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/priyankacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn43" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -546,7 +546,7 @@
                     </div>
         
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/RohaiScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn9" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -559,7 +559,7 @@
                     </div>
           
                      
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentc ">
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/Harshpreetcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn19" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -571,7 +571,7 @@
                         </div>
                     </div>        
 
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/shubhangicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn24" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -583,7 +583,7 @@
                         </div>
                     </div>    
           
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/Kanika_Modicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn29" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -599,7 +599,7 @@
           
           
           
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/ShubhamRcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn31" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -613,7 +613,7 @@
                 
           
           
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item webd ">
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Jeeveshcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn37" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -625,7 +625,7 @@
                         </div>
                     </div>
           
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item designer ">
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide designer ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_designer img-responsive" data-original="assets/CS pics/cropped/ParthMcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn39" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -638,7 +638,7 @@
                     </div>
           
 
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item contentw ">
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/avni photocrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn40" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -652,7 +652,7 @@
                 
           
 
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/sahilDuacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn55" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -667,7 +667,7 @@
                     </div>
         
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/manrajcrop.jpg" height="50%" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn59" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -679,7 +679,7 @@
                         </div>
                     </div>
         
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/divjotcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn56" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -692,7 +692,7 @@
                     </div>
           
         
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/abhinavcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn75" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -705,7 +705,7 @@
                     </div>
         
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/sidcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn58" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -718,7 +718,7 @@
                     </div>
         
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/RahulGcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn53" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -731,7 +731,7 @@
                     </div>
         
                      
-                     <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/ayushmaiticrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn15" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -744,7 +744,7 @@
                     </div>
           
 
-					<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item alum ">
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/VishalVcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn52" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -3258,33 +3258,28 @@
 		</section>
 <script>
 
-    $(document).ready(function() {
-     $("div.webd").show();
-     $("div.contentc").show();
-     $("div.contentw").show();
-     $("div.alum").show();
-     $("div.designer").show();
-
-
-});
-
-	$(document).ready(function(){
-		$("#webdev").click(function(){
-			$("img.lazy_webdev").lazyload();
-		});
-		$("#content").click(function(){
-			$("img.lazy_content").lazyload();
-		});
-		$("#writer").click(function(){
-			$("img.lazy_cw").lazyload();
-		});
-		$("#designer").click(function(){
-			$("img.lazy_designer").lazyload();
-		});
-		$("#alumni").click(function(){
-			$("img.lazy_alumni").lazyload();
-		});
-	});
+    $(document).ready(function(){
+        $("#webdev").click(function(){
+            $("div.webd").removeClass('hide');
+            $("img.lazy_webdev").lazyload();
+        });
+        $("#content").click(function(){
+            $("div.contentc").removeClass('hide');
+            $("img.lazy_content").lazyload();
+        });
+        $("#writer").click(function(){
+            $("div.contentw").removeClass('hide');
+            $("img.lazy_cw").lazyload();
+        });
+        $("#designer").click(function(){
+            $("div.designer").removeClass('hide');
+            $("img.lazy_designer").lazyload();
+        });
+        $("#alumni").click(function(){
+            $("div.alum").removeClass('hide');
+            $("img.lazy_alumni").lazyload();
+        });
+    });
 </script>
 <script type="text/javascript" src="team/js/jquery.js"></script>
 <script type="text/javascript" src="team/js/jquery.isotope.min.js"></script>
