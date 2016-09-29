@@ -2724,22 +2724,27 @@ span.stButton_gradient,
   margin: 10px 0;
 }
 
-div.portfolio-items div.webd {
-   display: none; /* onLoad your div will be hidden */
+/* div.webd_h {
+   display: none;
 }
 
-div.portfolio-items div.contentc {
-   display: none; /* onLoad your div will be hidden */
+ div.contentc_h {
+   display: none; 
 }
 
-div.portfolio-items div.contentw {
-   display: none; /* onLoad your div will be hidden */
+ div.contentw_h {
+   display: none; 
 }
 
-div.portfolio-items div.designer {
-   display: none; /* onLoad your div will be hidden */
+ div.designer_h {
+   display: none; 
+}*/
+/*
+ div.alum_h {
+   display: none; 
+}*/
+
+.hide{
+  display: none;
 }
 
-div.portfolio-items div.alum {
-   display: none; /* onLoad your div will be hidden */
-}
