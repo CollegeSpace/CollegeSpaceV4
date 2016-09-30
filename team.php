@@ -170,7 +170,7 @@
 				  <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
-												<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/FULL/ayushg.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn2" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+												<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/ayushg.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn2" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
 												<div class="staff__inner staff__inner_mod-a">
 													<h3 class="staff__title">AYUSH GARG </h3>
 													<div class="staff__categories"><b>SENIOR EDITOR</b></div>
