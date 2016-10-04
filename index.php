@@ -11,7 +11,17 @@
 </head>
 <body>
 
-<div id="page-preloader"><span class="spinner"></span></div>
+  <div id="page-preloader">
+  	  <div id="loading-center">
+  			  <h1 id="loading-center" class="preloader_heading animated bounceInDown">CollegeSpace</h1>
+  				<div id="loading-center-absolute">
+  					  <div class="object" id="object_one"></div>
+  						<div class="object" id="object_two"></div>
+  						<div class="object" id="object_three"></div>
+  						<div class="object" id="object_four"></div>
+  				</div>
+  		</div>
+  </div>
 <div class="layout-theme animated-css"  data-header="sticky" data-header-top="200">
 
 <div id="wrapper">
@@ -30,7 +40,7 @@
         <a class="main-slider__btn btn btn-warning btn-effect" href="http://html.templines.com/">START A COURSE</a> </div>-->
           </div>
         </div>
-		
+
         <div class="sp-slide"> <img class="sp-image" src="assets/img/2nd.jpg" data-src="assets/img/2nd.jpg" data-retina="assets/media/main-slider/image03.jpg" alt="img"/>
           <div class="item-wrap sp-layer  sp-padding" data-horizontal="200" data-vertical="30" data-show-transition="left" data-hide-transition="up" data-show-delay="400" data-hide-delay="200">
         <!--<div class="main-slider__inner">
@@ -206,8 +216,8 @@
         <div class="ui-subtitle-block ui-subtitle-block_mod-b">CollegeSpace Blog</div>
         </div>
         <div class="posts-wrap">
-        <?php include("assets/posts.php") ?>  
-        
+        <?php include("assets/posts.php") ?>
+
         </div>
         <!-- end posts-wrap -->
         <div style="text-align: center;"><button class="btn btn-effect btn-info" onclick="window.location='http://nsitpedia.collegespace.in';">Go to NSITpedia</button></div>
