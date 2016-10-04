@@ -27,25 +27,28 @@
       if(strlen($data->content)==0)
         $data->content="No description available.";
       $rel_time=time2str($data->date);
-      echo"
+      $html="
           <article class=\"post post_mod-b clearfix wow \" data-wow-duration=\"1s\">
             <div class=\"entry-media\">
-            <div class=\"entry-thumbnail\"> <a href=\"javascript:void(0);\" ><img class=\"img-responsive\" src={$data->featured_image->guid} alt=\"NsitPedia\"/></a> </div>
+            <div class=\"entry-thumbnail\"> <a href=\"javascript:void(0);\" ><img class=\"img-responsive\" src= %s alt=\"NsitPedia\"/></a> </div>
             </div>
             <div class=\"entry-main\">
-            <div class=\"entry-meta decor decor_mod-a\"> <span class=\"entry-autor\"> <span>By </span> <a class=\"post-link\" href={$data->meta->links->author}>{$data->author->name},NsitPedia</a> </span>
-            <br><span class=\"entry-links entry-time_mod-a\"><i class=\"icon stroke icon-Agenda\"></i>{$rel_time}</span>
+            <div class=\"entry-meta decor decor_mod-a\"> <span class=\"entry-autor\"> <span>By </span> <a class=\"post-link\" href= %s >%s,NsitPedia</a> </span>
+            <br><span class=\"entry-links entry-time_mod-a\"><i class=\"icon stroke icon-Agenda\"></i> %s </span>
             </div>
-            <h3 class=\"entry-title ui-title-inner\"><a href={$data->link}>{$data->title}</a></h3>
+            <h3 class=\"entry-title ui-title-inner\"><a href= %s > %s </a></h3>
             <div class=\"entry-content\">
-              <p>{$data->content}...</p>
+              <p>%s...</p>
             </div>
-            <div class=\"entry-footer\"><a href={$data->link} class=\"post-btn btn btn-primary btn-effect\">READ MORE</a></div>
+            <div class=\"entry-footer\"><a href= %s class=\"post-btn btn btn-primary btn-effect\">READ MORE</a></div>
             </div>
           </article>
           <!-- end post -->";
+      $content=sprintf($html,$data->featured_image->guid,$data->meta->links->author,$data->author->name,$rel_time,$data->link,$data->title,$data->content,$data->link);
+      $json_data[]= array("content" => $content);
     }
+  echo json_encode($json_data);
   }
   else
-    printf("Error in processing request.");
+    echo json_encode(array("error"=> "Error in processing request."));
 ?>
