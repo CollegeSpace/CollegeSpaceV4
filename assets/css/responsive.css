@@ -18,7 +18,7 @@
 	.header_mod-a .header-cart .icon {
 		color: #fff;
 	}
-	
+
 	.header_mod-a  #search-open .icon {
     color: #fff;
 }
@@ -71,8 +71,11 @@
 		text-align: left;
 		float: none;
 		padding-top: 0;
-		margin-bottom: 20px;
+		margin-bottom: 0px;
 	}
+	#spacing {
+    height: 118px;
+  }
 	.header-login {
 		float: none;
 		margin-top: 15px;
@@ -107,7 +110,7 @@
 	.post_mod-e:last-child,
 	.post_mod-f {margin-bottom: 90px;}
 	.find-course_mod-b {margin-top: 0;}
-	
+
 	.video-link img {
 		margin-left: auto;
 		margin-right: auto;
@@ -123,11 +126,11 @@
 
 
 @media (max-width:991px) and (min-width:768px) {
-	
+
 		html #search-open {
- 
+
     margin-top: 60px;
- 
+
 }
 
 .header-cart{
@@ -158,12 +161,12 @@
 /*480 x 640 (small tablet and iPhone)*/
 
 @media (max-width:767px) {
-	
-	
+
+
 	html #search-open {
- 
+
     margin-top: 60px;
- 
+
 }
 
 .header-cart{
@@ -330,8 +333,8 @@ html .main-slider__inner {
 @media (max-width:767px) and (min-width:480px) {
 	.staff {width: 210px;}
 	.post_mod-d .entry-media {max-width: 185px;}
-	
-	
+
+
 html   .header-logo {
     display: inline-block;
     float: none;
@@ -342,9 +345,9 @@ html   .header-logo {
 }
 
 			html #search-open {
- 
+
     margin-top: 8px;
- 
+
 }
 
 .header-cart{
@@ -356,8 +359,8 @@ html   .header-logo {
 /*320 x 480 (iPhone)*/
 
 @media (max-width:480px) {
-	
-	
+
+
 html   .header-logo {
     display: inline-block;
     float: none;
@@ -366,18 +369,18 @@ html   .header-logo {
     width: 100%;
     z-index: 100;
 }
-	
+
 			html #search-open {
- 
+
     margin-top: 8px;
- 
+
 }
 
 .header-cart{
    margin-top: 0px !important;
 }
 
-	
+
 	html 	.header-logo {
     display: inline-block;
     float: none;
