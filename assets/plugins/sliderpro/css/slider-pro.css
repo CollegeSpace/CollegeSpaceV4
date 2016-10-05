@@ -24,6 +24,7 @@
 	margin: 0 auto;
 	-moz-box-sizing: content-box;
 	box-sizing: content-box;
+	overflow-x: hidden;
 }
 
 .sp-slides-container {
@@ -134,7 +135,7 @@
 	margin-right: 0;
 }
 
-/* Vertical thumbnails 
+/* Vertical thumbnails
 ----------------------*/
 .sp-left-thumbnails .sp-thumbnail-container,
 .sp-right-thumbnails .sp-thumbnail-container {
