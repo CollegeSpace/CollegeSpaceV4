@@ -76,6 +76,9 @@
 	#spacing {
     height: 118px;
   }
+	#spacing1 {
+    height: 120px;
+  }
 	.header-login {
 		float: none;
 		margin-top: 15px;
