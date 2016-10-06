@@ -2503,24 +2503,31 @@
                                              <p><b> CONTENT COLLECTOR </b></p>
                                              <p> Have been working under the collection department of CollegeSpace for over a year now and it's been a great experience. I've taken up ECE here at NSIT and I'm eagerly looking forward to pursuing a career in core electronics. </p>
                                              </div>
-                                       
+                                          <!--   <div class="modal-footer">
+                                            <ul class="social-links list-unstyled">
+                                                <li><a class="icon fa fa-facebook" href=" None "></a></li>
+                                                <li><a class="icon fa fa-twitter" href=" None "></a></li>
+                                                <li><a class="icon fa fa-google-plus" href=" None "></a></li>
+                                                <li><a class="icon fa fa-linkedin" href=" None "></a></li>
+                                            </ul>
+                                             </div> -->
                                              </div>
                                              </div>
                                              <script>
                                              var modal9  = document.getElementById('myModal9');
-                        
+                                             // Get the button that opens the modal
                                              var btn9  = document.getElementById("myBtn9");
-                                
+                                             // Get the element that closes the modal
                                              var span9  = document.getElementsByClassName("9")[0];
-                                        
+                                             // When the user clicks the button, open the modal
                                              btn9.onclick = function() {
                                              modal9.style.display = "block";
                                             }
-    
+                                            // closing the modal
                                             span9.onclick = function() {
                                             modal9.style.display = "none";
                                           }
-                    
+                                          // When the user clicks anywhere outside of the modal, close it
                                           window.onclick = function(event) {
                                           if (event.target == modal9) {
                                           modal9.style.display = "none";
@@ -2553,18 +2560,23 @@
                                              <script>
                                              var modal19  = document.getElementById('myModal19');
 
+                                             // Get the button that opens the modal
                                              var btn19  = document.getElementById("myBtn19");
 
+                                             // Get the element that closes the modal
                                              var span19  = document.getElementsByClassName("19")[0];
 
+                                             // When the user clicks the button, open the modal
                                              btn19.onclick = function() {
                                              modal19.style.display = "block";
                                             }
 
+                                            // closing the modal
                                             span19.onclick = function() {
                                             modal19.style.display = "none";
                                           }
 
+                                          // When the user clicks anywhere outside of the modal, close it
                                           window.onclick = function(event) {
                                           if (event.target == modal19) {
                                           modal19.style.display = "none";
@@ -2597,17 +2609,23 @@
                                              <script>
                                              var modal24  = document.getElementById('myModal24');
 
+                                             // Get the button that opens the modal
                                              var btn24  = document.getElementById("myBtn24");
 
+                                             // Get the element that closes the modal
                                              var span24  = document.getElementsByClassName("24")[0];
 
+                                             // When the user clicks the button, open the modal
                                              btn24.onclick = function() {
                                              modal24.style.display = "block";
                                             }
+
+                                            // closing the modal
                                             span24.onclick = function() {
                                             modal24.style.display = "none";
                                           }
 
+                                          // When the user clicks anywhere outside of the modal, close it
                                           window.onclick = function(event) {
                                           if (event.target == modal24) {
                                           modal24.style.display = "none";
@@ -2616,6 +2634,7 @@
                                          </script>
                      <div id="myModal31" class="modal" style="z-index:100;">
 
+                                           <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 31">×</span>
