@@ -7,9 +7,11 @@
 
 <div id="page-preloader"><span class="spinner"></span></div>
 <div class="layout-theme animated-css"  data-header="sticky" data-header-top="200">
-	
+
 <div id="wrapper">
  <?php include ("assets/header.php"); ?>
+ 				<div id="spacing">
+				</div>
 				<div class="wrap-title-page">
 					<div class="container">
 						<div class="row">
@@ -38,11 +40,11 @@
 
        <section id="portfolio">
         <div class="container-fluid">
-            
+
 
             <div class="posts-wrap" >
                                 <ul class="portfolio-filter text-center">
-                    
+
                     <li><a id="leadership" class="btn btn-default active" href="#" data-filter=".leadership">Leadership</a></li>
                     <li><a  id="webdev" class="btn btn-default" href="#" data-filter=".webd">WebDevs</a></li>
                     <li><a id="content" class="btn btn-default" href="#" data-filter=".contentc">Content Collectors</a></li>
@@ -50,9 +52,9 @@
                     <li><a id="designer" class="btn btn-default" href="#" data-filter=".designer">Designers</a></li>
                     <li><a id="alumni" class="btn btn-default" href="#" data-filter=".alum">Alumni</a></li>
                 </ul>
-                    
+
                 <div class=" portfolio-items" style="z-index:1;">
-                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership">  
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership">
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive " src="assets/CS pics/cropped/Sahilcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn12" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
@@ -63,19 +65,19 @@
                                     </div>
                         </div>
                         </div>
-                                     
 
-                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership  ">  
+
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership  ">
                             <div class="staff">
                                         <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/tusharcrop.jpg" height="auto" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn47" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">TUSHAR GUPTA</h3>
                                             <div class="staff__categories"><b>FOUNDER</b></div>
                                        </div>
-                                    </div> 
                                     </div>
-                    
-          
+                                    </div>
+
+
                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership ">
                         <div class="portfolio-wrapper">
                             <div class="staff">
@@ -87,7 +89,7 @@
                                     </div>
                         </div>
                     </div>
-          
+
 
 				  <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership ">
 								<div class="portfolio-wrapper">
@@ -100,8 +102,8 @@
 											</div>
 								</div>
 							</div>
-				
-							 
+
+
 				<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership webd ">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
@@ -113,7 +115,7 @@
 											</div>
 								</div>
 							</div>
-					
+
 							 <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership contentc ">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
@@ -125,8 +127,8 @@
 											</div>
 								</div>
 							</div>
-				  
-							
+
+
 				  <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item contentw leadership ">
 								<div class="portfolio-wrapper">
 									<div class="staff">
@@ -138,7 +140,7 @@
 											</div>
 								</div>
 							</div>
-				  
+
 							 <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership designer ">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
@@ -150,10 +152,10 @@
 											</div>
 								</div>
 							</div>
-				  
-				  
-				  
-							 
+
+
+
+
 							 <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
@@ -165,8 +167,8 @@
 											</div>
 								</div>
 							</div>
-				  
-							 
+
+
 				  <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
@@ -175,10 +177,10 @@
 													<h3 class="staff__title">AYUSH GARG </h3>
 													<div class="staff__categories"><b>SENIOR EDITOR</b></div>
 												</div>
-											</div> 
+											</div>
 								</div>
 							</div>
-					  
+
 
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide designer">
                         <div class="portfolio-wrapper">
@@ -188,11 +190,11 @@
                                             <h3 class="staff__title">AYUSH GARG </h3>
                                             <div class="staff__categories"><b>GRAPHICS DESIGNER</b></div>
                                         </div>
-                                    </div> 
+                                    </div>
                         </div>
                     </div>
-                                               
-                     
+
+
                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw">
                         <div class="portfolio-wrapper">
                           <div class="staff">
@@ -201,11 +203,11 @@
                                             <h3 class="staff__title">DEEPIKA NARYANI</h3>
                                             <div class="staff__categories"><b>CONTENT WRITER</b></div>
                                         </div>
-                                    </div>  
+                                    </div>
                         </div>
                     </div>
-          
-                    
+
+
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -218,10 +220,10 @@
                                     </div>
                         </div>
                     </div>
-          
-                     
+
+
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
-                        <div class="portfolio-wrapper">                           
+                        <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="lazy_content
                                         img-responsive" data-original="assets/CS pics/cropped/ksitijcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a  id="myBtn7" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
@@ -232,7 +234,7 @@
                                     </div>
                         </div>
                     </div>
-          
+
 
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
@@ -246,8 +248,8 @@
                                     </div>
                         </div>
                     </div>
-                
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -259,8 +261,8 @@
                                     </div>
                         </div>
                     </div>
-          
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -272,8 +274,8 @@
                                     </div>
                         </div>
                     </div>
-          
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -285,8 +287,8 @@
                                     </div>
                         </div>
                     </div>
-          
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -298,8 +300,8 @@
                                     </div>
                         </div>
                     </div>
-          
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -311,8 +313,8 @@
                                     </div>
                         </div>
                     </div>
-          
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -324,7 +326,7 @@
                                     </div>
                         </div>
                     </div>
-          
+
                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -336,8 +338,8 @@
                                     </div>
                         </div>
                     </div>
-          
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -349,8 +351,8 @@
                                     </div>
                         </div>
                     </div>
-          
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -362,9 +364,9 @@
                                     </div>
                         </div>
                     </div>
-                   
-                    
-                     
+
+
+
                     <div  class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
                         <div class="portfolio-wrapper">
                             <div class="staff">
@@ -376,8 +378,8 @@
                                     </div>
                         </div>
                     </div>
-          
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -389,8 +391,8 @@
                                     </div>
                         </div>
                     </div>
-          
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -401,9 +403,9 @@
                                         </div>
                                     </div>
                         </div>
-                    </div>          
-          
-                     
+                    </div>
+
+
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -415,20 +417,20 @@
                                     </div>
                         </div>
                     </div>
-          
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
                         <div class="portfolio-wrapper">
                           <div class="staff">
                                         <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/anshulkhcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn3" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">ANSHUL KHANNA</h3>
-                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div> 
+                                            <div class="staff__categories"><b>WEB DEVELOPER</b></div>
                                         </div>
-                                    </div>  
+                                    </div>
                         </div>
                     </div>
-          
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -440,7 +442,7 @@
                                     </div>
                         </div>
                     </div>
-          
+
                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
                         <div class="portfolio-wrapper">
                             <div class="staff">
@@ -452,7 +454,7 @@
                                     </div>
                         </div>
                     </div>
-                  
+
 				<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -464,10 +466,10 @@
                                     </div>
                         </div>
                     </div>
-          
-          
-          
-          
+
+
+
+
 				<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -479,7 +481,7 @@
                                     </div>
                         </div>
                     </div>
-          
+
 
 				<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
                         <div class="portfolio-wrapper">
@@ -492,8 +494,8 @@
                                     </div>
                         </div>
                     </div>
-          
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -505,8 +507,8 @@
                                     </div>
                         </div>
                     </div>
-          
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc webd">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -518,8 +520,8 @@
                                     </div>
                         </div>
                     </div>
-          
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -531,8 +533,8 @@
                                     </div>
                         </div>
                     </div>
-          
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -544,8 +546,8 @@
                                     </div>
                         </div>
                     </div>
-        
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc">
                         <div class="portfolio-wrapper">
                             <div class="staff">
@@ -557,8 +559,8 @@
                                     </div>
                         </div>
                     </div>
-          
-                     
+
+
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -569,7 +571,7 @@
                                         </div>
                                     </div>
                         </div>
-                    </div>        
+                    </div>
 
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
                         <div class="portfolio-wrapper">
@@ -581,8 +583,8 @@
                                         </div>
                                     </div>
                         </div>
-                    </div>    
-          
+                    </div>
+
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -594,11 +596,11 @@
                                     </div>
                         </div>
                     </div>
-          
-          
-          
-          
-          
+
+
+
+
+
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -610,9 +612,9 @@
                                     </div>
                         </div>
                     </div>
-                
-          
-          
+
+
+
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -624,7 +626,7 @@
                                     </div>
                         </div>
                     </div>
-          
+
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide designer ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -636,7 +638,7 @@
                                     </div>
                         </div>
                     </div>
-          
+
 
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
                         <div class="portfolio-wrapper">
@@ -649,8 +651,8 @@
                                     </div>
                         </div>
                     </div>
-                
-          
+
+
 
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
@@ -665,8 +667,8 @@
                                     </div>
                         </div>
                     </div>
-        
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -678,7 +680,7 @@
                                     </div>
                         </div>
                     </div>
-        
+
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -690,8 +692,8 @@
                                     </div>
                         </div>
                     </div>
-          
-        
+
+
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -703,8 +705,8 @@
                                     </div>
                         </div>
                     </div>
-        
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -716,8 +718,8 @@
                                     </div>
                         </div>
                     </div>
-        
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -729,8 +731,8 @@
                                     </div>
                         </div>
                     </div>
-        
-                     
+
+
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
@@ -742,7 +744,7 @@
                                     </div>
                         </div>
                     </div>
-          
+
 
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
@@ -755,13 +757,13 @@
                                     </div>
                         </div>
                     </div>
-          
+
 
       </div><!-- end wrapper -->
-    
-      
 
-      
+
+
+
       <div id="myModal12" class="modal" style="z-index:100;">
                                         <!-- Modal content -->
                                            <div class="modal-content">
@@ -790,7 +792,7 @@
                                              var btn12  = document.getElementById("myBtn12");
                                              // Get the element that closes the modal
                                              var span12  = document.getElementsByClassName("12")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn12.onclick = function() {
                                              modal12.style.display = "block";
                                             }
@@ -805,14 +807,14 @@
                                           }
                                         }
                                          </script>
-                     
+
                      <div id="myModal47" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 47">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/tusharcrop.jpg" height="auto" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2>Tushar Gupta</h2>
                                              </div>
                                              <div class="modal-body">
@@ -833,7 +835,7 @@
                                              var btn47 = document.getElementById("myBtn47");
                                              // Get the element that closes the modal
                                              var span47 = document.getElementsByClassName("47")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn47.onclick = function() {
                                              modal47.style.display = "block";
                                             }
@@ -847,8 +849,8 @@
                                           modal47.style.display = "none";
                                           }
                                         }
-                                         </script> 
-                     
+                                         </script>
+
                      <div id="myModal46" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
@@ -856,7 +858,7 @@
                                            <div class="modal-header">
                                            <span class="close 46">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ApoorvGcrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Apoorv Gupta </h2>
                                              </div>
                                              <div class="modal-body">
@@ -865,7 +867,7 @@
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
-                                                <li><a class="icon fa fa-facebook" href=" https://www.facebook.com/apoorv.gupta.3701 "></a></li>                                               
+                                                <li><a class="icon fa fa-facebook" href=" https://www.facebook.com/apoorv.gupta.3701 "></a></li>
                                                 <li><a class="icon fa fa-google-plus" href=" https://plus.google.com/u/0/113089577561642051777 "></a></li>
                                                 <li><a class="icon fa fa-linkedin" href=" https://in.linkedin.com/in/apoorv-gupta-3a8561105 "></a></li>
                                             </ul>
@@ -878,7 +880,7 @@
                                              var btn46  = document.getElementById("myBtn46");
                                              // Get the element that closes the modal
                                              var span46  = document.getElementsByClassName("46")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn46.onclick = function() {
                                              modal46.style.display = "block";
                                             }
@@ -893,7 +895,7 @@
                                           }
                                         }
                                          </script>
-                     
+
                       <div id="myModal21" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
@@ -901,7 +903,7 @@
                                            <div class="modal-header">
                                            <span class="close 21">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Shwetankcrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Shwetank Pandey </h2>
                                              </div>
                                              <div class="modal-body">
@@ -923,7 +925,7 @@
                                              var btn21  = document.getElementById("myBtn21");
                                              // Get the element that closes the modal
                                              var span21  = document.getElementsByClassName("21")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn21.onclick = function() {
                                              modal21.style.display = "block";
                                             }
@@ -943,7 +945,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 74">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/amanmahcrop.jpg" height="100" width="100" alt="foto" align="middle">                                          
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/amanmahcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Aman Mahajan </h2>
                                              </div>
                                              <div class="modal-body">
@@ -966,7 +968,7 @@
                                              var btn74  = document.getElementById("myBtn74");
                                              // Get the element that closes the modal
                                              var span74  = document.getElementsByClassName("74")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn74.onclick = function() {
                                              modal74.style.display = "block";
                                             }
@@ -988,7 +990,7 @@
                                            <div class="modal-header">
                                            <span class="close 26">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/SubhkaranScrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Shubhkaran Singh </h2>
                                              </div>
                                              <div class="modal-body">
@@ -997,7 +999,7 @@
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
-                                                <li><a class="icon fa fa-facebook" href=" https://www.facebook.com/profile.php?id=1209473962 "></a></li>                                                
+                                                <li><a class="icon fa fa-facebook" href=" https://www.facebook.com/profile.php?id=1209473962 "></a></li>
                                             </ul>
                                              </div>
                                              </div>
@@ -1008,7 +1010,7 @@
                                              var btn26  = document.getElementById("myBtn26");
                                              // Get the element that closes the modal
                                              var span26  = document.getElementsByClassName("26")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn26.onclick = function() {
                                              modal26.style.display = "block";
                                             }
@@ -1028,7 +1030,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 6">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Gautamkscrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Gautamkscrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Gautam Kumar Sharma </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1048,7 +1050,7 @@
                                              var btn6  = document.getElementById("myBtn6");
                                              // Get the element that closes the modal
                                              var span6  = document.getElementsByClassName("6")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn6.onclick = function() {
                                              modal6.style.display = "block";
                                             }
@@ -1062,7 +1064,7 @@
                                           modal6.style.display = "none";
                                           }
                                         }
-                 
+
          </script>
               <div id="myModal51" class="modal" style="z-index:100;">
 
@@ -1070,7 +1072,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 51">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Arpit_Bajajcrop.jpg" height="100" width="100" alt="foto" align="middle">                                          
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Arpit_Bajajcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Arpit Bajaj </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1091,7 +1093,7 @@
                                              var btn51  = document.getElementById("myBtn51");
                                              // Get the element that closes the modal
                                              var span51  = document.getElementsByClassName("51")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn51.onclick = function() {
                                              modal51 .style.display = "block";
                                             }
@@ -1105,13 +1107,13 @@
                                           modal51.style.display = "none";
                                           }
                                         }
-                                         </script>  
+                                         </script>
 <div id="myModal41" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 41">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/abhisarcrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/abhisarcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Abhisar Garg </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1131,7 +1133,7 @@
                                              var btn41  = document.getElementById("myBtn41");
                                              // Get the element that closes the modal
                                              var span41  = document.getElementsByClassName("41")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn41.onclick = function() {
                                              modal41.style.display = "block";
                                             }
@@ -1151,7 +1153,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 2">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ayushg.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ayushg.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Ayush Garg </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1159,7 +1161,7 @@
                                              <p> The one that grabs 'em opportunities and gets 'em done. </p>
                                              </div>
                                              <div class="modal-footer">
-                                            
+
                                             </ul>
                                              </div>
                                              </div>
@@ -1170,7 +1172,7 @@
                                              var btn2  = document.getElementById("myBtn2");
                                              // Get the element that closes the modal
                                              var span2  = document.getElementsByClassName("2")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn2.onclick = function() {
                                              modal2.style.display = "block";
                                             }
@@ -1184,13 +1186,13 @@
                                           modal2.style.display = "none";
                                           }
                                         }
-                                         </script> 
+                                         </script>
                      <div id="myModal76" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 76">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ayushgargcrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ayushgargcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Ayush Garg </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1211,7 +1213,7 @@
                                              var btn76  = document.getElementById("myBtn76");
                                              // Get the element that closes the modal
                                              var span76  = document.getElementsByClassName("76")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn76.onclick = function() {
                                              modal76.style.display = "block";
                                             }
@@ -1225,13 +1227,13 @@
                                           modal76.style.display = "none";
                                           }
                                         }
-                                         </script>   
+                                         </script>
                      <div id="myModal4" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 4">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Deepikacrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Deepikacrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Deepika Naryani </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1253,7 +1255,7 @@
                                              var btn4  = document.getElementById("myBtn4");
                                              // Get the element that closes the modal
                                              var span4  = document.getElementsByClassName("4")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn4.onclick = function() {
                                              modal4.style.display = "block";
                                             }
@@ -1293,7 +1295,7 @@
                                              var btn28  = document.getElementById("myBtn28");
                                              // Get the element that closes the modal
                                              var span28  = document.getElementsByClassName("28")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn28.onclick = function() {
                                              modal28.style.display = "block";
                                             }
@@ -1313,7 +1315,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 7">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ksitijcrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ksitijcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Kshitij </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1322,7 +1324,7 @@
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
-                                                <li><a class="icon fa fa-facebook" href=" https://m.facebook.com/?_rdr "></a></li>                                                
+                                                <li><a class="icon fa fa-facebook" href=" https://m.facebook.com/?_rdr "></a></li>
                                             </ul>
                                              </div>
                                              </div>
@@ -1333,7 +1335,7 @@
                                              var btn7  = document.getElementById("myBtn7");
                                              // Get the element that closes the modal
                                              var span7  = document.getElementsByClassName("7")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn7.onclick = function() {
                                              modal7.style.display = "block";
                                             }
@@ -1354,7 +1356,7 @@
                                            <div class="modal-header">
                                            <span class="close 62">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ishacrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Isha Gupta </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1380,7 +1382,7 @@
                                              // Get the element that closes the modal
                                              var span62  = document.getElementsByClassName("62")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn62.onclick = function() {
                                              modal62.style.display = "block";
                                             }
@@ -1396,7 +1398,7 @@
                                           modal62.style.display = "none";
                                           }
                                         }
-                                         </script>  
+                                         </script>
                      <div id="myModal16" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
@@ -1404,7 +1406,7 @@
                                            <div class="modal-header">
                                            <span class="close 16">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Jaswincrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Jaswin Kaur </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1430,7 +1432,7 @@
                                              // Get the element that closes the modal
                                              var span16  = document.getElementsByClassName("16")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn16.onclick = function() {
                                              modal16.style.display = "block";
                                             }
@@ -1454,7 +1456,7 @@
                                            <div class="modal-header">
                                            <span class="close 42">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/navdhacrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Navdha </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1482,7 +1484,7 @@
                                              // Get the element that closes the modal
                                              var span42  = document.getElementsByClassName("42")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn42.onclick = function() {
                                              modal42.style.display = "block";
                                             }
@@ -1506,7 +1508,7 @@
                                            <div class="modal-header">
                                            <span class="close 17">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/HarshVcrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Harsh Vardhan </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1530,7 +1532,7 @@
                                              // Get the element that closes the modal
                                              var span17  = document.getElementsByClassName("17")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn17.onclick = function() {
                                              modal17.style.display = "block";
                                             }
@@ -1554,7 +1556,7 @@
                                            <div class="modal-header">
                                            <span class="close 32">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Prabhacrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Prabha Pant </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1582,7 +1584,7 @@
                                              // Get the element that closes the modal
                                              var span32  = document.getElementsByClassName("32")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn32.onclick = function() {
                                              modal32.style.display = "block";
                                             }
@@ -1606,7 +1608,7 @@
                                            <div class="modal-header">
                                            <span class="close 66">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Aditicrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Aditi Sharma </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1634,7 +1636,7 @@
                                              // Get the element that closes the modal
                                              var span66  = document.getElementsByClassName("66")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn66.onclick = function() {
                                              modal66.style.display = "block";
                                             }
@@ -1658,7 +1660,7 @@
                                            <div class="modal-header">
                                            <span class="close 45">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/MohitScrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> MOHIT SINGH </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1686,7 +1688,7 @@
                                              // Get the element that closes the modal
                                              var span45  = document.getElementsByClassName("45")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn45.onclick = function() {
                                              modal45.style.display = "block";
                                             }
@@ -1729,7 +1731,7 @@
                                              var btn8  = document.getElementById("myBtn8");
                                              // Get the element that closes the modal
                                              var span8  = document.getElementsByClassName("8")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn8.onclick = function() {
                                              modal8.style.display = "block";
                                             }
@@ -1751,7 +1753,7 @@
                                            <div class="modal-header">
                                            <span class="close 35">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Shresthcrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Shreshth Sharma </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1776,7 +1778,7 @@
                                              // Get the element that closes the modal
                                              var span35  = document.getElementsByClassName("35")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn35.onclick = function() {
                                              modal35.style.display = "block";
                                             }
@@ -1800,7 +1802,7 @@
                                            <div class="modal-header">
                                            <span class="close 22">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Kanishkacrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> KANISHKA GOSAIN </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1825,7 +1827,7 @@
                                              // Get the element that closes the modal
                                              var span22  = document.getElementsByClassName("22")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn22.onclick = function() {
                                              modal22.style.display = "block";
                                             }
@@ -1841,13 +1843,13 @@
                                           modal22.style.display = "none";
                                           }
                                         }
-                                         </script>    
+                                         </script>
                      <div id="myModal10" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 10">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/mayankcrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/mayankcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Mayank Badola </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1869,7 +1871,7 @@
                                              var btn10  = document.getElementById("myBtn10");
                                              // Get the element that closes the modal
                                              var span10  = document.getElementsByClassName("10")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn10.onclick = function() {
                                              modal10.style.display = "block";
                                             }
@@ -1911,7 +1913,7 @@
                                              var btn27  = document.getElementById("myBtn27");
                                              // Get the element that closes the modal
                                              var span27  = document.getElementsByClassName("27")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn27.onclick = function() {
                                              modal27.style.display = "block";
                                             }
@@ -1931,7 +1933,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 33">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/mansimarkaurcrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/mansimarkaurcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Mansimar Kaur </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1954,7 +1956,7 @@
                                              var btn33  = document.getElementById("myBtn33");
                                              // Get the element that closes the modal
                                              var span33  = document.getElementsByClassName("33")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn33.onclick = function() {
                                              modal33.style.display = "block";
                                             }
@@ -1974,7 +1976,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 23">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Prernacrop.jpg" height="100" width="100" alt="foto" align="middle">                                         
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Prernacrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Prerna Kakkar </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1996,7 +1998,7 @@
                                              var btn23  = document.getElementById("myBtn23");
                                              // Get the element that closes the modal
                                              var span23  = document.getElementsByClassName("23")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn23.onclick = function() {
                                              modal23.style.display = "block";
                                             }
@@ -2018,7 +2020,7 @@
                                            <div class="modal-header">
                                            <span class="close 3">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/anshulkhcrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Anshul Khanna </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2032,13 +2034,13 @@
                                              </div>
                                              </div>
                                              </div>
-                                             <script>                      
+                                             <script>
                                              var modal3  = document.getElementById('myModal3');
                                              // Get the button that opens the modal
                                              var btn3  = document.getElementById("myBtn3");
                                              // Get the element that closes the modal
                                              var span3  = document.getElementsByClassName("3")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn3.onclick = function() {
                                              modal3 .style.display = "block";
                                             }
@@ -2059,7 +2061,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 30">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Jyoticrop.jpg" height="100" width="100" alt="foto" align="middle">                             
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Jyoticrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Jyoti </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2079,7 +2081,7 @@
                                              var btn30  = document.getElementById("myBtn30");
                                              // Get the element that closes the modal
                                              var span30  = document.getElementsByClassName("30")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn30.onclick = function() {
                                              modal30.style.display = "block";
                                             }
@@ -2100,7 +2102,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 11">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/tarashacrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/tarashacrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Tarasha Khurana </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2121,7 +2123,7 @@
                                              var btn11  = document.getElementById("myBtn11");
                                              // Get the element that closes the modal
                                              var span11  = document.getElementsByClassName("11")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn11.onclick = function() {
                                              modal11.style.display = "block";
                                             }
@@ -2135,7 +2137,7 @@
                                           modal11.style.display = "none";
                                           }
                                         }
-                                         </script>  
+                                         </script>
                      <div id="myModal49" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
@@ -2143,12 +2145,12 @@
                                            <div class="modal-header">
                                            <span class="close 49">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Asthacrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Aastha </h2>
                                              </div>
                                              <div class="modal-body">
                                              <p><b> WEB DEVELOPER </b></p>
-                                             
+
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -2168,7 +2170,7 @@
                                              // Get the element that closes the modal
                                              var span49  = document.getElementsByClassName("49")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn49.onclick = function() {
                                              modal49.style.display = "block";
                                             }
@@ -2192,7 +2194,7 @@
                                            <div class="modal-header">
                                            <span class="close 18">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Nilaycrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Nilay Shrivastava </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2218,7 +2220,7 @@
                                              // Get the element that closes the modal
                                              var span18 = document.getElementsByClassName("18")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn18.onclick = function() {
                                              modal18.style.display = "block";
                                             }
@@ -2242,7 +2244,7 @@
                                            <div class="modal-header">
                                            <span class="close 14">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Rishabcrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Rishab Gupta </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2251,7 +2253,7 @@
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
-                                                <li><a class="icon fa fa-facebook" href=" https://www.facebook.com/rishab.gupta.33234 "></a></li>                         
+                                                <li><a class="icon fa fa-facebook" href=" https://www.facebook.com/rishab.gupta.33234 "></a></li>
                                                 <li><a class="icon fa fa-google-plus" href=" https://plus.google.com/u/0/112673147203137441898 "></a></li>
                                                 <li><a class="icon fa fa-linkedin" href=" https://in.linkedin.com/in/rishab0611 "></a></li>
                                             </ul>
@@ -2269,7 +2271,7 @@
                                              // Get the element that closes the modal
                                              var span14  = document.getElementsByClassName("14")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn14.onclick = function() {
                                              modal14.style.display = "block";
                                             }
@@ -2293,7 +2295,7 @@
                                            <div class="modal-header">
                                            <span class="close 44">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/NamanMcrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Naman Malhotra </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2319,7 +2321,7 @@
                                              // Get the element that closes the modal
                                              var span44  = document.getElementsByClassName("44")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn44.onclick = function() {
                                              modal44.style.display = "block";
                                             }
@@ -2343,7 +2345,7 @@
                                            <div class="modal-header">
                                            <span class="close 34">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Aprajitacrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Aprajita Singh </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2369,7 +2371,7 @@
                                              // Get the element that closes the modal
                                              var span34  = document.getElementsByClassName("34")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn34.onclick = function() {
                                              modal34.style.display = "block";
                                             }
@@ -2393,7 +2395,7 @@
                                            <div class="modal-header">
                                            <span class="close 36">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/pranshucrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Pranshu Agarwal  </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2420,7 +2422,7 @@
                                              // Get the element that closes the modal
                                              var span36  = document.getElementsByClassName("36")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn36.onclick = function() {
                                              modal36.style.display = "block";
                                             }
@@ -2444,7 +2446,7 @@
                                            <div class="modal-header">
                                            <span class="close 43">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/priyankacrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Priyanka </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2472,7 +2474,7 @@
                                              // Get the element that closes the modal
                                              var span43  = document.getElementsByClassName("43")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn43.onclick = function() {
                                              modal43.style.display = "block";
                                             }
@@ -2488,13 +2490,13 @@
                                           modal43.style.display = "none";
                                           }
                                         }
-                                         </script>  
+                                         </script>
                      <div id="myModal9" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 9">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/RohaiScrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/RohaiScrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Rohan Sai </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2517,7 +2519,7 @@
                                              var btn9  = document.getElementById("myBtn9");
                                              // Get the element that closes the modal
                                              var span9  = document.getElementsByClassName("9")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn9.onclick = function() {
                                              modal9.style.display = "block";
                                             }
@@ -2539,7 +2541,7 @@
                                            <div class="modal-header">
                                            <span class="close 19">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Harshpreetcrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> HARSHPREET SINGH </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2564,7 +2566,7 @@
                                              // Get the element that closes the modal
                                              var span19  = document.getElementsByClassName("19")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn19.onclick = function() {
                                              modal19.style.display = "block";
                                             }
@@ -2580,7 +2582,7 @@
                                           modal19.style.display = "none";
                                           }
                                         }
-                                         </script>  
+                                         </script>
                      <div id="myModal24" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
@@ -2588,7 +2590,7 @@
                                            <div class="modal-header">
                                            <span class="close 24">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/shubhangicrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Shubaangi Bisht </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2613,7 +2615,7 @@
                                              // Get the element that closes the modal
                                              var span24  = document.getElementsByClassName("24")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn24.onclick = function() {
                                              modal24.style.display = "block";
                                             }
@@ -2637,7 +2639,7 @@
                                            <div class="modal-header">
                                            <span class="close 31">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ShubhamRcrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Shubham Roy </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2665,7 +2667,7 @@
                                              // Get the element that closes the modal
                                              var span31  = document.getElementsByClassName("31")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn31.onclick = function() {
                                              modal31.style.display = "block";
                                             }
@@ -2681,7 +2683,7 @@
                                           modal31.style.display = "none";
                                           }
                                         }
-                                         </script>  
+                                         </script>
                      <div id="myModal37" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
@@ -2689,7 +2691,7 @@
                                            <div class="modal-header">
                                            <span class="close 37">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Jeeveshcrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Jeevesh Narang </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2714,7 +2716,7 @@
                                              // Get the element that closes the modal
                                              var span37  = document.getElementsByClassName("37")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn37.onclick = function() {
                                              modal37.style.display = "block";
                                             }
@@ -2738,7 +2740,7 @@
                                            <div class="modal-header">
                                            <span class="close 29">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Kanika_Modicrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Kanika Modi </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2764,7 +2766,7 @@
                                              // Get the element that closes the modal
                                              var span29  = document.getElementsByClassName("29")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn29.onclick = function() {
                                              modal29.style.display = "block";
                                             }
@@ -2788,7 +2790,7 @@
                                            <div class="modal-header">
                                            <span class="close 39">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ParthMcrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Parth Mittal </h2>
                                              </div>
                                              <div class=";">
@@ -2814,7 +2816,7 @@
                                              // Get the element that closes the modal
                                              var span39  = document.getElementsByClassName("39")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn39.onclick = function() {
                                              modal39.style.display = "block";
                                             }
@@ -2838,7 +2840,7 @@
                                            <div class="modal-header">
                                            <span class="close 40">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/avni photocrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Avni Arora </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2864,7 +2866,7 @@
                                              // Get the element that closes the modal
                                              var span40  = document.getElementsByClassName("40")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn40.onclick = function() {
                                              modal40.style.display = "block";
                                             }
@@ -2888,11 +2890,11 @@
                                            <div class="modal-header">
                                            <span class="close 55">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/sahilDuacrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Sahil Dua </h2>
                                              </div>
                                              <div class="modal-body">
-                                             <p><b> ALUMNI </b></p>                                             
+                                             <p><b> ALUMNI </b></p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -2912,7 +2914,7 @@
                                              // Get the element that closes the modal
                                              var span55  = document.getElementsByClassName("55")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn55.onclick = function() {
                                              modal55.style.display = "block";
                                             }
@@ -2934,7 +2936,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 59">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/manrajcrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/manrajcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Manraj Singh </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2953,7 +2955,7 @@
                                              var btn59  = document.getElementById("myBtn59");
                                              // Get the element that closes the modal
                                              var span59  = document.getElementsByClassName("59")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn59.onclick = function() {
                                              modal59.style.display = "block";
                                             }
@@ -2975,11 +2977,11 @@
                                            <div class="modal-header">
                                            <span class="close 56">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/divjotcrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Divjot Singh </h2>
                                              </div>
                                              <div class="modal-body">
-                                             <p><b> 2012-2016 </b></p>                                             
+                                             <p><b> 2012-2016 </b></p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -2999,7 +3001,7 @@
                                              // Get the element that closes the modal
                                              var span56  = document.getElementsByClassName("56")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn56.onclick = function() {
                                              modal56.style.display = "block";
                                             }
@@ -3015,7 +3017,7 @@
                                           modal56.style.display = "none";
                                           }
                                         }
-                                         </script>  
+                                         </script>
                      <div id="myModal75" class="modal" style="z-index:100;">
 
                                            <!-- Modal content -->
@@ -3023,14 +3025,14 @@
                                            <div class="modal-header">
                                            <span class="close 75">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/abhinavcrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Abhinav Singh </h2>
                                              </div>
                                              <div class="modal-body">
-                                             <p><b> 2012-2016 </b></p>                                             
+                                             <p><b> 2012-2016 </b></p>
                                              </div>
                                              <div class="modal-footer">
-                                            
+
                                             </ul>
                                              </div>
                                              </div>
@@ -3046,7 +3048,7 @@
                                              // Get the element that closes the modal
                                              var span75  = document.getElementsByClassName("75")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn75.onclick = function() {
                                              modal75.style.display = "block";
                                             }
@@ -3062,17 +3064,17 @@
                                           modal75.style.display = "none";
                                           }
                                         }
-                                         </script>  
+                                         </script>
                      <div id="myModal58" class="modal" style="z-index:100;">
                                            <!-- Modal content -->
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 58">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/sidcrop.jpg" height="100" width="100" alt="foto" align="middle">                                           
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/sidcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Siddharth Jain </h2>
                                              </div>
                                              <div class="modal-body">
-                                             <p><b> 2011-2015 </b></p>                                             
+                                             <p><b> 2011-2015 </b></p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -3087,7 +3089,7 @@
                                              var btn58  = document.getElementById("myBtn58");
                                              // Get the element that closes the modal
                                              var span58  = document.getElementsByClassName("58")[0];
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn58.onclick = function() {
                                              modal58.style.display = "block";
                                             }
@@ -3109,7 +3111,7 @@
                                            <div class="modal-header">
                                            <span class="close 53">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/RahulGcrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Rahul Gandhi </h2>
                                              </div>
                                              <div class="modal-body">
@@ -3134,7 +3136,7 @@
                                              // Get the element that closes the modal
                                              var span53  = document.getElementsByClassName("53")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn53.onclick = function() {
                                              modal53.style.display = "block";
                                             }
@@ -3158,7 +3160,7 @@
                                            <div class="modal-header">
                                            <span class="close 15">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ayushmaiticrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Ayush Maiti </h2>
                                              </div>
                                              <div class="modal-body">
@@ -3185,7 +3187,7 @@
                                              // Get the element that closes the modal
                                              var span15  = document.getElementsByClassName("15")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn15.onclick = function() {
                                              modal15.style.display = "block";
                                             }
@@ -3209,11 +3211,11 @@
                                            <div class="modal-header">
                                            <span class="close 52">×</span>
                                            <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/VishalVcrop.jpg" height="100" width="100" alt="foto" align="middle">
-                                           
+
                                            <h2> Vishal Vedwal </h2>
                                              </div>
                                              <div class="modal-body">
-                                             <p><b> ALUMNI </b></p>                                             
+                                             <p><b> ALUMNI </b></p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -3234,7 +3236,7 @@
                                              // Get the element that closes the modal
                                              var span52  = document.getElementsByClassName("52")[0];
 
-                                             // When the user clicks the button, open the modal 
+                                             // When the user clicks the button, open the modal
                                              btn52.onclick = function() {
                                              modal52.style.display = "block";
                                             }
@@ -3254,7 +3256,7 @@
 
 		</div><!-- end layout-theme -->
 		</div>
-		
+
 		</section>
 <script>
 
