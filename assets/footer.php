@@ -96,3 +96,29 @@ window.twttr = (function(d, s, id) {
   return t;
 }(document, "script", "twitter-wjs"));
 </script>
+
+<!-- Async Updates Script -->
+<script>
+      $.get("assets/updates.php").done(function(data){
+        var obj = JSON.parse(data);
+        var html="";
+        for(var i in obj)
+        {
+          html+=obj[i].content;
+        }
+        document.getElementById("updates").innerHTML = html;
+      });
+</script>
+
+<!-- Async NsitPedia Script -->
+<script>
+      $.get("assets/posts.php").done(function(data){
+        var obj = JSON.parse(data);
+        var html="";
+        for(var i in obj)
+        {
+          html+=obj[i].content;
+        }
+        document.getElementById("nsitpedia").innerHTML = html;
+      });
+</script>

@@ -173,9 +173,7 @@
         <h2 class="ui-title-block">Latest on <strong>CollegeSpace updates</strong></h2>
         <div class="ui-subtitle-block ui-subtitle-block_mod-b"></div>
         </div>
-        <div class="posts-wrap">
-        <?php include("assets/updates.php"); ?>
-        </div>
+        <div id="updates" class="posts-wrap"> </div>
         <!-- end posts-wrap -->
         <div style="text-align: center;"><button class="btn btn-effect btn-info" onclick="window.location='http://updates.collegespace.in';">View all updates</button></div>
       </div>
@@ -215,10 +213,7 @@
         <h2 class="ui-title-block">Read on <strong>NSITPEDIA</strong></h2>
         <div class="ui-subtitle-block ui-subtitle-block_mod-b">CollegeSpace Blog</div>
         </div>
-        <div class="posts-wrap">
-        <?php include("assets/posts.php") ?>
-
-        </div>
+        <div id="nsitpedia" class="posts-wrap"> </div>
         <!-- end posts-wrap -->
         <div style="text-align: center;"><button class="btn btn-effect btn-info" onclick="window.location='http://nsitpedia.collegespace.in';">Go to NSITpedia</button></div>
       </div>
@@ -263,3 +258,4 @@
 <?php include ("assets/footer.php");?>
 </body>
 </html>
+
