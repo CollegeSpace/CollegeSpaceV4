@@ -43,12 +43,20 @@
   .col-sm-4.portfolio-item{
     width: 49%;
   }
+
+  .modal-content{
+  width: 70%;
+ }
 }
 
 @media (min-width:320px) and (max-width: 479px) {
   .col-xs-6.portfolio-item{
     width: 100%;
   }
+
+  .modal-content{
+  width: 70%;
+ }
 }
 
 /* md */
