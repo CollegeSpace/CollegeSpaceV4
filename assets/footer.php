@@ -31,7 +31,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-4">
                     <section class="footer-section">
-                        <a class="twitter-timeline" data-tweet-limit="3" data-theme="dark" data-chrome="transparent"   href="https://twitter.com/college_space">Tweets by college_space</a>
+                        <a class="twitter-timeline" data-tweet-limit="3" data-theme="dark" data-link-color="#00BED3" data-chrome="transparent"   href="https://twitter.com/college_space">Tweets by college_space</a>
                     </section>
                 </div>
             </div>
