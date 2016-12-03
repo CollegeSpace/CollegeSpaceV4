@@ -373,8 +373,12 @@ html   .header-logo {
 
 			html #search-open {
 
-    margin-top: 8px;
+    margin-top: -13%;
 
+}
+
+#spacing {
+    height: 75px;
 }
 
 .header-cart{
@@ -384,16 +388,21 @@ html   .header-logo {
 
 	html 	.header-logo {
     display: inline-block;
-    float: none;
+    float: left;
     position: relative;
     text-align: center;
-    width: 100%;
+    width: 83%;
     z-index: 100;
+}
+
+.header-logo__img {
+    margin-left: 15vw;
+    width: 74%;
 }
 
 
 html .header-search {
-top: -10px;
+top: 105%;
 
 }
 
