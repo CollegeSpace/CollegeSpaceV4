@@ -705,7 +705,18 @@
                                     </div>
                         </div>
                     </div>
-
+                    
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/VishalVcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn52" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">VISHAL VEDWAL</h3>
+                                            <div class="staff__categories"><b>2012-2016<br>Tek Travels</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
 
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
@@ -739,20 +750,7 @@
                                         <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/ayushmaiticrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn15" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">AYUSH MAITI</h3>
-                                            <div class="staff__categories"><b>2011-2015</b></div>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-
-
-					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
-                        <div class="portfolio-wrapper">
-                           <div class="staff">
-                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/VishalVcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn52" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
-                                        <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">VISHAL VEDWAL</h3>
-                                            <div class="staff__categories"><b>ALUMNI</b></div>
+                                            <div class="staff__categories"><b>2011-2015<br>EY</b></div>
                                         </div>
                                     </div>
                         </div>
@@ -3215,7 +3213,7 @@
                                            <h2> Vishal Vedwal </h2>
                                              </div>
                                              <div class="modal-body">
-                                             <p><b> ALUMNI </b></p>
+                                             <p><b> 2012-2016 </b></p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
