@@ -6,7 +6,14 @@
                     <section class="footer-section">
                         <h3 class="footer-title">ABOUT US</h3>
                         <a href="javascript:void(0);"><img class="footer-logo img-responsive" src="assets/img/logo.png" height="50" width="195" alt="Logo"></a>
-                        <div class="footer-info">CollegeSpace, the Socio-Academic Portal of NSIT, is the most frequently-visited website of NSIT. We started out with a team of three with an aim to provide everything that is necessary to the students during the four years of college and now, after five successful years, we have a large team of hardworking and committed students working in various departments.</div>
+                        <div class="footer-info">
+CollegeSpace, the Socio-Academic Portal of NSIT, is the most frequently visited website of NSIT. 
+
+It was started out by a team of three enthusiastic students with an aim to provide a holistic solution to all student needs; those that are encountered during these four crucial years of college. 
+
+Now, after five successful years, we have a large team of hardworking & committed students working in various departments such as web development, content writing & content collection.
+
+In short - We aim to make the life of every NSITian simpler & turn these four years into a smoother ride!</div>
                         <div class="footer-contacts footer-contacts_mod-a"> <i class="icon stroke icon-Pointer"></i><address class="footer-contacts__inner">NSIT, New Delhi</address></div>
                         <div class="footer-contacts"> <i class="icon stroke icon-Phone2"></i> <span class="footer-contacts__inner">Call us +91 7827 775857</span> </div>
                         <div class="footer-contacts"> <i class="icon stroke icon-Mail"></i> <a class="footer-contacts__inner" href="mailto:collegespacensit@gmail.com">collegespacensit@gmail.com</a> </div>
