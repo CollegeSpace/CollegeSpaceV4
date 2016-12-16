@@ -37,7 +37,7 @@ In short - We aim to make the life of every NSITian simpler & turn these four ye
                   </section><!-- end footer-section -->
                 </div>
                 <div class="col-lg-4 col-sm-4">
-                    <section class="footer-section">
+                    <section class="footer-section" style="padding-top: 18px;">
                         <a class="twitter-timeline" data-tweet-limit="3" data-theme="dark" data-link-color="#00BED3" data-chrome="transparent"   href="https://twitter.com/college_space">Tweets by college_space</a>
                     </section>
                 </div>
