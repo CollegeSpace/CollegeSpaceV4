@@ -515,7 +515,7 @@ text-align:-webkit-left;
 	display: block;
 	width: 30px;
 	margin-top: 18px;
-	margin-bottom: 42px;
+	margin-bottom: 2px;
 	border-top: 1px solid #666;
 	content: '';
 }
@@ -523,8 +523,8 @@ text-align:-webkit-left;
 	padding-top: 7px;
 }
 .footer-info {
-	margin-top: 26px;
-	margin-bottom: 22px;
+	margin-top: 10px;
+	margin-bottom: 5px;
 	line-height: 1.69;
 }
 .footer-contacts {
@@ -549,6 +549,10 @@ text-align:-webkit-left;
 .footer-list {
 	padding-left: 16px;
 }
+.footer-list li {
+	list-style: circle;
+	padding: 10px 10px 10px 10px;
+}
 .footer-list__item {
 	margin-bottom: 11px;
 	text-indent: -19px;
@@ -560,11 +564,11 @@ text-align:-webkit-left;
 	text-decoration: none;
 }
 .footer-list__link:before {
-	display: inline-block;
+	
 	width: 8px;
 	height: 8px;
 	margin-right: 10px;
-	border: 2px solid #ddd;
+	
 	border-radius: 50%;
 	content: '';
 }
