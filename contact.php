@@ -92,7 +92,7 @@
 					<section class="section_contacts-form">
 						<div class="container">
 							<div class="row">
-								<div class="col-sm-8">
+								<div class="col-sm-12">
 									<h2 class="ui-title-block">Send <strong>Us Message</strong></h2>
 									<div class="wrap-subtitle">
 										<div class="ui-subtitle-block ui-subtitle-block_w-line">If you have some feedback or want to ask any questions</div>
@@ -117,12 +117,6 @@
 											</div>
 										</div>
 									</form>
-								</div>
-								<div class="col-sm-4">
-									<a href="javascript:void(0);" class="support">
-										<img class="img-responsive" src="assets/media/support/1.jpg" height="248" width="330" alt="Foto">
-										<div class="support__title"><i class="icon stroke icon-Headset"></i>live support available</div>
-									</a>
 								</div>
 							</div>
 						</div>
