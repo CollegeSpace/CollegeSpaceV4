@@ -72,38 +72,36 @@
       <div class="row" >
         <div class="col-md-8">
         <section class="section-advantages wow" >
-          <h2 class="ui-title-block ui-title-block_mod-a">We Bring You The World’s Best Courses From All The Top Publishers, Absolutely FREE!</h2>
-          <div class="ui-subtitle-block ui-subtitle-block_mod-a">Having over 9 million students worldwide and more than 50,000 online courses available.</div>
+          <h2 class="ui-title-block ui-title-block_mod-a">"Something Here"</h2>
           <ul class="advantages advantages_mod-a list-unstyled">
           <li class="advantages__item"> <span class="advantages__icon"><i class="icon stroke icon-Cup"></i></span>
             <div class="advantages__inner">
-            <h3 class="ui-title-inner decor decor_mod-a">HIGHest RATED</h3>
+            <h3 class="ui-title-inner decor decor_mod-a">Notices</h3>
             <div class="advantages__info">
-              <p>Fusce eleifend donec sapien phase dcua sed sa pellentesque lacus vamus lorem treb lum arcu semper duiac.</p>
+              <p>Check out the latest updates from NSIT's admin without any hassle. Here are the recent notices at your service :)</p>
             </div>
             </div>
           </li>
           <li class="advantages__item"> <span class="advantages__icon"><i class="icon stroke icon-DesktopMonitor"></i></span>
             <div class="advantages__inner">
-            <h3 class="ui-title-inner decor decor_mod-a">ONLINE TRAINING</h3>
+            <h3 class="ui-title-inner decor decor_mod-a">Notes And Papers</h3>
             <div class="advantages__info">
-              <p>Fusce eleifend donec sapien phase dcua sed sa pellentesque lacus vamus lorem treb lum arcu semper duiac.</p>
+              <p>Here are the notes for all semesters as a blessing from your seniors. Class and lab work on a platter for you to get going!</p>
             </div>
             </div>
           </li>
           <li class="advantages__item"> <span class="advantages__icon"><i class="icon stroke icon-WorldGlobe"></i></span>
             <div class="advantages__inner">
-            <h3 class="ui-title-inner decor decor_mod-a">we are GLOBAL</h3>
+            <h3 class="ui-title-inner decor decor_mod-a">NSITPEDIA</h3>
             <div class="advantages__info">
-              <p>Fusce eleifend donec sapien phase dcua sed sa pellentesque lacus vamus lorem treb lum arcu semper duiac.</p>
-            </div>
+              <p>The ultimate destination to explore NSIT! We host a single platform to present a humungous pack of movies and food reviews, latest technological releases, thought provoking poetries and the latest trends in the campus.</p>
             </div>
           </li>
           <li class="advantages__item"> <span class="advantages__icon"><i class="icon stroke icon-Users"></i></span>
             <div class="advantages__inner">
-            <h3 class="ui-title-inner decor decor_mod-a">SKILLED FACULTY</h3>
+            <h3 class="ui-title-inner decor decor_mod-a">Societies And Faculty at NSIT</h3>
             <div class="advantages__info">
-              <p>Fusce eleifend donec sapien phase dcua sed sa pellentesque lacus vamus lorem treb lum arcu semper duiac.</p>
+              <p>Myriad societies and our experienced faculty make NSIT what it is. Read on to find out about your honorable professors, society events and much more!</p>
             </div>
             </div>
           </li>
@@ -258,4 +256,3 @@
 <?php include ("assets/footer.php");?>
 </body>
 </html>
-
