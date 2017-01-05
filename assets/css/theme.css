@@ -10,8 +10,10 @@
 
 
 /* ======= GLOBAL ======= */
-
-
+#pedia{
+    position: relative;
+    top: -43px;
+}
 ::-moz-selection { background: #e84c3d;  color:#fff !important;  }
 ::selection { background: #e84c3d ; color:#fff !important; }
 
@@ -158,7 +160,7 @@ text-align:-webkit-left;
 	margin-bottom: 37px;
 }
 .ui-subtitle-block_mod-b {
-	margin-top: 5px;
+	margin-top: -39px;
 	margin-bottom: 97px;
 }
 .ui-subtitle-block_mod-c {
