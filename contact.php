@@ -56,16 +56,16 @@
 											<i class="icon stroke icon-Mail"></i>
 											<div class="list-contacts__inner">
 												<div class="list-contacts__title">EMAIL</div>
-												<div class="list-contacts__info"> collegespacensit@gmail.com</div>
+												<div class="list-contacts__info">collegespacensit@gmail.com</div>
 											</div>
 										</li>
 										<li class="list-contacts__item">
 											<i class="icon stroke icon-WorldWide"></i>
 											<div class="list-contacts__inner">
 												<div class="list-contacts__title">WEB</div>
-												<div class="list-contacts__info"><a href="http://www.collegespace.in">www.collegespace.in</a></div>
-												<div class="list-contacts__info"><a href="http://www.nsitpedia.collegespace.in">www.nsitpedia.collegespace.in/</a></div>
-												<div class="list-contacts__info"><a href="http://www.updates.collegespace.in">www.updates.collegespace.in/</a></div>
+												<div class="list-contacts__info"><a href="http://www.collegespace.in">CollegeSpace</a></div>
+												<div class="list-contacts__info"><a href="http://www.nsitpedia.collegespace.in">NSITPedia</a></div>
+												<div class="list-contacts__info"><a href="http://www.updates.collegespace.in">Web Bulletin</a></div>
 											</div>
 										</li>
 										<li class="list-contacts__item">
