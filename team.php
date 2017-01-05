@@ -31,7 +31,7 @@
                             <div class="col-sm-12">
                                 <div class="wrap-title wrap-title_mod-b">
                                 <br>
-                                    <div class="ui-subtitle-block" ><italics>"If you seek what they built ,look around"</italics></div>
+                                    <div class="ui-subtitle-block" ><italics><br><br>"If you seek what they built ,look around"</italics></div>
                                 </div><!-- end wrap-title -->
 
                             </div>
