@@ -208,7 +208,7 @@
       <div class="row">
       <div class="col-xs-12">
         <div class="wrap-title">
-        <h2 class="ui-title-block">Read on <strong>NSITPEDIA</strong></h2>
+        <h2 class="ui-title-block" id="pedia">Read on <strong>NSITPEDIA</strong></h2>
         <div class="ui-subtitle-block ui-subtitle-block_mod-b">CollegeSpace Blog</div>
         </div>
         <div id="nsitpedia" class="posts-wrap"> </div>
