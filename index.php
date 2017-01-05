@@ -72,7 +72,7 @@
       <div class="row" >
         <div class="col-md-8">
         <section class="section-advantages wow" >
-          <h2 class="ui-title-block ui-title-block_mod-a">"Something Here"</h2>
+          <h2 class="ui-title-block ui-title-block_mod-a">One way stop for notes and more</h2>
           <ul class="advantages advantages_mod-a list-unstyled">
           <li class="advantages__item"> <span class="advantages__icon"><i class="icon stroke icon-Cup"></i></span>
             <div class="advantages__inner">
