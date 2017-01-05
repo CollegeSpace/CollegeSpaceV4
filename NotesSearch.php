@@ -137,7 +137,7 @@ else
                 foreach($searchResult as $name => $link)
                 {
             ?>
-            <a href="<?php echo $link; ?>" class="list-group-item">
+            <a href="<?php echo "http://test.collegespace.in" . $link; ?>" class="list-group-item">
             <h4 class="list-group-item-heading"><?php echo $name; ?></h4>
           </a>
           <?php
