@@ -1713,7 +1713,8 @@
                                              </div>
                                              <div class="modal-body">
                                              <p><b> CONTENT COLLECTOR </b></p>
-                                             <p>I am Arko, a junior pursuing CSE . I have been a member of the content team at CollegeSpace since September 2015 and have really enjoyed being a part it. I like  competitive programming and  solving problems. Besides, I love watching and playing football.</p>
+                                             <p>Loves reading , quizzing and programming. A football aficionado and an Arsenal fan.
+Being realistic is the most commonly travelled path to mediocrity. Don't be realistic.Don't be mediocre. Dream big!</p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
