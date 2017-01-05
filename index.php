@@ -78,7 +78,7 @@
             <div class="advantages__inner">
             <h3 class="ui-title-inner decor decor_mod-a">Notices</h3>
             <div class="advantages__info">
-              <p>Check out the latest updates from NSIT's admin without any hassle. Here are the recent notices at your service :)</p>
+              <p>Check out the latest updates from NSIT's admin without any hassle. Now no more running to the admin at the last minute.</p>
             </div>
             </div>
           </li>
@@ -86,7 +86,7 @@
             <div class="advantages__inner">
             <h3 class="ui-title-inner decor decor_mod-a">Notes And Papers</h3>
             <div class="advantages__info">
-              <p>Here are the notes for all semesters as a blessing from your seniors. Class and lab work on a platter for you to get going!</p>
+              <p>Find the notes and previous year examination papers for all semesters. Additionally, class assignments and lab work to get you going for that perfect grade.</p>
             </div>
             </div>
           </li>
@@ -94,14 +94,14 @@
             <div class="advantages__inner">
             <h3 class="ui-title-inner decor decor_mod-a">NSITPEDIA</h3>
             <div class="advantages__info">
-              <p>The ultimate destination to explore NSIT! We host a single platform to present a humungous pack of movies and food reviews, latest technological releases, thought provoking poetries and the latest trends in the campus.</p>
+              <p>The ultimate destination to explore NSIT! A single platform that presents a humongous pack of movie and food reviews, latest technological releases, thought provoking poetries and the latest trends in the campus.</p>
             </div>
           </li>
           <li class="advantages__item"> <span class="advantages__icon"><i class="icon stroke icon-Users"></i></span>
             <div class="advantages__inner">
             <h3 class="ui-title-inner decor decor_mod-a">Societies And Faculty at NSIT</h3>
             <div class="advantages__info">
-              <p>Myriad societies and our experienced faculty make NSIT what it is. Read on to find out about your honorable professors, society events and much more!</p>
+              <p>Myriad of societies and our experienced faculty make NSIT what it is. Read on to find out about your honorable professors, society events and much more!</p>
             </div>
             </div>
           </li>
