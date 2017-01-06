@@ -302,13 +302,13 @@
                     </div>
 
 
-                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
+                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/Aditicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn66" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">ADITI SHARMA</h3>
-                                            <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR/WRITER</b></div>
                                         </div>
                                     </div>
                         </div>
@@ -578,20 +578,20 @@
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/shubhangicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn24" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
-                                            <h3 class="staff__title">SHUBHANGI BISHT</h3>
+                                            <h3 class="staff__title">SHUBHAANGI BISHT</h3>
                                             <div class="staff__categories"><b>CONTENT WRITER</b></div>
                                         </div>
                                     </div>
                         </div>
                     </div>
 
-					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/Kanika_Modicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn29" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">KANIKA MODI</h3>
-                                            <div class="staff__categories"><b>CONTENT WRITER</b></div>
+                                            <div class="staff__categories"><b>CONTENT COLLECTOR/WRITER</b></div>
                                         </div>
                                     </div>
                         </div>
@@ -646,6 +646,30 @@
                                         <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/avni photocrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn40" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">AVNI ARORA</h3>
+                                            <div class="staff__categories"><b>CONTENT WRITER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+					
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/varshikacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn99" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">VARSHIKA GAMBHIR</h3>
+                                            <div class="staff__categories"><b>CONTENT WRITER</b></div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+					
+					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
+                        <div class="portfolio-wrapper">
+                           <div class="staff">
+                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/tanyacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn100" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__inner staff__inner_mod-a">
+                                            <h3 class="staff__title">TANYA GUPTA</h3>
                                             <div class="staff__categories"><b>CONTENT WRITER</b></div>
                                         </div>
                                     </div>
@@ -1610,7 +1634,7 @@
                                            <h2> Aditi Sharma </h2>
                                              </div>
                                              <div class="modal-body">
-                                             <p><b> CONTENT WRITER </b></p>
+                                             <p><b> CONTENT COLLECTOR/WRITER </b></p>
                                              <p> A creative, enthusiastic and optimistic person who believes in living life to the FULLest. A budding android developer and coder, she also takes interest in reading and writing. Always up for learning new things,she can be better described as an opportunist. She also likes to travel and meet new people.  </p>
                                              </div>
                                              <div class="modal-footer">
@@ -2450,7 +2474,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                              </div>
                                              <div class="modal-body">
                                              <p><b> CONTENT COLLECTOR </b></p>
-                                             <p> A fun loving girl who believes in living life to the FULLest.I'm passionate, hardworking and confident in my ability to perform.Currently, helping in collecting and managing content for the website.  </p>
+                                             <p> A passionate,enthusiastic, fun loving girl who believes in living life to the FULLest.Have been collecting and managing content for the CollegeSpace.  </p>
                                              </div>
                                              <div class="modal-footer">
                                             <ul class="social-links list-unstyled">
@@ -2743,7 +2767,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <h2> Kanika Modi </h2>
                                              </div>
                                              <div class="modal-body">
-                                             <p><b> CONTENT WRITER </b></p>
+                                             <p><b> CONTENT COLLECTOR/CONTENT WRITER </b></p>
                                              <p> Every story I create, creates me. I write to create myself. </p>
                                              </div>
                                              <div class="modal-footer">
@@ -2879,6 +2903,105 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                           window.onclick = function(event) {
                                           if (event.target == modal40) {
                                           modal40.style.display = "none";
+                                          }
+                                        }
+                                         </script>
+										 
+										 <div id="myModal100" class="modal" style="z-index:100;">
+
+                                           <!-- Modal content -->
+                                           <div class="modal-content">
+                                           <div class="modal-header">
+                                           <span class="close 100">×</span>
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/tanyacrop.jpg" height="100" width="100" alt="foto" align="middle">
+
+                                           <h2> TANYA GUPTA </h2>
+                                             </div>
+                                             <div class="modal-body">
+                                             <p><b> CONTENT WRITER </b></p>
+                                             <p> marvel geek who is always in creative jeans amalgamated with sound management skills.  </p>
+                                             </div>
+                                             <div class="modal-footer">
+                                            <ul class="social-links list-unstyled">
+                                                <li><a class="icon fa fa-facebook" href="https://www.facebook.com/cherry2137 "></a></li>
+                                                <li><a class="icon fa fa-linkedin" href="https://in.linkedin.com/in/tanya-gupta-46ab23106 "></a></li>
+                                            </ul>
+                                             </div>
+                                             </div>
+
+                                             </div>
+
+                                             <script>
+                                             var modal100  = document.getElementById('myModal100');
+
+                                             // Get the button that opens the modal
+                                             var btn100  = document.getElementById("myBtn100");
+
+                                             // Get the element that closes the modal
+                                             var span100  = document.getElementsByClassName("100")[0];
+
+                                             // When the user clicks the button, open the modal
+                                             btn100.onclick = function() {
+                                             modal100.style.display = "block";
+                                            }
+
+                                            // closing the modal
+                                            span100.onclick = function() {
+                                            modal100.style.display = "none";
+                                          }
+
+                                          // When the user clicks anywhere outside of the modal, close it
+                                          window.onclick = function(event) {
+                                          if (event.target == modal100) {
+                                          modal100.style.display = "none";
+                                          }
+                                        }
+                                         </script>
+										 
+										 <div id="myModal99" class="modal" style="z-index:100;">
+
+                                           <!-- Modal content -->
+                                           <div class="modal-content">
+                                           <div class="modal-header">
+                                           <span class="close 99">×</span>
+                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/varshikacrop.jpg" height="100" width="100" alt="foto" align="middle">
+
+                                           <h2> VARSHIKA GAMBHIR </h2>
+                                             </div>
+                                             <div class="modal-body">
+                                             <p><b> CONTENT WRITER </b></p>
+                                             <p> Writing to me is weaving of countless thoughts into words rather than a mere obligation :) </p>
+                                             </div>
+                                             <div class="modal-footer">
+                                            
+                                             </div>
+                                             </div>
+
+                                             </div>
+
+                                             <script>
+                                             var modal99  = document.getElementById('myModal99');
+
+                                             // Get the button that opens the modal
+                                             var btn99  = document.getElementById("myBtn99");
+
+                                             // Get the element that closes the modal
+                                             var span99  = document.getElementsByClassName("99")[0];
+
+                                             // When the user clicks the button, open the modal
+                                             btn99.onclick = function() {
+                                             modal99.style.display = "block";
+                                            }
+
+                                            // closing the modal
+                                            span99.onclick = function() {
+                                            modal99.style.display = "none";
+                                          }
+
+                                          // When the user clicks anywhere outside of the modal, close it
+                                          window.onclick = function(event) {
+                                          if (event.target == modal99) {
+                                          modal99.style.display = "none";
                                           }
                                         }
                                          </script>
