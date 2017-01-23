@@ -26,17 +26,9 @@
 
 				<main class="main-content">
 
-					<div class="container">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="wrap-title wrap-title_mod-b">
-                                <br>
-                                    <div class="ui-subtitle-block" ><italics><br><br>"If you seek what they built ,look around"</italics></div>
-                                </div><!-- end wrap-title -->
-
-                            </div>
-                            </div>
-                            </div>
+					
+                <center><div class="ui-subtitle-block" ><italics><br><br>"If you seek what they built ,look around"</italics></div></center>
+                                
 
        <section id="portfolio">
         <div class="container-fluid">
