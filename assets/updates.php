@@ -26,7 +26,7 @@
       $data->content = preg_replace("/<table[^>]*>.*?<\/table>/s", "", $data->content);
       $data->content=strip_tags($data->content);
       $data->content=trim($data->content);
-      $data->content=substr($data->content,0,150);
+      $data->content=substr($data->content,0,77);// magical number :P
       if(strlen($data->content)==0)
         $data->content="No description available.";
 
