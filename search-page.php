@@ -1,31 +1,8 @@
 <?php
-//Author: Divyanshu Kalra
 include("assets/functions.php");
-  function cacheAndGetJsonDump()
-{
-    $cache_Time = 60*60; # one hour
-    if(file_exists("./phpTempFiles/lasttime.collegespace"))
-    {
-        $lastTime = file_get_contents("./phpTempFiles/lasttime.collegespace");
-        if(time() > intval($lastTime) + $cache_Time)
-        {
-            $jsonDump = file_get_contents("http://updates.collegespace.in/wp-json/posts?filter[posts_per_page]=74");
-            $timeNow = time();
-            file_put_contents("./phpTempFiles/lasttime.collegespace", $timeNow);
-            file_put_contents("./phpTempFiles/cachedResult.collegespace", $jsonDump);
-        }
-        else
-        {
-            $jsonDump = file_get_contents("./phpTempFiles/cachedResult.collegespace");
-        }
-    }
-    else
-    {
-        $jsonDump = file_get_contents("http://updates.collegespace.in/wp-json/posts?filter[posts_per_page]=74");
-        $timeNow = time();
-        file_put_contents("./phpTempFiles/lasttime.collegespace", $timeNow);
-        file_put_contents("./phpTempFiles/cachedResult.collegespace", $jsonDump);
-    }
+  function getJsonDump()
+{   
+    $jsonDump = file_get_contents("http://updates.collegespace.in/wp-json/posts?filter[posts_per_page]=74");  
     return $jsonDump;
 }
 
@@ -44,7 +21,7 @@ function GetScore($content, $query, $scoreAddition = 10)
 
 if(isset($_GET["query"]))
 {
-    $jsonDump = cacheAndGetJsonDump();
+    $jsonDump = getJsonDump();
     $jsonedDump = json_decode($jsonDump);
     $result = array();
     $query = $_GET["query"];
