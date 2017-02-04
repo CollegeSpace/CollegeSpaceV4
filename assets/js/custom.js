@@ -118,7 +118,7 @@ $(document).ready(function() {
         var formData = {
             'name'    : $('#contactForm input[name=name]').val(),
             'subject' : $('#contactForm input[name=subject]').val(),
-            'message' : $('#contactForm input[name=message]').val()
+            'message' : $('#contactForm textarea[name=message]').val()
         };
         $.ajax({
                 type: "POST",
