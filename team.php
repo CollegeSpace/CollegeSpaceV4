@@ -51,7 +51,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="img-responsive " src="assets/img/team/Sahilcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="img-responsive " src="assets/img/team/Sahil.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn12" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -68,7 +68,7 @@
 								</div>
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership  ">
 									<div class="staff">
-										<div class="staff__media"><img class="img-responsive" src="assets/img/team/tusharcrop.jpg" height="auto" width="100%" alt="foto">
+										<div class="staff__media"><img class="img-responsive" src="assets/img/team/tushar.jpg" height="auto" width="100%" alt="foto">
 											<div class="staff__hover">
 												<a id="myBtn47" class="btn btn-primary btn-effect">
 													<center>VIEW PROFILE</center>
@@ -85,7 +85,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/ApoorvGcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/apoorv.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn46" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -104,7 +104,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/Shwetankcrop.jpg" height="auto" width="100%" alt="foto">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/Shwetank.jpg" height="auto" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn21" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -122,7 +122,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/amanmahcrop.jpg" height="262" width="100%" alt="foto">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/aman.jpg" height="262" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn74" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -140,7 +140,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/SubhkaranScrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/subhkaran.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn26" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -158,7 +158,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item contentw leadership ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/Gautamkscrop.jpg" height="200" width="100%" alt="foto">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/Gautamks.jpg" height="200" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn6" class="btn btn-primary btn-effect" href="javascript:void(0);">
 														<center>VIEW PROFILE</center>
@@ -176,7 +176,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership designer ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/Arpit_Bajajcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/arpit.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn51" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -194,7 +194,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_cw  img-responsive" data-original="assets/img/team/abhisarcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_cw  img-responsive" data-original="assets/img/team/abhisar.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn41" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -230,7 +230,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide designer">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_designer img-responsive" data-original="assets/img/team/ayushgargcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_designer img-responsive" data-original="assets/img/team/ayushgarg.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn76" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -248,7 +248,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/Deepikacrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/Deepika.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);">
 														<center>VIEW PROFILE</center>
@@ -267,7 +267,7 @@
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_content
-										img-responsive" data-original="assets/img/team/Jasdeepcrop.jpg" height="250" width="100%" alt="foto">
+										img-responsive" data-original="assets/img/team/Jasdeep.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn28" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -286,7 +286,7 @@
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_content
-										img-responsive" data-original="assets/img/team/ksitijcrop.jpg" height="250" width="100%" alt="foto">
+										img-responsive" data-original="assets/img/team/ksitij.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn7" class="btn btn-primary btn-effect" href="javascript:void(0);">
 														<center>VIEW PROFILE</center>
@@ -305,7 +305,7 @@
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_content
-										img-responsive" data-original="assets/img/team/ishacrop.jpg" height="250" width="100%" alt="foto">
+										img-responsive" data-original="assets/img/team/isha.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn62" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -323,7 +323,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Jaswincrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Jaswin.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn16" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -341,7 +341,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc contentw ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/navdhacrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/navdha.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn42" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -359,7 +359,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/HarshVcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/HarshV.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn17" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -377,7 +377,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Prabhacrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Prabha.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn32" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -395,7 +395,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc contentw ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Aditicrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/aditi.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn66" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -413,7 +413,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/MohitScrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/mohit.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn45" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -431,7 +431,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Arkocrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Arko.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn8" class="btn btn-primary btn-effect" href="javascript:void(0);">
 														<center>VIEW PROFILE</center>
@@ -449,7 +449,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Shresthcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Shresth.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn35" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -467,7 +467,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Kanishkacrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Kanishka.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn22" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -485,7 +485,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/mayankcrop.jpg" height="262px" width="262px" alt="foto">
+											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/mayank.jpg" height="262px" width="262px" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn10" class="btn btn-primary btn-effect" href="javascript:void(0);">
 														<center>VIEW PROFILE</center>
@@ -503,7 +503,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/amanpcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/ap.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn27" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -521,7 +521,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/mansimarkaurcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/mansimarkaur.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn33" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -539,7 +539,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Prernacrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Prerna.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn23" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -557,7 +557,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/anshulkhcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/anshul.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn3" class="btn btn-primary btn-effect" href="javascript:void(0);">
 														<center>VIEW PROFILE</center>
@@ -575,7 +575,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Jyoticrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Jyoti.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn30" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -593,7 +593,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/tarashacrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/tarasha.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn11" class="btn btn-primary btn-effect" href="javascript:void(0);">
 														<center>VIEW PROFILE</center>
@@ -612,7 +612,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Asthacrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/aastha.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn49" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -630,7 +630,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Nilaycrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Nilay.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn18" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -648,7 +648,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Rishabcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Rishab.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn14" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -666,7 +666,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/NamanMcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/naman.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn44" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -684,7 +684,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc webd">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/Aprajitacrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/Aprajita.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn34" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -702,7 +702,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/pranshucrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/pranshu.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn36" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -720,7 +720,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/priyankacrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/priyanka.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn43" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -738,7 +738,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/RohaiScrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/rohai.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn9" class="btn btn-primary btn-effect" href="javascript:void(0);">
 														<center>VIEW PROFILE</center>
@@ -757,7 +757,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Harshpreetcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Harshpreet.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn19" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -775,7 +775,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/shubhangicrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/shubhangi.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn24" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -793,7 +793,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/Kanika_Modicrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/kanika.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn29" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -811,7 +811,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/ShubhamRcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/shubham.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn31" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -829,7 +829,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Jeeveshcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Jeevesh.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn37" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -847,7 +847,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide designer ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_designer img-responsive" data-original="assets/img/team/ParthMcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_designer img-responsive" data-original="assets/img/team/parth.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn39" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -865,7 +865,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/avniphotocrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/avni.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn40" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -883,7 +883,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/varshikacrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/varshika.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn99" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -901,7 +901,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/tanyacrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/tanya.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn100" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -919,7 +919,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/sahilDuacrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/sahilDua.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn55" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -940,7 +940,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/manrajcrop.jpg" height="50%" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/manraj.jpg" height="50%" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn59" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -958,7 +958,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/divjotcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/divjot.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn56" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -976,7 +976,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/abhinavcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/abhinav.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn75" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -994,7 +994,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/VishalVcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/vishal.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn52" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -1012,7 +1012,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/sidcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/sid.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn58" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -1030,7 +1030,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/RahulGcrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/RahulG.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn53" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -1048,7 +1048,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/ayushmaiticrop.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/ayushmaiti.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn15" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -1069,7 +1069,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 12">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Sahilcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Sahil.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Sahil Gulati </h2> </div>
 									<div class="modal-body">
 										<p><b> ALUMNI </b>
@@ -1119,7 +1119,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 47">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/tusharcrop.jpg" height="auto" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/tushar.jpg" height="auto" width="100" alt="foto" align="middle">
 										<h2>Tushar Gupta</h2> </div>
 									<div class="modal-body">
 										<p><b>HEAD OF TECHNICAL OPERATIONS</b>
@@ -1163,7 +1163,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 46">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/ApoorvGcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/apoorv.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Apoorv Gupta </h2> </div>
 									<div class="modal-body">
 										<p><b> PRESIDENT</b>
@@ -1210,7 +1210,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 21">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Shwetankcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Shwetank.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Shwetank Pandey </h2> </div>
 									<div class="modal-body">
 										<p><b> VICE PRESIDENT</b>
@@ -1257,7 +1257,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 74">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/amanmahcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/aman.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Aman Mahajan </h2> </div>
 									<div class="modal-body">
 										<p><b> WEB TECHNICAL HEAD </b>
@@ -1307,7 +1307,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 26">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/SubhkaranScrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/subhkaran.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Shubhkaran Singh </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT MANAGING DIRECTOR </b>
@@ -1348,7 +1348,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 6">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Gautamkscrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Gautamks.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Gautam Kumar Sharma </h2> </div>
 									<div class="modal-body">
 										<p><b> EDITOR-IN-CHIEF </b>
@@ -1389,7 +1389,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 51">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Arpit_Bajajcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/arpit.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Arpit Bajaj </h2> </div>
 									<div class="modal-body">
 										<p><b> GRAPHICS HEAD </b>
@@ -1433,7 +1433,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 41">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/abhisarcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/abhisar.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Abhisar Garg </h2> </div>
 									<div class="modal-body">
 										<p><b> SENIOR EDITOR </b>
@@ -1511,7 +1511,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 76">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/ayushgargcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/ayushgarg.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Ayush Garg </h2> </div>
 									<div class="modal-body">
 										<p><b>GRAPHICS DESIGNER</b>
@@ -1555,7 +1555,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 4">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Deepikacrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Deepika.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Deepika Naryani </h2> </div>
 									<div class="modal-body">
 										<p><b>CONTENT WRITER</b>
@@ -1602,7 +1602,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 28">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Jasdeepcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Jasdeep.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Jasdeep Singh </h2> </div>
 									<div class="modal-body">
 										<p><b> DEPARTMENT MANAGER </b>
@@ -1643,7 +1643,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 7">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/ksitijcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/ksitij.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Kshitij </h2> </div>
 									<div class="modal-body">
 										<p><b> DEPARTMENT MANAGER </b>
@@ -1684,7 +1684,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 62">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/ishacrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/isha.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Isha Gupta </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR </b>
@@ -1728,7 +1728,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 16">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Jaswincrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Jaswin.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Jaswin Kaur </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR </b>
@@ -1772,7 +1772,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 42">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/navdhacrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/navdha.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Navdha </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR, CONTENT WRITER </b>
@@ -1822,7 +1822,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 17">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/HarshVcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/HarshV.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Harsh Vardhan </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR </b>
@@ -1862,7 +1862,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 32">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Prabhacrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Prabha.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Prabha Pant </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR </b>
@@ -1912,7 +1912,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 66">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Aditicrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/aditi.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Aditi Sharma </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR/WRITER </b>
@@ -1962,7 +1962,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 45">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/MohitScrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/mohit.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> MOHIT SINGH </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR </b>
@@ -2012,7 +2012,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 8">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Arkocrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Arko.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Arko Gupta </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR </b>
@@ -2056,7 +2056,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 35">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Shresthcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Shresth.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Shreshth Sharma </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR </b>
@@ -2097,7 +2097,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 22">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Kanishkacrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Kanishka.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> KANISHKA GOSAIN </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR </b>
@@ -2138,7 +2138,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 10">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/mayankcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/mayank.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Mayank Badola </h2> </div>
 									<div class="modal-body">
 										<p><b> WEB DEVELOPER </b>
@@ -2185,7 +2185,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 27">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/amanpcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/ap.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Aman Priyadarshi </h2> </div>
 									<div class="modal-body">
 										<p><b> WEB DEVELOPER </b>
@@ -2232,7 +2232,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 33">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/mansimarkaurcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/mansimarkaur.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Mansimar Kaur </h2> </div>
 									<div class="modal-body">
 										<p><b> WEB DEVELOPER </b>
@@ -2273,7 +2273,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 23">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Prernacrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Prerna.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Prerna Kakkar </h2> </div>
 									<div class="modal-body">
 										<p><b> WEB DEVELOPER </b>
@@ -2320,7 +2320,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 3">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/anshulkhcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/anshul.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Anshul Khanna </h2> </div>
 									<div class="modal-body">
 										<p><b> WEB DEVELOPER </b>
@@ -2361,7 +2361,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 30">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Jyoticrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Jyoti.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Jyoti </h2> </div>
 									<div class="modal-body">
 										<p><b> WEB DEVELOPER </b>
@@ -2402,7 +2402,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 11">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/tarashacrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/tarasha.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Tarasha Khurana </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT WRITER </b>
@@ -2446,7 +2446,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 49">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Asthacrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/aastha.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Aastha </h2> </div>
 									<div class="modal-body">
 										<p><b> WEB DEVELOPER </b>
@@ -2486,7 +2486,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 18">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Nilaycrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Nilay.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Nilay Shrivastava </h2> </div>
 									<div class="modal-body">
 										<p><b> WEB DEVELOPER </b>
@@ -2530,7 +2530,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 14">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Rishabcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Rishab.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Rishab Gupta </h2> </div>
 									<div class="modal-body">
 										<p><b> WEB DEVELOPER </b>
@@ -2577,7 +2577,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 44">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/NamanMcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/naman.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Naman Malhotra </h2> </div>
 									<div class="modal-body">
 										<p><b> WEB DEVELOPER </b>
@@ -2621,7 +2621,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 34">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Aprajitacrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Aprajita.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Aprajita Singh </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR/WEB DEVELOPER </b>
@@ -2665,7 +2665,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 36">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/pranshucrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/pranshu.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Pranshu Agarwal  </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR </b>
@@ -2712,7 +2712,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 43">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/priyankacrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/priyanka.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Priyanka </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR </b>
@@ -2762,7 +2762,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 9">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/RohaiScrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/rohai.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Rohan Sai </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR </b>
@@ -2803,7 +2803,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 19">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Harshpreetcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Harshpreet.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> HARSHPREET SINGH </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR </b>
@@ -2844,7 +2844,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 24">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/shubhangicrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/shubhangi.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Shubaangi Bisht </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT WRITER </b>
@@ -2885,7 +2885,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 31">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/ShubhamRcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/shubham.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Shubham Roy </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT WRITER </b>
@@ -2935,7 +2935,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 37">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Jeeveshcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/Jeevesh.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Jeevesh Narang </h2> </div>
 									<div class="modal-body">
 										<p><b> WEB DEVELOPER </b>
@@ -2976,7 +2976,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 29">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Kanika_Modicrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/kanika.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Kanika Modi </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR/CONTENT WRITER </b>
@@ -3020,7 +3020,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 39">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/ParthMcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/parth.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Parth Mittal </h2> </div>
 									<div class=";">
 										<p><b> GRAPHICS DESIGNER </b>
@@ -3064,7 +3064,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 40">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/avniphotocrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/avni.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Avni Arora </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT WRITER </b>
@@ -3108,7 +3108,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 100">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/tanyacrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/tanya.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> TANYA GUPTA </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT WRITER </b>
@@ -3152,7 +3152,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 99">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/varshikacrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/varshika.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> VARSHIKA GAMBHIR </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT WRITER </b>
@@ -3187,7 +3187,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 55">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/sahilDuacrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/sahilDua.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Sahil Dua </h2> </div>
 									<div class="modal-body">
 										<p><b> ALUMNI </b>
@@ -3227,7 +3227,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 59">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/manrajcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/manraj.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Manraj Singh </h2> </div>
 									<div class="modal-body">
 										<p><b>2012-2016</b>
@@ -3267,7 +3267,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 56">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/divjotcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/divjot.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Divjot Singh </h2> </div>
 									<div class="modal-body">
 										<p><b> 2012-2016 </b>
@@ -3307,7 +3307,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 75">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/abhinavcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/abhinav.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Abhinav Singh </h2> </div>
 									<div class="modal-body">
 										<p><b> 2012-2016 </b>
@@ -3343,7 +3343,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 58">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/sidcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/sid.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Siddharth Jain </h2> </div>
 									<div class="modal-body">
 										<p><b> 2011-2015 </b>
@@ -3383,7 +3383,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 53">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/RahulGcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/RahulG.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Rahul Gandhi </h2> </div>
 									<div class="modal-body">
 										<p><b> 2011-15 </b>
@@ -3424,7 +3424,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 15">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/ayushmaiticrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/ayushmaiti.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Ayush Maiti </h2> </div>
 									<div class="modal-body">
 										<p><b> 2011-2015 </b>
@@ -3471,7 +3471,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 52">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/VishalVcrop.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/vishal.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Vishal Vedwal </h2> </div>
 									<div class="modal-body">
 										<p><b> 2012-2016 </b>
