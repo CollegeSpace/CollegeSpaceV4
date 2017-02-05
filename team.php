@@ -49,7 +49,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership">
                         <div class="portfolio-wrapper">
                             <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive " src="assets/CS pics/cropped/Sahilcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn12" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="img-responsive " src="assets/img/team/Sahilcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn12" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">SAHIL GULATI</h3>
                                             <div class="staff__categories"><b>FOUNDER</b></div>
@@ -61,7 +61,7 @@
 
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership  ">
                             <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/tusharcrop.jpg" height="auto" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn47" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="img-responsive" src="assets/img/team/tusharcrop.jpg" height="auto" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn47" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">TUSHAR GUPTA</h3>
                                             <div class="staff__categories"><b>FOUNDER</b></div>
@@ -73,7 +73,7 @@
                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership ">
                         <div class="portfolio-wrapper">
                             <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive"  src="assets/CS pics/cropped/ApoorvGcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn46" class="btn btn-primary btn-effect"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="img-responsive"  src="assets/img/team/ApoorvGcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn46" class="btn btn-primary btn-effect"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">APOORV GUPTA</h3>
                                             <div class="staff__categories"><b>PRESIDENT</b></a></div>
@@ -86,7 +86,7 @@
 				  <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership ">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
-												<div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Shwetankcrop.jpg" height="auto" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn21" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+												<div class="staff__media"><img class="img-responsive" src="assets/img/team/Shwetankcrop.jpg" height="auto" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn21" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
 												<div class="staff__inner staff__inner_mod-a">
 													<h3 class="staff__title">SHWETANK PANDEY</h3>
 													<div class="staff__categories"><b>VICE-PRESIDENT</b></div>
@@ -99,7 +99,7 @@
 				<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership webd ">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
-												<div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/amanmahcrop.jpg" height="262" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn74" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+												<div class="staff__media"><img class="img-responsive" src="assets/img/team/amanmahcrop.jpg" height="262" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn74" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
 												<div class="staff__inner staff__inner_mod-a">
 													<h3 class="staff__title">AMAN MAHAJAN</h3>
 													<div class="staff__categories"><b>WEB TECHNICAL HEAD</b></div>
@@ -111,7 +111,7 @@
 							 <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership contentc ">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
-												<div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/SubhkaranScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn26" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+												<div class="staff__media"><img class="img-responsive" src="assets/img/team/SubhkaranScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn26" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
 												<div class="staff__inner staff__inner_mod-a">
 													<h3 class="staff__title">SHUBHKARAN SINGH</h3>
 													<div class="staff__categories"><b>CONTENT COLLECTION HEAD</b></div>
@@ -124,7 +124,7 @@
 				  <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item contentw leadership ">
 								<div class="portfolio-wrapper">
 									<div class="staff">
-												<div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Gautamkscrop.jpg" height="200" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn6" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+												<div class="staff__media"><img class="img-responsive" src="assets/img/team/Gautamkscrop.jpg" height="200" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn6" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
 												<div class="staff__inner staff__inner_mod-a">
 													<h3 class="staff__title">GAUTAM KUMAR SHARMA</h3>
 													<div class="staff__categories"><b>CONTENT WRITING HEAD</b></div>
@@ -136,7 +136,7 @@
 							 <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership designer ">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
-												<div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Arpit_Bajajcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn51" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+												<div class="staff__media"><img class="img-responsive" src="assets/img/team/Arpit_Bajajcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn51" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
 												<div class="staff__inner staff__inner_mod-a">
 													<h3 class="staff__title">ARPIT BAJAJ</h3>
 													<div class="staff__categories"><b>GRAPHICS HEAD</b></div>
@@ -151,7 +151,7 @@
 							 <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
-												<div class="staff__media"><img class="lazy_cw  img-responsive" data-original="assets/CS pics/cropped/abhisarcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn41" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+												<div class="staff__media"><img class="lazy_cw  img-responsive" data-original="assets/img/team/abhisarcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn41" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
 												<div class="staff__inner staff__inner_mod-a">
 													<h3 class="staff__title">ABHISAR GARG</h3>
 													<div class="staff__categories"><b>SENIOR EDITOR</b></div>
@@ -164,7 +164,7 @@
 				  <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw">
 								<div class="portfolio-wrapper">
 								   <div class="staff">
-												<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/ayushg.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn2" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+												<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/ayushg.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn2" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
 												<div class="staff__inner staff__inner_mod-a">
 													<h3 class="staff__title">AYUSH GARG </h3>
 													<div class="staff__categories"><b>SENIOR EDITOR</b></div>
@@ -177,7 +177,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide designer">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_designer img-responsive" data-original="assets/CS pics/cropped/ayushgargcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn76" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_designer img-responsive" data-original="assets/img/team/ayushgargcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn76" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">AYUSH GARG </h3>
                                             <div class="staff__categories"><b>GRAPHICS DESIGNER</b></div>
@@ -190,7 +190,7 @@
                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw">
                         <div class="portfolio-wrapper">
                           <div class="staff">
-                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/Deepikacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4"  class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/Deepikacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn4"  class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">DEEPIKA NARYANI</h3>
                                             <div class="staff__categories"><b>CONTENT WRITER</b></div>
@@ -204,7 +204,7 @@
                         <div class="portfolio-wrapper">
                            <div class="staff">
                                         <div class="staff__media"><img class="lazy_content
-                                        img-responsive" data-original="assets/CS pics/cropped/Jasdeepcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn28" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        img-responsive" data-original="assets/img/team/Jasdeepcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn28" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">JASDEEP SINGH</h3>
                                             <div class="staff__categories"><b>DEPARTMENT MANAGER</b></div>
@@ -218,7 +218,7 @@
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="lazy_content
-                                        img-responsive" data-original="assets/CS pics/cropped/ksitijcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a  id="myBtn7" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        img-responsive" data-original="assets/img/team/ksitijcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a  id="myBtn7" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">KSHITIJ</h3>
                                             <div class="staff__categories"><b>DEPARTMENT MANAGER</b></div>
@@ -232,7 +232,7 @@
                         <div class="portfolio-wrapper">
                             <div class="staff">
                                         <div class="staff__media"><img class="lazy_content
-                                        img-responsive" data-original="assets/CS pics/cropped/ishacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn62" class="btn btn-primary btn-effect"><center>VIEW PROFILE</center></a></div></div>
+                                        img-responsive" data-original="assets/img/team/ishacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn62" class="btn btn-primary btn-effect"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">ISHA GUPTA</h3>
                                             <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
@@ -245,7 +245,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/Jaswincrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn16" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Jaswincrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn16" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">JASWIN KAUR</h3>
                                             <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
@@ -258,7 +258,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/navdhacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn42" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="img-responsive" src="assets/img/team/navdhacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn42" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">NAVDHA</h3>
                                             <div class="staff__categories"><b>CONTENT COLLECTOR/WRITER</b></div>
@@ -271,7 +271,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/HarshVcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn17" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/HarshVcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn17" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">HARSH VARDHAN</h3>
                                             <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
@@ -284,7 +284,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/Prabhacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn32" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Prabhacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn32" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">PRABHA PANT</h3>
                                             <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
@@ -297,7 +297,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/Aditicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn66" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Aditicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn66" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">ADITI SHARMA</h3>
                                             <div class="staff__categories"><b>CONTENT COLLECTOR/WRITER</b></div>
@@ -310,7 +310,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/MohitScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn45" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/MohitScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn45" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">MOHIT SINGH</h3>
                                             <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
@@ -322,7 +322,7 @@
                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/Arkocrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn8" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Arkocrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn8" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">ARKO GUPTA</h3>
                                             <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
@@ -335,7 +335,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/Shresthcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn35" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Shresthcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn35" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">SHRESTH SHARMA</h3>
                                             <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
@@ -348,7 +348,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/Kanishkacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn22" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Kanishkacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn22" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">KANISHKA GOSAIN</h3>
                                             <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
@@ -362,7 +362,7 @@
                     <div  class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
                         <div class="portfolio-wrapper">
                             <div class="staff">
-                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/mayankcrop.jpg" height="262px" width="262px" alt="foto"><div class="staff__hover"><a id="myBtn10" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/mayankcrop.jpg" height="262px" width="262px" alt="foto"><div class="staff__hover"><a id="myBtn10" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">MAYANK BADOLA</h3>
                                             <div class="staff__categories"><b>WEB DEVELOPER</b></div>
@@ -375,7 +375,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/amanpcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn27" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/amanpcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn27" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">AMAN PRIYADARSHI</h3>
                                             <div class="staff__categories"><b>WEB DEVELOPER</b></div>
@@ -388,7 +388,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/mansimarkaurcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn33" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/mansimarkaurcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn33" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">MANSIMAR KAUR</h3>
                                             <div class="staff__categories"><b>WEB DEVELOPER</b></div>
@@ -401,7 +401,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Prernacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn23" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Prernacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn23" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">PRERNA KAKKAR</h3>
                                             <div class="staff__categories"><b>WEB DEVELOPER</b></div>
@@ -414,7 +414,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
                         <div class="portfolio-wrapper">
                           <div class="staff">
-                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/anshulkhcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn3" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/anshulkhcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn3" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">ANSHUL KHANNA</h3>
                                             <div class="staff__categories"><b>WEB DEVELOPER</b></div>
@@ -426,7 +426,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Jyoticrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn30" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Jyoticrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn30" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">JYOTI</h3>
                                             <div class="staff__categories"><b>WEB DEVELOPER</b></div>
@@ -438,7 +438,7 @@
                     <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
                         <div class="portfolio-wrapper">
                             <div class="staff">
-                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/tarashacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn11" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/tarashacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn11" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">TARASHA KHURANA</h3>
                                             <div class="staff__categories"><b>CONTENT WRITER</b></a></div>
@@ -450,7 +450,7 @@
 				<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Asthacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn49" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Asthacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn49" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">AASTHA</h3>
                                             <div class="staff__categories"><b>WEB DEVELOPER</b></div>
@@ -465,7 +465,7 @@
 				<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Nilaycrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn18" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Nilaycrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn18" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">NILAY SHRIVASTAVA</h3>
                                             <div class="staff__categories"><b>WEB DEVELOPER</b></div>
@@ -478,7 +478,7 @@
 				<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
                         <div class="portfolio-wrapper">
                             <div class="staff">
-                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Rishabcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn14" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Rishabcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn14" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">RISHAB GUPTA</h3>
                                             <div class="staff__categories"><b>WEB DEVELOPER</b></div>
@@ -491,7 +491,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/NamanMcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn44" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/NamanMcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn44" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">NAMAN MALHOTRA</h3>
                                             <div class="staff__categories"><b>WEB DEVELOPER</b></div>
@@ -504,7 +504,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc webd">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="img-responsive" src="assets/CS pics/cropped/Aprajitacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn34" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="img-responsive" src="assets/img/team/Aprajitacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn34" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">APRAJITA SINGH</h3>
                                             <div class="staff__categories"><b>CONTENT COLLECTOR/DEVELOPER</b></div>
@@ -517,7 +517,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/pranshucrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn36" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/pranshucrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn36" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">PRANSHU AGARWAL</h3>
                                             <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
@@ -530,7 +530,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/priyankacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn43" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/priyankacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn43" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">PRIYANKA</h3>
                                             <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
@@ -543,7 +543,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc">
                         <div class="portfolio-wrapper">
                             <div class="staff">
-                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/RohaiScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn9" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/RohaiScrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn9" class="btn btn-primary btn-effect" href="javascript:void(0);"><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">ROHAN SAI</h3>
                                             <div class="staff__categories"><b>CONTENT COLLECTOR</b></a></div>
@@ -556,7 +556,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/CS pics/cropped/Harshpreetcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn19" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Harshpreetcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn19" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">HARSHPREET SINGH</h3>
                                             <div class="staff__categories"><b>CONTENT COLLECTOR</b></div>
@@ -568,7 +568,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/shubhangicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn24" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/shubhangicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn24" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">SHUBHAANGI BISHT</h3>
                                             <div class="staff__categories"><b>CONTENT WRITER</b></div>
@@ -580,7 +580,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw contentc ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/Kanika_Modicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn29" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/Kanika_Modicrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn29" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">KANIKA MODI</h3>
                                             <div class="staff__categories"><b>CONTENT COLLECTOR/WRITER</b></div>
@@ -596,7 +596,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/ShubhamRcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn31" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/ShubhamRcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn31" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">SHUBHAM ROY</h3>
                                             <div class="staff__categories"><b>CONTENT WRITER</b></div>
@@ -610,7 +610,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/CS pics/cropped/Jeeveshcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn37" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/Jeeveshcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn37" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">JEEVESH NARANG</h3>
                                             <div class="staff__categories"><b>WEB DEVELOPER</b></div>
@@ -622,7 +622,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide designer ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_designer img-responsive" data-original="assets/CS pics/cropped/ParthMcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn39" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_designer img-responsive" data-original="assets/img/team/ParthMcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn39" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">PARTH MITTAL</h3>
                                             <div class="staff__categories"><b>GRAPHICS DESIGNER</b></div>
@@ -635,7 +635,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/avni photocrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn40" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/avniphotocrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn40" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">AVNI ARORA</h3>
                                             <div class="staff__categories"><b>CONTENT WRITER</b></div>
@@ -647,7 +647,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/varshikacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn99" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/varshikacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn99" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">VARSHIKA GAMBHIR</h3>
                                             <div class="staff__categories"><b>CONTENT WRITER</b></div>
@@ -659,7 +659,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/CS pics/cropped/tanyacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn100" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/tanyacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn100" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">TANYA GUPTA</h3>
                                             <div class="staff__categories"><b>CONTENT WRITER</b></div>
@@ -673,7 +673,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/sahilDuacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn55" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/sahilDuacrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn55" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">SAHIL DUA</h3>
                                             <div class="staff__categories"><p><b>2012-2016<br>
@@ -688,7 +688,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/manrajcrop.jpg" height="50%" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn59" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/manrajcrop.jpg" height="50%" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn59" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">MANRAJ SINGH</h3>
                                             <div class="staff__categories"><b>2012-2016<br>Practo</b></div>
@@ -700,7 +700,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/divjotcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn56" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/divjotcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn56" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">DIVJOT SINGH</h3>
                                             <div class="staff__categories"><b>2012-2016<br>Samsung</b></div>
@@ -713,7 +713,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/abhinavcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn75" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/abhinavcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn75" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">ABHINAV SINGH</h3>
                                             <div class="staff__categories"><b>2012-2016<br>Samsung</b></div>
@@ -725,7 +725,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/VishalVcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn52" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/VishalVcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn52" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">VISHAL VEDWAL</h3>
                                             <div class="staff__categories"><b>2012-2016<br>Tek Travels</b></div>
@@ -737,7 +737,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/sidcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn58" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/sidcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn58" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">SIDDHARTH JAIN</h3>
                                             <div class="staff__categories"><b>2011-2015<br>Google</b></div>
@@ -750,7 +750,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/RahulGcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn53" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/RahulGcrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn53" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">RAHUL GANDHI</h3>
                                             <div class="staff__categories"><b>2011-2015<br>Adobe</b></div>
@@ -763,7 +763,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
                         <div class="portfolio-wrapper">
                            <div class="staff">
-                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/CS pics/cropped/ayushmaiticrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn15" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
+                                        <div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/ayushmaiticrop.jpg" height="250" width="100%" alt="foto"><div class="staff__hover"><a id="myBtn15" class="btn btn-primary btn-effect" ><center>VIEW PROFILE</center></a></div></div>
                                         <div class="staff__inner staff__inner_mod-a">
                                             <h3 class="staff__title">AYUSH MAITI</h3>
                                             <div class="staff__categories"><b>2011-2015<br>EY</b></div>
@@ -783,7 +783,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 12">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Sahilcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Sahilcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Sahil Gulati </h2>
                                              </div>
                                              <div class="modal-body">
@@ -827,7 +827,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 47">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/tusharcrop.jpg" height="auto" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/tusharcrop.jpg" height="auto" width="100" alt="foto" align="middle">
 
                                            <h2>Tushar Gupta</h2>
                                              </div>
@@ -871,7 +871,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 46">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ApoorvGcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/ApoorvGcrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Apoorv Gupta </h2>
                                              </div>
@@ -916,7 +916,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 21">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Shwetankcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Shwetankcrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Shwetank Pandey </h2>
                                              </div>
@@ -959,7 +959,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 74">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/amanmahcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/amanmahcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Aman Mahajan </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1003,7 +1003,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 26">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/SubhkaranScrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/SubhkaranScrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Shubhkaran Singh </h2>
                                              </div>
@@ -1044,7 +1044,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 6">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Gautamkscrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Gautamkscrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Gautam Kumar Sharma </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1086,7 +1086,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 51">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Arpit_Bajajcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Arpit_Bajajcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Arpit Bajaj </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1127,7 +1127,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 41">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/abhisarcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/abhisarcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Abhisar Garg </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1167,7 +1167,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 2">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ayushg.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/ayushg.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Ayush Garg </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1206,7 +1206,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 76">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ayushgargcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/ayushgargcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Ayush Garg </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1247,7 +1247,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 4">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Deepikacrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Deepikacrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Deepika Naryani </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1289,7 +1289,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 28">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Jasdeepcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Jasdeepcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Jasdeep Singh </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1329,7 +1329,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 7">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ksitijcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/ksitijcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Kshitij </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1369,7 +1369,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 62">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ishacrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/ishacrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Isha Gupta </h2>
                                              </div>
@@ -1419,7 +1419,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 16">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Jaswincrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Jaswincrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Jaswin Kaur </h2>
                                              </div>
@@ -1469,7 +1469,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 42">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/navdhacrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/navdhacrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Navdha </h2>
                                              </div>
@@ -1521,7 +1521,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 17">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/HarshVcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/HarshVcrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Harsh Vardhan </h2>
                                              </div>
@@ -1569,7 +1569,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 32">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Prabhacrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Prabhacrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Prabha Pant </h2>
                                              </div>
@@ -1621,7 +1621,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 66">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Aditicrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Aditicrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Aditi Sharma </h2>
                                              </div>
@@ -1673,7 +1673,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 45">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/MohitScrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/MohitScrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> MOHIT SINGH </h2>
                                              </div>
@@ -1724,7 +1724,7 @@
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 8">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Arkocrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Arkocrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Arko Gupta </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1767,7 +1767,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 35">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Shresthcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Shresthcrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Shreshth Sharma </h2>
                                              </div>
@@ -1816,7 +1816,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 22">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Kanishkacrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Kanishkacrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> KANISHKA GOSAIN </h2>
                                              </div>
@@ -1864,7 +1864,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 10">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/mayankcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/mayankcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Mayank Badola </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1906,7 +1906,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 27">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/amanpcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/amanpcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Aman Priyadarshi </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1948,7 +1948,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 33">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/mansimarkaurcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/mansimarkaurcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Mansimar Kaur </h2>
                                              </div>
                                              <div class="modal-body">
@@ -1991,7 +1991,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 23">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Prernacrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Prernacrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Prerna Kakkar </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2034,7 +2034,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 3">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/anshulkhcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/anshulkhcrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Anshul Khanna </h2>
                                              </div>
@@ -2076,7 +2076,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 30">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Jyoticrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Jyoticrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Jyoti </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2117,7 +2117,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 11">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/tarashacrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/tarashacrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Tarasha Khurana </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2159,7 +2159,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 49">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Asthacrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Asthacrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Aastha </h2>
                                              </div>
@@ -2208,7 +2208,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 18">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Nilaycrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Nilaycrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Nilay Shrivastava </h2>
                                              </div>
@@ -2258,7 +2258,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 14">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Rishabcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Rishabcrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Rishab Gupta </h2>
                                              </div>
@@ -2309,7 +2309,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 44">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/NamanMcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/NamanMcrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Naman Malhotra </h2>
                                              </div>
@@ -2359,7 +2359,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 34">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Aprajitacrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Aprajitacrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Aprajita Singh </h2>
                                              </div>
@@ -2409,7 +2409,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 36">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/pranshucrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/pranshucrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Pranshu Agarwal  </h2>
                                              </div>
@@ -2460,7 +2460,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 43">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/priyankacrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/priyankacrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Priyanka </h2>
                                              </div>
@@ -2511,7 +2511,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 9">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/RohaiScrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/RohaiScrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Rohan Sai </h2>
                                              </div>
                                              <div class="modal-body">
@@ -2555,7 +2555,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 19">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Harshpreetcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Harshpreetcrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> HARSHPREET SINGH </h2>
                                              </div>
@@ -2604,7 +2604,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 24">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/shubhangicrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/shubhangicrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Shubaangi Bisht </h2>
                                              </div>
@@ -2653,7 +2653,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 31">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ShubhamRcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/ShubhamRcrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Shubham Roy </h2>
                                              </div>
@@ -2705,7 +2705,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 37">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Jeeveshcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Jeeveshcrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Jeevesh Narang </h2>
                                              </div>
@@ -2754,7 +2754,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 29">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/Kanika_Modicrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/Kanika_Modicrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Kanika Modi </h2>
                                              </div>
@@ -2804,7 +2804,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 39">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ParthMcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/ParthMcrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Parth Mittal </h2>
                                              </div>
@@ -2854,7 +2854,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 40">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/avni photocrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/avniphotocrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Avni Arora </h2>
                                              </div>
@@ -2905,7 +2905,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 100">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/tanyacrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/tanyacrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> TANYA GUPTA </h2>
                                              </div>
@@ -2956,7 +2956,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 99">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/varshikacrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/varshikacrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> VARSHIKA GAMBHIR </h2>
                                              </div>
@@ -3003,7 +3003,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 55">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/sahilDuacrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/sahilDuacrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Sahil Dua </h2>
                                              </div>
@@ -3050,7 +3050,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 59">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/manrajcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/manrajcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Manraj Singh </h2>
                                              </div>
                                              <div class="modal-body">
@@ -3090,7 +3090,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 56">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/divjotcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/divjotcrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Divjot Singh </h2>
                                              </div>
@@ -3138,7 +3138,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 75">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/abhinavcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/abhinavcrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Abhinav Singh </h2>
                                              </div>
@@ -3184,7 +3184,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 58">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/sidcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/sidcrop.jpg" height="100" width="100" alt="foto" align="middle">
                                            <h2> Siddharth Jain </h2>
                                              </div>
                                              <div class="modal-body">
@@ -3224,7 +3224,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 53">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/RahulGcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/RahulGcrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Rahul Gandhi </h2>
                                              </div>
@@ -3273,7 +3273,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 15">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/ayushmaiticrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/ayushmaiticrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Ayush Maiti </h2>
                                              </div>
@@ -3324,7 +3324,7 @@ Being realistic is the most commonly travelled path to mediocrity. Don't be real
                                            <div class="modal-content">
                                            <div class="modal-header">
                                            <span class="close 52">×</span>
-                                           <div class="img"></div><img class="img-responsive" src="assets/CS pics/cropped/VishalVcrop.jpg" height="100" width="100" alt="foto" align="middle">
+                                           <div class="img"></div><img class="img-responsive" src="assets/img/team/VishalVcrop.jpg" height="100" width="100" alt="foto" align="middle">
 
                                            <h2> Vishal Vedwal </h2>
                                              </div>
