@@ -1063,6 +1063,25 @@
 										</div>
 									</div>
 								</div>
+							
+							    <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/manmeet.jpg" height="250" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn215" class="btn btn-primary btn-effect">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">MANMEET SINGH</h3>
+												<div class="staff__categories"><b>2011-2015<br>Barclays</b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
 							</div>
 							<!-- end wrapper -->
 							<div id="myModal12" class="modal" style="z-index:100;">
@@ -3507,6 +3526,42 @@
 								window.onclick = function(event) {
 									if (event.target == modal) {
 										modal52.style.display = "none";
+									}
+								}
+							</script>
+							<div id="myModal215" class="modal" style="z-index:100;">
+								<!-- Modal content -->
+							<div class="modal-content">
+									<div class="modal-header"> <span class="close 215">×</span>
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/manmeet.jpg" height="100" width="100" alt="foto" align="middle">
+										<h2> Manmeet Singh </h2> </div>
+									<div class="modal-body">
+										<p><b> 2011-2015 </b>
+										</p>
+									</div>
+									<div class="modal-footer">
+										</ul>
+									</div>
+								</div>
+							</div>
+							<script>
+								var modal215 = document.getElementById('myModal215');
+								// Get the button that opens the modal
+								var btn215 = document.getElementById("myBtn215");
+								// Get the element that closes the modal
+								var span215 = document.getElementsByClassName("215")[0];
+								// When the user clicks the button, open the modal
+								btn215.onclick = function() {
+										modal215.style.display = "block";
+									}
+									// closing the modal
+								span215.onclick = function() {
+										modal215.style.display = "none";
+									}
+									// When the user clicks anywhere outside of the modal, close it
+								window.onclick = function(event) {
+									if (event.target == modal215) {
+										modal215.style.display = "none";
 									}
 								}
 							</script>
