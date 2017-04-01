@@ -757,7 +757,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/Harshpreet.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/harshpreet.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn19" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -2823,7 +2823,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 19">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/Harshpreet.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/harshpreet.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> HARSHPREET SINGH </h2> </div>
 									<div class="modal-body">
 										<p><b> CONTENT COLLECTOR </b>
