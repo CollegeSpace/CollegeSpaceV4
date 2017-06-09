@@ -60,7 +60,7 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">SAHIL GULATI</h3>
-												<div class="staff__categories"><b>FOUNDER</b>
+												<div class="staff__categories"><b>FOUNDER<br> <br></b>
 												</div>
 											</div>
 										</div>
@@ -77,178 +77,16 @@
 										</div>
 										<div class="staff__inner staff__inner_mod-a">
 											<h3 class="staff__title">TUSHAR GUPTA</h3>
-											<div class="staff__categories"><b>FOUNDER</b>
+											<div class="staff__categories"><b>FOUNDER<br> <br></b>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership ">
+								
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership contentw">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/apoorv.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn46" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">APOORV GUPTA</h3>
-												<div class="staff__categories"><b>PRESIDENT</b>
-													</a>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/shwetank.jpg" height="auto" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn21" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">SHWETANK PANDEY</h3>
-												<div class="staff__categories"><b>VICE-PRESIDENT</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership webd ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/aman.jpg" height="262" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn74" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">AMAN MAHAJAN</h3>
-												<div class="staff__categories"><b>WEB TECHNICAL HEAD</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership contentc ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/subhkaran.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn26" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">SHUBHKARAN SINGH</h3>
-												<div class="staff__categories"><b>CONTENT COLLECTION HEAD</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item contentw leadership ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/gautamks.jpg" height="200" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn6" class="btn btn-primary btn-effect" href="javascript:void(0);">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">GAUTAM KUMAR SHARMA</h3>
-												<div class="staff__categories"><b>CONTENT WRITING HEAD</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership designer ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/arpit.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn51" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">ARPIT BAJAJ</h3>
-												<div class="staff__categories"><b>GRAPHICS HEAD</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="lazy_cw  img-responsive" data-original="assets/img/team/abhisar.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn41" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">ABHISAR GARG</h3>
-												<div class="staff__categories"><b>SENIOR EDITOR</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/ayushg.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn2" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">AYUSH GARG </h3>
-												<div class="staff__categories"><b>SENIOR EDITOR</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide designer">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="lazy_designer img-responsive" data-original="assets/img/team/ayushgarg.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn76" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">AYUSH GARG </h3>
-												<div class="staff__categories"><b>GRAPHICS DESIGNER</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/deepika.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/deepika.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn4" class="btn btn-primary btn-effect" href="javascript:void(0);">
 														<center>VIEW PROFILE</center>
@@ -257,88 +95,31 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">DEEPIKA NARYANI</h3>
-												<div class="staff__categories"><b>CONTENT WRITER</b>
+												<div class="staff__categories"><b>PRESIDENT<br>HEAD OF CONTENT WRITING</b>
 												</div>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_content
-										img-responsive" data-original="assets/img/team/jasdeep.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/mansimarkaur.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
-													<a id="myBtn28" class="btn btn-primary btn-effect">
+													<a id="myBtn33" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
 													</a>
 												</div>
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">JASDEEP SINGH</h3>
-												<div class="staff__categories"><b>DEPARTMENT MANAGER</b>
+												<h3 class="staff__title">MANSIMAR KAUR</h3>
+												<div class="staff__categories"><b>DIRECTOR<br>HEAD OF WEB DEVELOPMENT</b>
 												</div>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="lazy_content
-										img-responsive" data-original="assets/img/team/ksitij.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn7" class="btn btn-primary btn-effect" href="javascript:void(0);">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">KSHITIJ</h3>
-												<div class="staff__categories"><b>DEPARTMENT MANAGER</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="lazy_content
-										img-responsive" data-original="assets/img/team/isha.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn62" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">ISHA GUPTA</h3>
-												<div class="staff__categories"><b>CONTENT COLLECTOR</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/jaswin.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn16" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">JASWIN KAUR</h3>
-												<div class="staff__categories"><b>CONTENT COLLECTOR</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc contentw ">
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership contentc contentw ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/navdha.jpg" height="250" width="100%" alt="foto">
@@ -350,12 +131,268 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">NAVDHA</h3>
-												<div class="staff__categories"><b>CONTENT COLLECTOR/WRITER</b>
+												<div class="staff__categories"><b>HEAD OF CONTENT COLLECTION<br>CONTENT WRITER</b>
 												</div>
 											</div>
 										</div>
 									</div>
 								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership designer">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/ayushgarg.jpg" height="250" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn76" class="btn btn-primary btn-effect">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">AYUSH GARG </h3>
+												<div class="staff__categories"><b>HEAD OF GRAPHICS DESIGN<br> </br></b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+																			
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/apoorv.jpg" height="250" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn46" class="btn btn-primary btn-effect">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">APOORV GUPTA</h3>
+												<div class="staff__categories"><b>PRESIDENT(2016-17)<br>2013-2017<br>Sprinklr</b>
+													</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/shwetank.jpg" height="auto" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn21" class="btn btn-primary btn-effect">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">SHWETANK PANDEY</h3>
+												<div class="staff__categories"><b>VICE-PRESIDENT(2016-17)<br>2013-17<br>BCG</b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/aman.jpg" height="262" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn74" class="btn btn-primary btn-effect">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">AMAN MAHAJAN</h3>
+												<div class="staff__categories"><b>WEB TECHNICAL HEAD(2016-17)<br>2013-2017<br>Expedia</b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/subhkaran.jpg" height="250" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn26" class="btn btn-primary btn-effect">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">SHUBHKARAN SINGH</h3>
+												<div class="staff__categories"><b>CONTENT COLLECTION HEAD(2016-17)<br>2013-2017<br>Technical University of Munich
+</b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/gautamks.jpg" height="200" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn6" class="btn btn-primary btn-effect" href="javascript:void(0);">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">GAUTAM KUMAR SHARMA</h3>
+												<div class="staff__categories"><b>CONTENT WRITING HEAD(2016-17)<br>2013-2017<br>HSBC</b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/arpit.jpg" height="250" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn51" class="btn btn-primary btn-effect">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">ARPIT BAJAJ</h3>
+												<div class="staff__categories"><b>GRAPHICS HEAD(2016-17)<br>2013-2017<br>C-DOT</b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="lazy_alumni img-responsive" src="assets/img/team/jasdeep.jpg" height="250" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn28" class="btn btn-primary btn-effect">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">JASDEEP SINGH</h3>
+												<div class="staff__categories"><b>2013-2017<br>XLRI Jamshedpur<br> </br></b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/mayank.jpg" height="262px" width="262px" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn10" class="btn btn-primary btn-effect" href="javascript:void(0);">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">MAYANK BADOLA</h3>
+												<div class="staff__categories"><b>2013-2017<br>Expedia<br> </br></b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/ayushg.jpg" height="250" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn2" class="btn btn-primary btn-effect">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">AYUSH GARG </h3>
+												<div class="staff__categories"><b>2013-2017<br>Amazon</b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/ksitij.jpg" height="250" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn7" class="btn btn-primary btn-effect" href="javascript:void(0);">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">KSHITIJ VATSA</h3>
+												<div class="staff__categories"><b>2013-2017<br>Tredence Analytics</b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alumni ">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="lazy_alumni  img-responsive" data-original="assets/img/team/abhisar.jpg" height="250" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn41" class="btn btn-primary btn-effect">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">ABHISAR GARG</h3>
+												<div class="staff__categories"><b>2013-2017<br>McKinsey></b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/isha.jpg" height="250" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn62" class="btn btn-primary btn-effect">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">ISHA GUPTA</h3>
+												<div class="staff__categories"><b>2013-2017<br>Deloitte</b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/jaswin.jpg" height="250" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn16" class="btn btn-primary btn-effect">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">JASWIN KAUR</h3>
+												<div class="staff__categories"><b>2013-2017<br>Newgen</b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
@@ -395,7 +432,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc contentw ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/aditi.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_content img-responsive" src="assets/img/team/aditi.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn66" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -482,24 +519,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/mayank.jpg" height="262px" width="262px" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn10" class="btn btn-primary btn-effect" href="javascript:void(0);">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">MAYANK BADOLA</h3>
-												<div class="staff__categories"><b>WEB DEVELOPER</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
+								
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
@@ -518,24 +538,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/mansimarkaur.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn33" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">MANSIMAR KAUR</h3>
-												<div class="staff__categories"><b>WEB DEVELOPER</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
+								
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
@@ -775,7 +778,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc contentw ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/kanika.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_cw img-responsive" src="assets/img/team/kanika.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn29" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -1186,7 +1189,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/apoorv.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Apoorv Gupta </h2> </div>
 									<div class="modal-body">
-										<p><b> PRESIDENT</b>
+										<p><b> 2013-2017</b>
 										</p>
 										<p><b>Hakuna Matata</b> </p>
 									</div>
@@ -1233,7 +1236,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/shwetank.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Shwetank Pandey </h2> </div>
 									<div class="modal-body">
-										<p><b> VICE PRESIDENT</b>
+										<p><b> 2013-2017</b>
 										</p>
 										<p>I'm currently pursuing my undergraduate degree in Information Technology from NSIT. In my fourth year now, CollegeSpace has been deeply integral to my personal & professional growth, also teaching me how to work better in a team. I'm also an avid drummer, a keen footballer & an ardent Liverpool FC fan! </p>
 									</div>
@@ -1280,7 +1283,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/aman.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Aman Mahajan </h2> </div>
 									<div class="modal-body">
-										<p><b> WEB TECHNICAL HEAD </b>
+										<p><b> 2013-2017 </b>
 										</p>
 										<p> I am very lazy that is why I like to write scripts that automate my work ! I am always keen to build a product that benefits people. Apart from that I am a cricket lover and a raw player.</p>
 									</div>
@@ -1330,7 +1333,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/subhkaran.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Shubhkaran Singh </h2> </div>
 									<div class="modal-body">
-										<p><b> CONTENT MANAGING DIRECTOR </b>
+										<p><b>2013-2017 </b>
 										</p>
 										<p> I am very passionate about football, loves food and cooking. </p>
 									</div>
@@ -1371,7 +1374,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/gautamks.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Gautam Kumar Sharma </h2> </div>
 									<div class="modal-body">
-										<p><b> EDITOR-IN-CHIEF </b>
+										<p><b>2013-2017 </b>
 										</p>
 										<p> A voracious reader who seldom wanders around lost in the ramblings of his thoughts. </p>
 									</div>
@@ -1412,7 +1415,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/arpit.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Arpit Bajaj </h2> </div>
 									<div class="modal-body">
-										<p><b> GRAPHICS HEAD </b>
+										<p><b>2013-2017</b>
 										</p>
 										<p> Passionate about being passionate! </p>
 									</div>
@@ -1456,7 +1459,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/abhisar.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Abhisar Garg </h2> </div>
 									<div class="modal-body">
-										<p><b> SENIOR EDITOR </b>
+										<p><b> 2013-2017 </b>
 										</p>
 										<p> Fourth year IT, love reading and poetry. </p>
 									</div>
@@ -1495,7 +1498,7 @@
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 2">×</span>
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/ayushg.jpg" height="100" width="100" alt="foto" align="middle">
-										<h2> Ayush Garg </h2> </div>
+										<h2> 2013-2017 </h2> </div>
 									<div class="modal-body">
 										<p><b>SENIOR EDITOR</b>
 										</p>
@@ -1534,7 +1537,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/ayushgarg.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Ayush Garg </h2> </div>
 									<div class="modal-body">
-										<p><b>GRAPHICS DESIGNER</b>
+										<p><b>HEAD OF GRAPHIC DESIGN</b>
 										</p>
 										<p>Coding enthusiast and designer who loves music </p>
 									</div>
@@ -1578,7 +1581,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/deepika.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Deepika Naryani </h2> </div>
 									<div class="modal-body">
-										<p><b>CONTENT WRITER</b>
+										<p><b>PRESIDENT/HEAD OF CONTENT WRITING</b>
 										</p>
 										<p> I'm all about the poems I write, the sports I engage myself in, the music I play, and yeah, food. </p>
 									</div>
@@ -1625,7 +1628,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/jasdeep.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Jasdeep Singh </h2> </div>
 									<div class="modal-body">
-										<p><b> DEPARTMENT MANAGER </b>
+										<p><b> 2013-2017 </b>
 										</p>
 										<p> Passionate sports fanatic (read cricket), a foodie who only orders all the bizarre things on the menu. Fun loving, indefatigable and always happy to help! :) </p>
 									</div>
@@ -1666,7 +1669,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/ksitij.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Kshitij </h2> </div>
 									<div class="modal-body">
-										<p><b> DEPARTMENT MANAGER </b>
+										<p><b> 2013-2017 </b>
 										</p>
 										<p> Hey!You have got an ICE Senior on this side . Have been working at CollegeSpace since my 2nd year. Ask me questions you want. And yes, 'placement ho jayegi' :p!</p>
 									</div>
@@ -1707,7 +1710,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/isha.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Isha Gupta </h2> </div>
 									<div class="modal-body">
-										<p><b> CONTENT COLLECTOR </b>
+										<p><b> 2013-2017 </b>
 										</p>
 										<p> foodiee || amiable || keen learner || spirited || clinomaniac </p>
 									</div>
@@ -1751,7 +1754,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/jaswin.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Jaswin Kaur </h2> </div>
 									<div class="modal-body">
-										<p><b> CONTENT COLLECTOR </b>
+										<p><b> 2013-2017 COLLECTOR </b>
 										</p>
 										<p> Calm,patient,friendly and always passionate about my work!! </p>
 									</div>
@@ -1795,7 +1798,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/navdha.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Navdha </h2> </div>
 									<div class="modal-body">
-										<p><b> CONTENT COLLECTOR, CONTENT WRITER </b>
+										<p><b> HEAD OF CONTENT COLLECTION </b>
 										</p>
 										<p> Who am I? That's a secret! :P </p>
 									</div>
@@ -2161,7 +2164,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/mayank.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Mayank Badola </h2> </div>
 									<div class="modal-body">
-										<p><b> WEB DEVELOPER </b>
+										<p><b> 2013-2017 </b>
 										</p>
 										<p> Currently involved with various technologies and frameworks, ping me if you like software development. Maybe we'll make an amazing team. What say? </p>
 									</div>
@@ -2208,7 +2211,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/ap.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Aman Priyadarshi </h2> </div>
 									<div class="modal-body">
-										<p><b> WEB DEVELOPER </b>
+										<p><b> 2013-2017 </b>
 										</p>
 										<p> still finding out ;) </p>
 									</div>
@@ -2255,7 +2258,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/mansimarkaur.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Mansimar Kaur </h2> </div>
 									<div class="modal-body">
-										<p><b> WEB DEVELOPER </b>
+										<p><b> DIRECTOR/HEAD OF WEB DEVELOPMENT </b>
 										</p>
 										<p> Massive foodie. </p>
 									</div>
