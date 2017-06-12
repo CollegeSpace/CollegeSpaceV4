@@ -48,7 +48,7 @@
 								</li>
 							</ul>
 							<div class=" portfolio-items" style="z-index:1;">
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership">
+								<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership"> 
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive " src="assets/img/team/sahil.jpg" height="250" width="100%" alt="foto">
@@ -66,7 +66,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership  ">
+								<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership  ">
 									<div class="staff">
 										<div class="staff__media"><img class="img-responsive" src="assets/img/team/tushar.jpg" height="auto" width="100%" alt="foto">
 											<div class="staff__hover">
@@ -83,7 +83,7 @@
 									</div>
 								</div>
 								
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership contentw">
+								<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership contentw">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/deepika.jpg" height="250" width="100%" alt="foto">
@@ -101,7 +101,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership webd ">
+								<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/mansimarkaur.jpg" height="250" width="100%" alt="foto">
@@ -119,7 +119,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership contentc contentw ">
+								<div class="col-xs-6 portfolio-item leadership contentc  ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/navdha.jpg" height="250" width="100%" alt="foto">
@@ -131,13 +131,13 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">NAVDHA</h3>
-												<div class="staff__categories"><b>HEAD OF CONTENT COLLECTION<br>CONTENT WRITER</b>
+												<div class="staff__categories"><b>HEAD OF CONTENT COLLECTION</b>
 												</div>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item leadership designer">
+								<div class="col-xs-6 portfolio-item leadership designer ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/ayushgarg.jpg" height="250" width="100%" alt="foto">
@@ -168,7 +168,7 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">APOORV GUPTA</h3>
-												<div class="staff__categories"><b>PRESIDENT(2016-17)<br>2013-2017<br>Sprinklr</b>
+												<div class="staff__categories"><b>PRESIDENT (2016-17)<br>2013-2017<br>Sprinklr</b>
 													</a>
 												</div>
 											</div>
@@ -187,7 +187,7 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">SHWETANK PANDEY</h3>
-												<div class="staff__categories"><b>VICE-PRESIDENT(2016-17)<br>2013-17<br>BCG</b>
+												<div class="staff__categories"><b>VICE-PRESIDENT (2016-17)<br>2013-17<br>BCG</b>
 												</div>
 											</div>
 										</div>
@@ -205,7 +205,7 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">AMAN MAHAJAN</h3>
-												<div class="staff__categories"><b>WEB TECHNICAL HEAD(2016-17)<br>2013-2017<br>Expedia</b>
+												<div class="staff__categories"><b>WEB TECHNICAL HEAD (2016-17)<br>2013-2017<br>Expedia</b>
 												</div>
 											</div>
 										</div>
@@ -223,7 +223,7 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">SHUBHKARAN SINGH</h3>
-												<div class="staff__categories"><b>CONTENT COLLECTION HEAD(2016-17)<br>2013-2017<br>Technical University of Munich
+												<div class="staff__categories"><b>CONTENT COLLECTION HEAD (2016-17)<br>2013-2017<br>Technical University of Munich
 </b>
 												</div>
 											</div>
@@ -242,7 +242,7 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">GAUTAM KUMAR SHARMA</h3>
-												<div class="staff__categories"><b>CONTENT WRITING HEAD(2016-17)<br>2013-2017<br>HSBC</b>
+												<div class="staff__categories"><b>CONTENT WRITING HEAD (2016-17)<br>2013-2017<br>HSBC</b>
 												</div>
 											</div>
 										</div>
@@ -260,7 +260,7 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">ARPIT BAJAJ</h3>
-												<div class="staff__categories"><b>GRAPHICS HEAD(2016-17)<br>2013-2017<br>C-DOT</b>
+												<div class="staff__categories"><b>GRAPHICS HEAD (2016-17)<br>2013-2017<br>C-DOT</b>
 												</div>
 											</div>
 										</div>
@@ -338,7 +338,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alumni ">
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_alumni  img-responsive" data-original="assets/img/team/abhisar.jpg" height="250" width="100%" alt="foto">
@@ -350,7 +350,7 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">ABHISAR GARG</h3>
-												<div class="staff__categories"><b>2013-2017<br>McKinsey></b>
+												<div class="staff__categories"><b>2013-2017<br>McKinsey</b>
 												</div>
 											</div>
 										</div>
