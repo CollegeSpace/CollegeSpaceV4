@@ -119,7 +119,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-6 portfolio-item leadership contentc  ">
+								<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership contentc  ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/navdha.jpg" height="250" width="100%" alt="foto">
@@ -137,7 +137,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-6 portfolio-item leadership designer ">
+								<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership designer ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/ayushgarg.jpg" height="250" width="100%" alt="foto">
