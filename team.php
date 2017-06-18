@@ -392,25 +392,6 @@
 										</div>
 									</div>
 								</div>
-								
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/harshv.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn17" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">HARSH VARDHAN</h3>
-												<div class="staff__categories"><b>CONTENT COLLECTOR</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
@@ -423,43 +404,7 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">PRABHA PANT</h3>
-												<div class="staff__categories"><b>CONTENT COLLECTOR</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc contentw ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" src="assets/img/team/aditi.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn66" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">ADITI SHARMA</h3>
-												<div class="staff__categories"><b>CONTENT COLLECTOR/WRITER</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/mohit.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn45" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">MOHIT SINGH</h3>
-												<div class="staff__categories"><b>CONTENT COLLECTOR</b>
+												<div class="staff__categories"><b>DEPARTMENT MANAGER</b>
 												</div>
 											</div>
 										</div>
@@ -477,12 +422,31 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">ARKO GUPTA</h3>
-												<div class="staff__categories"><b>CONTENT COLLECTOR</b>
+												<div class="staff__categories"><b>DEPARTMENT MANAGER</b>
 												</div>
 											</div>
 										</div>
 									</div>
 								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/harshv.jpg" height="250" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn17" class="btn btn-primary btn-effect">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">HARSH VARDHAN</h3>
+												<div class="staff__categories"><b>DEPARTMENT MANAGER</b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+																																
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
@@ -523,25 +487,6 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/ap.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn27" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">AMAN PRIYADARSHI</h3>
-												<div class="staff__categories"><b>WEB DEVELOPER</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
 											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/prerna.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn23" class="btn btn-primary btn-effect">
@@ -551,13 +496,13 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">PRERNA KAKKAR</h3>
-												<div class="staff__categories"><b>WEB DEVELOPER</b>
+												<div class="staff__categories"><b>DEPARTMENT MANAGER<br> </br></b>
 												</div>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
+                                <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/anshul.jpg" height="250" width="100%" alt="foto">
@@ -569,7 +514,25 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">ANSHUL KHANNA</h3>
-												<div class="staff__categories"><b>WEB DEVELOPER</b>
+												<div class="staff__categories"><b>WEB DEVELOPER<br> </br></b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/jeevesh.jpg" height="250" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn37" class="btn btn-primary btn-effect">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">JEEVESH NARANG</h3>
+												<div class="staff__categories"><b>WEB DEVELOPER<br> </br></b>
 												</div>
 											</div>
 										</div>
@@ -593,25 +556,27 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
+
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="lazy_cw img-responsive" data-original="assets/img/team/tarasha.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/ap.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
-													<a id="myBtn11" class="btn btn-primary btn-effect" href="javascript:void(0);">
+													<a id="myBtn27" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
 													</a>
 												</div>
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">TARASHA KHURANA</h3>
-												<div class="staff__categories"><b>CONTENT WRITER</b>
-													</a>
+												<h3 class="staff__title">AMAN PRIYADARSHI</h3>
+												<div class="staff__categories"><b>WEB DEVELOPER</b>
 												</div>
 											</div>
 										</div>
 									</div>
 								</div>
+												
+															
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
@@ -775,24 +740,6 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc contentw ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="lazy_cw img-responsive" src="assets/img/team/kanika.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn29" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">KANIKA MODI</h3>
-												<div class="staff__categories"><b>CONTENT COLLECTOR/WRITER</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
@@ -805,13 +752,31 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">SHUBHAANGI BISHT</h3>
-												<div class="staff__categories"><b>CONTENT WRITER</b>
+												<div class="staff__categories"><b>SENIOR EDITOR<br> </br></b>
 												</div>
 											</div>
 										</div>
 									</div>
 								</div>
-								
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
+									<div class="portfolio-wrapper">
+										<div class="staff">
+											<div class="staff__media"><img class="lazy_cw img-responsive" src="assets/img/team/kanika.jpg" height="250" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn29" class="btn btn-primary btn-effect">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">KANIKA MODI</h3>
+												<div class="staff__categories"><b>SENIOR EDITOR<br> </br></b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+																
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentw ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
@@ -824,30 +789,13 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">SHUBHAM ROY</h3>
-												<div class="staff__categories"><b>CONTENT WRITER</b>
+												<div class="staff__categories"><b>CONTENT WRITER<br> </br></b>
 												</div>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/jeevesh.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn37" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">JEEVESH NARANG</h3>
-												<div class="staff__categories"><b>WEB DEVELOPER</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
+								
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide designer ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
@@ -933,8 +881,7 @@
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">SAHIL DUA</h3>
 												<div class="staff__categories">
-													<p><b>2012-2016<br>
-					   Booking.com </b>
+													<p><b>2012-2016<br>Booking.com </b>
 													</p>
 												</div>
 											</div>
@@ -1754,7 +1701,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/jaswin.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Jaswin Kaur </h2> </div>
 									<div class="modal-body">
-										<p><b> 2013-2017 COLLECTOR </b>
+										<p><b> 2013-2017</b>
 										</p>
 										<p> Calm,patient,friendly and always passionate about my work!! </p>
 									</div>
@@ -1848,7 +1795,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/harshv.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Harsh Vardhan </h2> </div>
 									<div class="modal-body">
-										<p><b> CONTENT COLLECTOR </b>
+										<p><b> DEPARTMENT MANAGER </b>
 										</p>
 										<p> Professions, Jobs and education are necessary to sustain life. 'But poetry, beauty, romance, love, these are what we stay alive for.' Along with food, football, writing and travelling. </p>
 									</div>
@@ -1888,7 +1835,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/prabha.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Prabha Pant </h2> </div>
 									<div class="modal-body">
-										<p><b> CONTENT COLLECTOR </b>
+										<p><b> DEPARTMENT MANAGER </b>
 										</p>
 										<p> I'm a modest, cheerful and optimistic person, love travelling and music. </p>
 									</div>
@@ -1931,106 +1878,8 @@
 									}
 								}
 							</script>
-							<div id="myModal66" class="modal" style="z-index:100;">
-								<!-- Modal content -->
-								<div class="modal-content">
-									<div class="modal-header"> <span class="close 66">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/aditi.jpg" height="100" width="100" alt="foto" align="middle">
-										<h2> Aditi Sharma </h2> </div>
-									<div class="modal-body">
-										<p><b> CONTENT COLLECTOR/WRITER </b>
-										</p>
-										<p> A creative, enthusiastic and optimistic person who believes in living life to the FULLest. A budding android developer and coder, she also takes interest in reading and writing. Always up for learning new things,she can be better described as an opportunist. She also likes to travel and meet new people. </p>
-									</div>
-									<div class="modal-footer">
-										<ul class="social-links list-unstyled">
-											<li>
-												<a class="icon fa fa-facebook" href=" https://www.facebook.com/profile.php?id=100002345234664 "></a>
-											</li>
-											<li>
-												<a class="icon fa fa-twitter" href=" https://twitter.com/aditi369sharma_ "></a>
-											</li>
-											<li>
-												<a class="icon fa fa-google-plus" href=" https://plus.google.com/u/0/111376973777297532353 "></a>
-											</li>
-											<li>
-												<a class="icon fa fa-linkedin" href=" https://in.linkedin.com/in/aditi-sharma-6bb584102 "></a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<script>
-								var modal66 = document.getElementById('myModal66');
-								// Get the button that opens the modal
-								var btn66 = document.getElementById("myBtn66");
-								// Get the element that closes the modal
-								var span66 = document.getElementsByClassName("66")[0];
-								// When the user clicks the button, open the modal
-								btn66.onclick = function() {
-										modal66.style.display = "block";
-									}
-									// closing the modal
-								span66.onclick = function() {
-										modal66.style.display = "none";
-									}
-									// When the user clicks anywhere outside of the modal, close it
-								window.onclick = function(event) {
-									if (event.target == modal66) {
-										modal66.style.display = "none";
-									}
-								}
-							</script>
-							<div id="myModal45" class="modal" style="z-index:100;">
-								<!-- Modal content -->
-								<div class="modal-content">
-									<div class="modal-header"> <span class="close 45">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/mohit.jpg" height="100" width="100" alt="foto" align="middle">
-										<h2> MOHIT SINGH </h2> </div>
-									<div class="modal-body">
-										<p><b> CONTENT COLLECTOR </b>
-										</p>
-										<p> A positive guy who wants to create good memories and truly believes "Everything happens in our life for a reason and Time has a great way of showing us what really matters in our life" </p>
-									</div>
-									<div class="modal-footer">
-										<ul class="social-links list-unstyled">
-											<li>
-												<a class="icon fa fa-facebook" href=" https://www.facebook.com/profile.php?id=100004691267371 "></a>
-											</li>
-											<li>
-												<a class="icon fa fa-twitter" href=" https://twitter.com/Mohit_singh27 "></a>
-											</li>
-											<li>
-												<a class="icon fa fa-google-plus" href=" https://plus.google.com/109516313167629254542 "></a>
-											</li>
-											<li>
-												<a class="icon fa fa-linkedin" href=" https://www.linkedin.com/in/mohit-singh-a8aaa9aa?trk=nav_responsive_tab_profile "></a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<script>
-								var modal45 = document.getElementById('myModal45');
-								// Get the button that opens the modal
-								var btn45 = document.getElementById("myBtn45");
-								// Get the element that closes the modal
-								var span45 = document.getElementsByClassName("45")[0];
-								// When the user clicks the button, open the modal
-								btn45.onclick = function() {
-										modal45.style.display = "block";
-									}
-									// closing the modal
-								span45.onclick = function() {
-										modal45.style.display = "none";
-									}
-									// When the user clicks anywhere outside of the modal, close it
-								window.onclick = function(event) {
-									if (event.target == modal45) {
-										modal45.style.display = "none";
-									}
-								}
-							</script>
+							
+							
 							<div id="myModal8" class="modal" style="z-index:100;">
 								<!-- Modal content -->
 								<div class="modal-content">
@@ -2038,7 +1887,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/arko.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Arko Gupta </h2> </div>
 									<div class="modal-body">
-										<p><b> CONTENT COLLECTOR </b>
+										<p><b> DEPARTMENT MANAGER </b>
 										</p>
 										<p>Loves reading , quizzing and programming. A football aficionado and an Arsenal fan. Being realistic is the most commonly travelled path to mediocrity. Don't be realistic.Don't be mediocre. Dream big!</p>
 									</div>
@@ -2211,7 +2060,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/ap.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Aman Priyadarshi </h2> </div>
 									<div class="modal-body">
-										<p><b> 2013-2017 </b>
+										<p><b> WEB DEVELOPER </b>
 										</p>
 										<p> still finding out ;) </p>
 									</div>
@@ -2299,7 +2148,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/prerna.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Prerna Kakkar </h2> </div>
 									<div class="modal-body">
-										<p><b> WEB DEVELOPER </b>
+										<p><b> DEPARTMENT MANAGER </b>
 										</p>
 										<p> I am a happy go lucky person who can go on talking and talking unless someone asks me to stop:p I am a dancer,programming enthusiast ,web developer and singer(I guess).I believe the best is yet to unfold! </p>
 									</div>
@@ -2421,50 +2270,7 @@
 									}
 								}
 							</script>
-							<div id="myModal11" class="modal" style="z-index:100;">
-								<!-- Modal content -->
-								<div class="modal-content">
-									<div class="modal-header"> <span class="close 11">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/tarasha.jpg" height="100" width="100" alt="foto" align="middle">
-										<h2> Tarasha Khurana </h2> </div>
-									<div class="modal-body">
-										<p><b> CONTENT WRITER </b>
-										</p>
-										<p> Living midst an infinity of weird fetishes and short-lived passions in a bundle of inconsiderate dreams.</p>
-									</div>
-									<div class="modal-footer">
-										<ul class="social-links list-unstyled">
-											<li>
-												<a class="icon fa fa-facebook" href=" https://www.facebook.com/tarasha.khurana "></a>
-											</li>
-											<li>
-												<a class="icon fa fa-linkedin" href=" https://in.linkedin.com/in/tarasha-khurana-9661a887 "></a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<script>
-								var modal11 = document.getElementById('myModal11');
-								// Get the button that opens the modal
-								var btn11 = document.getElementById("myBtn11");
-								// Get the element that closes the modal
-								var span11 = document.getElementsByClassName("11")[0];
-								// When the user clicks the button, open the modal
-								btn11.onclick = function() {
-										modal11.style.display = "block";
-									}
-									// closing the modal
-								span11.onclick = function() {
-										modal11.style.display = "none";
-									}
-									// When the user clicks anywhere outside of the modal, close it
-								window.onclick = function(event) {
-									if (event.target == modal11) {
-										modal11.style.display = "none";
-									}
-								}
-							</script>
+							
 							<div id="myModal49" class="modal" style="z-index:100;">
 								<!-- Modal content -->
 								<div class="modal-content">
@@ -2870,7 +2676,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/shubhangi.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Shubaangi Bisht </h2> </div>
 									<div class="modal-body">
-										<p><b> CONTENT WRITER </b>
+										<p><b> SENIOR EDITOR </b>
 										</p>
 										<p> Transcending this journey with confidence and optimism. </p>
 									</div>
@@ -3002,7 +2808,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/kanika.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Kanika Modi </h2> </div>
 									<div class="modal-body">
-										<p><b> CONTENT COLLECTOR/CONTENT WRITER </b>
+										<p><b> SENIOR EDITOR </b>
 										</p>
 										<p> Every story I create, creates me. I write to create myself. </p>
 									</div>
