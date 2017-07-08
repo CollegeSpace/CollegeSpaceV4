@@ -523,6 +523,24 @@
 								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
+											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/aastha.jpg" height="250" width="100%" alt="foto">
+												<div class="staff__hover">
+													<a id="myBtn49" class="btn btn-primary btn-effect">
+														<center>VIEW PROFILE</center>
+													</a>
+												</div>
+											</div>
+											<div class="staff__inner staff__inner_mod-a">
+												<h3 class="staff__title">AASTHA</h3>
+												<div class="staff__categories"><b>WEB DEVELOPER</b>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
+									<div class="portfolio-wrapper">
+										<div class="staff">
 											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/jeevesh.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn37" class="btn btn-primary btn-effect">
@@ -550,45 +568,6 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">JYOTI</h3>
-												<div class="staff__categories"><b>WEB DEVELOPER</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/ap.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn27" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">AMAN PRIYADARSHI</h3>
-												<div class="staff__categories"><b>WEB DEVELOPER</b>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-												
-															
-								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
-									<div class="portfolio-wrapper">
-										<div class="staff">
-											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/aastha.jpg" height="250" width="100%" alt="foto">
-												<div class="staff__hover">
-													<a id="myBtn49" class="btn btn-primary btn-effect">
-														<center>VIEW PROFILE</center>
-													</a>
-												</div>
-											</div>
-											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">AASTHA</h3>
 												<div class="staff__categories"><b>WEB DEVELOPER</b>
 												</div>
 											</div>
@@ -2050,53 +2029,6 @@
 								window.onclick = function(event) {
 									if (event.target == modal10) {
 										modal10.style.display = "none";
-									}
-								}
-							</script>
-							<div id="myModal27" class="modal" style="z-index:100;">
-								<!-- Modal content -->
-								<div class="modal-content">
-									<div class="modal-header"> <span class="close 27">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/ap.jpg" height="100" width="100" alt="foto" align="middle">
-										<h2> Aman Priyadarshi </h2> </div>
-									<div class="modal-body">
-										<p><b> WEB DEVELOPER </b>
-										</p>
-										<p> still finding out ;) </p>
-									</div>
-									<div class="modal-footer">
-										<ul class="social-links list-unstyled">
-											<li>
-												<a class="icon fa fa-facebook" href=" https://www.facebook.com/aman.eureka "></a>
-											</li>
-											<li>
-												<a class="icon fa fa-twitter" href=" https://twitter.com/amaneureka "></a>
-											</li>
-											<li>
-												<a class="icon fa fa-linkedin" href=" https://www.linkedin.com/in/amaneureka "></a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<script>
-								var modal27 = document.getElementById('myModal27');
-								// Get the button that opens the modal
-								var btn27 = document.getElementById("myBtn27");
-								// Get the element that closes the modal
-								var span27 = document.getElementsByClassName("27")[0];
-								// When the user clicks the button, open the modal
-								btn27.onclick = function() {
-										modal27.style.display = "block";
-									}
-									// closing the modal
-								span27.onclick = function() {
-										modal27.style.display = "none";
-									}
-									// When the user clicks anywhere outside of the modal, close it
-								window.onclick = function(event) {
-									if (event.target == modal27) {
-										modal27.style.display = "none";
 									}
 								}
 							</script>
